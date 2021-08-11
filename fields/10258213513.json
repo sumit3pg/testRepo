@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleOfficeMailingCityName field",
+  "systemName": "SaleOfficeMailingCityName_ADDR_DN_CITY_NAME",
+  "displayName": "SYS_SAGOCAVW1_ADDRESS_TYPES_MAIL",
+  "shortName": null,
+  "standardName": null,
+  "id": 10258213513,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

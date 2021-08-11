@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWADocuments field",
+  "systemName": "CWADocuments_QMO_DOCUMENTS",
+  "displayName": "CWA_LIS_QMO_DOCUMENTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004342,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001944,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

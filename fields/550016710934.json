@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAgentKey field",
+  "systemName": "MIREXAgentKey_AgentKey",
+  "displayName": "MIREXAgentKey",
+  "shortName": null,
+  "standardName": "MemberKey",
+  "id": 550016710934,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

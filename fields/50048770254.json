@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ElectricServiceInformation field",
+  "systemName": "ElectricServiceInformation_QSS_ELECTRIC_SERVICE_INFO",
+  "displayName": "LIS_LIS_QSS_ELECTRIC_SERVICE_INF",
+  "shortName": null,
+  "standardName": null,
+  "id": 50048770254,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXApplicationFee field",
+  "systemName": "MIREXApplicationFee_ApplicationFee",
+  "displayName": "MIREXApplicationFee",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016874120,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

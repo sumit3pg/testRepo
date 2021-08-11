@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ContractStatusChangeDate field",
+  "systemName": "ContractStatusChangeDate_QSD_CONT_STATUS_CHANGE_DATE",
+  "displayName": "LIS_LIS_QSD_CONT_STATUS_CHANGE_D",
+  "shortName": null,
+  "standardName": "ContractStatusChangeDate",
+  "id": 85040087454,
+  "availableFlag": 1,
+  "dataTypeId": 10000081635,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

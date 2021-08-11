@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxMailCity field",
+  "systemName": "TaxMailCity_ADDR_CTY_ID",
+  "displayName": "PUB_OCAVW_ADDRESS_TYPES_SHIPPING",
+  "shortName": null,
+  "standardName": "TaxMailCity",
+  "id": 10000122412,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

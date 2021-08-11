@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOpenHouseSourceBusinessPartner field",
+  "systemName": "CWAOpenHouseSourceBusinessPartner_QSO_SOURCE_BUSINESS_PARTNER",
+  "displayName": "CWA_UOHVW_QSO_SOURCE_BUSINESS_PARTNER",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024742,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228477,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

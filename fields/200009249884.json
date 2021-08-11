@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAWaterFrontage field",
+  "systemName": "CWAWaterFrontage_QSL_WATER_FRONTAGE",
+  "displayName": "CWA_LIS_QSL_WATER_FRONTAGE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200009249884,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

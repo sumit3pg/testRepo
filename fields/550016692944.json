@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeMailingCityName field",
+  "systemName": "WIREXOfficeMailingCityName_OfficeMailingCityName",
+  "displayName": "WIREXOfficeMailingCityName",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016692944,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

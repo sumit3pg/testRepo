@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAElementarySchool field",
+  "systemName": "CWAElementarySchool_SCH_NAME",
+  "displayName": "CWA_LSVW_SCHOOL_TYPES_ELEMENTARY_SCH_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004266,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

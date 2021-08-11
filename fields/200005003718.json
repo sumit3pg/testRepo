@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACloseDate field",
+  "systemName": "CWACloseDate_TRANS_CLOSE_DATE",
+  "displayName": "CWA_LIS_TRANS_CLOSE_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003718,
+  "availableFlag": 1,
+  "dataTypeId": 50000010009,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

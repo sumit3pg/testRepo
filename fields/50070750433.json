@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PublicRoadFlag field",
+  "systemName": "PublicRoadFlag_QSFLG_PUBLIC_ROAD",
+  "displayName": "LIS_LIS_QSFLG_PUBLIC_ROAD",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070750433,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

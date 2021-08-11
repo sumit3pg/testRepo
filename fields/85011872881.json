@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotSizeUnits field",
+  "systemName": "LotSizeUnits_QSO_LOT_SIZE_UNITS",
+  "displayName": "LIS_LIS_QSO_LOT_SIZE_UNITS",
+  "shortName": null,
+  "standardName": "LotSizeUnits",
+  "id": 85011872881,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

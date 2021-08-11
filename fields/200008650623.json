@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUpperFloor5HalfBaths field",
+  "systemName": "CWAUpperFloor5HalfBaths_BATHS_HALF",
+  "displayName": "CWA_STORY_STORY_TYPES_UPPER_5_1_BATHS_HALF",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008650623,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AcresPasture field",
+  "systemName": "AcresPasture_QSF_PASTURE_ACRES",
+  "displayName": "LIS_LIS_QSF_PASTURE_ACRES",
+  "shortName": null,
+  "standardName": "PastureArea",
+  "id": 10000117220,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SellerSubsidy field",
+  "systemName": "SellerSubsidy_TRANS_SELLER_SUBSIDY",
+  "displayName": "LIS_LIS_TRANS_SELLER_SUBSIDY",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117309,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleOfficeName field",
+  "systemName": "AltSaleOfficeName_PTY_NICK_NAME",
+  "displayName": "SYS_SAGORG2_PTY_NICK_NAME",
+  "shortName": null,
+  "standardName": "CoBuyerOfficeName",
+  "id": 50040706951,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

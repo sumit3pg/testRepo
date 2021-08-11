@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentFullStreetAddress field",
+  "systemName": "BRIGHTAgentFullStreetAddress_MemberAddress1",
+  "displayName": "BRIGHTAgentFullStreetAddress",
+  "shortName": null,
+  "standardName": "MemberAddress1",
+  "id": 200017263132,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

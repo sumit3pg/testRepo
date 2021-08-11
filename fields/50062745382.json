@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SemiAnnualTaxYear field",
+  "systemName": "SemiAnnualTaxYear_QSL_YEAR_REPORTED",
+  "displayName": "LIS_FIE_INCOME_EXPNS_TYPS_SM_NNL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062745382,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

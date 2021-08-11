@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTContractDate field",
+  "systemName": "BRIGHTContractDate_PurchaseContractDate",
+  "displayName": "BRIGHTContractDate",
+  "shortName": null,
+  "standardName": "PurchaseContractDate",
+  "id": 200017267842,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

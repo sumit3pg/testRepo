@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SpecificBuilderRequiredFlag field",
+  "systemName": "SpecificBuilderRequiredFlag_QSFLG_SPECIFIC_BUILDER_IS_REQ",
+  "displayName": "LIS_LIS_QSFLG_SPECIFIC_BUILDER_I",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765964,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

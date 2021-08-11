@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ClosePrice field",
+  "systemName": "ClosePrice_TRANS_CLOSE_LIST_PRICE",
+  "displayName": "LIS_LIS_TRANS_CLOSE_LIST_PRICE",
+  "shortName": null,
+  "standardName": "ClosePrice",
+  "id": 10000117305,
+  "availableFlag": 1,
+  "dataTypeId": 10000000146,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

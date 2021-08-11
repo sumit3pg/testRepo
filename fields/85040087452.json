@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a NumberOfUnitsVacant field",
+  "systemName": "NumberOfUnitsVacant_QSL_NUMBER_OF_UNITS_VACANT",
+  "displayName": "LIS_LIS_QSL_NUMBER_OF_UNITS_VACA",
+  "shortName": null,
+  "standardName": "NumberOfUnitsVacant",
+  "id": 85040087452,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

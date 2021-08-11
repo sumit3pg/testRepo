@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a City field",
+  "systemName": "City_CTY_ID",
+  "displayName": "LIS_ADDR_ADDRESS_TYPES_PROPERTY_",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000116646,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

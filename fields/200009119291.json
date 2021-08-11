@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a NumParkingGarageSpaces field",
+  "systemName": "NumParkingGarageSpaces_QSL_NUM_PARKING_GARAGE_SPACES",
+  "displayName": "LIS_LIS_QSL_NUM_PARKING_GARAGE_S",
+  "shortName": null,
+  "standardName": null,
+  "id": 200009119291,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

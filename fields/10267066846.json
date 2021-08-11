@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IncomeExpenseList field",
+  "systemName": "IncomeExpenseList_QMEO_FIE",
+  "displayName": "LIS_LIS_QMEO_FIE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10267066846,
+  "availableFlag": 1,
+  "dataTypeId": 10267066741,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000688,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

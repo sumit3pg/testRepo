@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentJobTitle field",
+  "systemName": "BRIGHTAgentJobTitle_JobTitle",
+  "displayName": "BRIGHTAgentJobTitle",
+  "shortName": null,
+  "standardName": "JobTitle",
+  "id": 200017263125,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeOfficePhoneExt field",
+  "systemName": "WIREXOfficeOfficePhoneExt_OfficeOfficePhoneExt",
+  "displayName": "WIREXOfficeOfficePhoneExt",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693196,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

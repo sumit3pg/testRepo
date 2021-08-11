@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABodyOfWaterType field",
+  "systemName": "CWABodyOfWaterType_QSO_BODY_OF_WATER_TYPE",
+  "displayName": "CWA_LIS_QSO_BODY_OF_WATER_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004138,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85033301816,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

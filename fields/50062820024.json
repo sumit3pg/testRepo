@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DockominiumAmenities field",
+  "systemName": "DockominiumAmenities_QMO_DOCKOMINIUM_AMENITIES",
+  "displayName": "LIS_LIS_QMO_DOCKOMINIUM_AMENITIE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820024,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50062745475,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit2AnnualRentPerSqFt field",
+  "systemName": "Unit2AnnualRentPerSqFt_RENT_AMOUNT_PER_SQFT",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_2_R",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038767021,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

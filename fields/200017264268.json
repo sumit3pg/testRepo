@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAuctionPreview1EndDate field",
+  "systemName": "BRIGHTAuctionPreview1EndDate_AuctionPreview1EndDate",
+  "displayName": "BRIGHTAuctionPreview1EndDate",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264268,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

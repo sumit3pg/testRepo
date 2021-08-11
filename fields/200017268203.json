@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSpecialTaxAssessmentPaymentFreq field",
+  "systemName": "BRIGHTSpecialTaxAssessmentPaymentFreq_SpecialTaxAssessmentPaymentFrequency",
+  "displayName": "BRIGHTSpecialTaxAssessmentPaymentFreq",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268203,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001056,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

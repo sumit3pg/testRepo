@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALISSchedulingSubmitEmail field",
+  "systemName": "CWALISSchedulingSubmitEmail_SCHEDULING_SUBMIT_EMAIL",
+  "displayName": "CWA_LIS_SCHEDULING_SUBMIT_EMAIL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005014035,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

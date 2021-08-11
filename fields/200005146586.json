@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAMiddleSchoolSource field",
+  "systemName": "CWAMiddleSchoolSource_QSO_SOURCE",
+  "displayName": "CWA_LSVW_SCHOOL_TYPES_MIDDLE_QSO_SOURCE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005146586,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200005146478,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

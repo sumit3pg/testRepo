@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAgentStreetNumber field",
+  "systemName": "MIREXAgentStreetNumber_AgentStreetNumber",
+  "displayName": "MIREXAgentStreetNumber",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016711216,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LowerFloor4Baths field",
+  "systemName": "LowerFloor4Baths_BATHS_FULL",
+  "displayName": "LIS_STORY_STORY_TYPES_LOWER_4_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008646033,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

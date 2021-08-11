@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTWaterAccessFlag field",
+  "systemName": "BRIGHTWaterAccessFlag_WaterAccessYN",
+  "displayName": "BRIGHTWaterAccessFlag",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268989,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentVoiceMailExt field",
+  "systemName": "AgentVoiceMailExt_CM_PHONE_EXTENSION",
+  "displayName": "SYS_PCPVW_PHONE_TYPES_VOICE_MAIL",
+  "shortName": null,
+  "standardName": "MemberVoiceMailExt",
+  "id": 10000073685,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CommunityManagement field",
+  "systemName": "CommunityManagement_QMO_HOA_CONDO_COOP_MGMT",
+  "displayName": "LIS_LIS_QMO_HOA_CONDO_COOP_MGMT",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117114,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002135,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysMediaItemNumber field",
+  "systemName": "SysMediaItemNumber_MED_ITEM_NUMBER",
+  "displayName": "SYS_MEDVW_MED_ITEM_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 10244780096,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a HighSchoolDistrict field",
+  "systemName": "HighSchoolDistrict_SCH_DISTRICT",
+  "displayName": "LIS_LSVW_SCHOOL_TYPES_HIGH_SCH_D",
+  "shortName": null,
+  "standardName": "HighSchoolDistrict",
+  "id": 85011872868,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000898007,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

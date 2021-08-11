@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentHomePhone field",
+  "systemName": "AltSaleAgentHomePhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_SAGPCPVW2_PHONE_TYPES_HOME_1",
+  "shortName": null,
+  "standardName": "CoBuyerAgentHomePhone",
+  "id": 85011870943,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

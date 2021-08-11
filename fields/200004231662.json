@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToBodyOfWaterNum field",
+  "systemName": "DistanceToBodyOfWaterNum_QSL_DISTANCE_TO_WATER_BODY",
+  "displayName": "LIS_LIS_QSL_DISTANCE_TO_WATER_BO",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004231662,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

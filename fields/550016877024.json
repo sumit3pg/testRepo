@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListOfficeSecondOfficePhone field",
+  "systemName": "MIREXListOfficeSecondOfficePhone_OfficeOfficePhone2",
+  "displayName": "MIREXListOfficeSecondOfficePhone",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016877024,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAppointmentPhone field",
+  "systemName": "BRIGHTAppointmentPhone_ShowingContactPhone",
+  "displayName": "BRIGHTAppointmentPhone",
+  "shortName": null,
+  "standardName": "ShowingContactPhone",
+  "id": 200017268089,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

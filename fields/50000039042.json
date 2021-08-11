@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaVendorIDType field",
+  "systemName": "PropMediaVendorIDType_PTY_IDT_ID",
+  "displayName": "SYS_MEDV_PTY_IDT_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000039042,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069199,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

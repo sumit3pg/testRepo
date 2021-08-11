@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a POIItemNumber field",
+  "systemName": "POIItemNumber_ITEM_NUMBER",
+  "displayName": "CFG_POI_ITEM_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004653422,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

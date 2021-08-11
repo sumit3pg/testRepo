@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FinishedExposedSqFt field",
+  "systemName": "FinishedExposedSqFt_AREA_FINISHED",
+  "displayName": "LIS_SI_SIZE_TYPES_EXPOSED_1_AREA",
+  "shortName": null,
+  "standardName": null,
+  "id": 50059603177,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

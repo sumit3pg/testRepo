@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1MonthlyTotalRent field",
+  "systemName": "Unit1MonthlyTotalRent_TOTAL_RENT_AMOUNT",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_1_T",
+  "shortName": null,
+  "standardName": "UnitType1TotalRent",
+  "id": 50070546767,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

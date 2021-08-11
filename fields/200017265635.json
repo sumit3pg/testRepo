@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAnnualElectricExpense field",
+  "systemName": "BRIGHTAnnualElectricExpense_ElectricExpense",
+  "displayName": "BRIGHTAnnualElectricExpense",
+  "shortName": null,
+  "standardName": "ElectricExpense",
+  "id": 200017265635,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

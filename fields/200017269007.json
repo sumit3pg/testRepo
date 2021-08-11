@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBodyOfWaterType field",
+  "systemName": "BRIGHTBodyOfWaterType_WaterBodyType",
+  "displayName": "BRIGHTBodyOfWaterType",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017269007,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85033301816,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

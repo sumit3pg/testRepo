@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAdvertisingRemarks field",
+  "systemName": "CWAAdvertisingRemarks_TEXT_ADVERTISING",
+  "displayName": "CWA_LIS_TEXT_ADVERTISING",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004340,
+  "availableFlag": 1,
+  "dataTypeId": 200004437398,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

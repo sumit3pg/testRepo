@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchoolKey field",
+  "systemName": "SchoolKey_SCH_ID",
+  "displayName": "LIS_SCH_SCH_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 10326609761,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

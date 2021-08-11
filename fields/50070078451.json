@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeSourceOfficeID field",
+  "systemName": "OfficeSourceOfficeID_PTY_SOURCE_IDENTIFIER",
+  "displayName": "SYS_ORG_PTY_SOURCE_IDENTIFIER",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070078451,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

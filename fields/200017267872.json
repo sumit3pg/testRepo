@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTRangeArea field",
+  "systemName": "BRIGHTRangeArea_RangeArea",
+  "displayName": "BRIGHTRangeArea",
+  "shortName": null,
+  "standardName": "RangeArea",
+  "id": 200017267872,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

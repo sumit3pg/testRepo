@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a HousingForOlderPersons field",
+  "systemName": "HousingForOlderPersons_QSFLG_HOUSING_FOR_OLDER_PERSNS",
+  "displayName": "LIS_LIS_QSFLG_HOUSING_FOR_OLDER_",
+  "shortName": null,
+  "standardName": "SeniorCommunityYN",
+  "id": 50000911868,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

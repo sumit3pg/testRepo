@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisListAgentLanguages field",
+  "systemName": "LisListAgentLanguages_QSO_LANGUAGES",
+  "displayName": "LIS_LAGPER1_QSO_LANGUAGES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040961942,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040961924,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

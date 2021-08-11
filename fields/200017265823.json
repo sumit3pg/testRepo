@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFireplace field",
+  "systemName": "BRIGHTFireplace_FireplaceYN",
+  "displayName": "BRIGHTFireplace",
+  "shortName": null,
+  "standardName": "FireplaceYN",
+  "id": 200017265823,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXOccupantDaysPosession field",
+  "systemName": "MIREXOccupantDaysPosession_DaysOfPossession",
+  "displayName": "MIREXOccupantDaysPosession",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875374,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

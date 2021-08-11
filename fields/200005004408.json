@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACapValueGroundRent field",
+  "systemName": "CWACapValueGroundRent_QSF_CAPITALIZED_VAL_GRND_RENT",
+  "displayName": "CWA_LIS_QSF_CAPITALIZED_VAL_GRND_RENT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004408,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

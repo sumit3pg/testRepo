@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SeatingCapacity field",
+  "systemName": "SeatingCapacity_QMO_SEATING_CAPACITY",
+  "displayName": "LIS_LIS_QMO_SEATING_CAPACITY",
+  "shortName": null,
+  "standardName": "SeatingCapacity",
+  "id": 50038765961,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639968,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

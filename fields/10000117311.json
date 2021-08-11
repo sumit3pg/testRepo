@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotSizeArea field",
+  "systemName": "LotSizeArea_LOT_AREA",
+  "displayName": "LIS_LIS_LOT_AREA",
+  "shortName": null,
+  "standardName": "LotSizeArea",
+  "id": 10000117311,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalOpenHouses field",
+  "systemName": "TotalOpenHouses_FC_ACTIVE_OPEN_HOUSE_COUNT",
+  "displayName": "TotalOpenHouses",
+  "shortName": null,
+  "standardName": null,
+  "id": 10316719955,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

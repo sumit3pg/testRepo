@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleAgentTeamName field",
+  "systemName": "CWASaleAgentTeamName_PTY_NAME",
+  "displayName": "SYS_CWSAGTM1_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016966318,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

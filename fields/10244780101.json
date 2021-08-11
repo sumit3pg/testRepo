@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysMediaFileName field",
+  "systemName": "SysMediaFileName_MED_FILE_NAME",
+  "displayName": "SYS_MEDVW_MED_FILE_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 10244780101,
+  "availableFlag": 1,
+  "dataTypeId": 10000000129,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropRel2Phone field",
+  "systemName": "MIREXPropRel2Phone_LBAllOtherSvcInquiryContactPh",
+  "displayName": "MIREXPropRel2Phone",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016876352,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAProspectsExcluded field",
+  "systemName": "CWAProspectsExcluded_QSFLG_PROSPECTS_EXCLUDED",
+  "displayName": "CWA_LIS_QSFLG_PROSPECTS_EXCLUDED",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005185252,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

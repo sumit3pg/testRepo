@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentSalutationDesc field",
+  "systemName": "AltSaleAgentSalutationDesc_QSS_SALUTATION_DESCRIPTION",
+  "displayName": "SYS_SAGPER2_QSS_SALUTATION_DESCR",
+  "shortName": null,
+  "standardName": "CoBuyerAgentNamePrefix",
+  "id": 85011871244,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

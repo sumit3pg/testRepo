@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentBillableFlag field",
+  "systemName": "AgentBillableFlag_QSFLG_PER_BILLABLE_FLG",
+  "displayName": "SYS_PER_QSFLG_PER_BILLABLE_FLG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008754018,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

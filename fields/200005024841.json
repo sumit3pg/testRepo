@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAGreenVerificationBody field",
+  "systemName": "CWAGreenVerificationBody_BODY",
+  "displayName": "CWA_GV_BODY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024841,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 60000064431,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

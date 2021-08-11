@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SkirtDescription field",
+  "systemName": "SkirtDescription_QMO_SKIRT_DESCRIPTION",
+  "displayName": "LIS_LIS_QMO_SKIRT_DESCRIPTION",
+  "shortName": null,
+  "standardName": "Skirt",
+  "id": 50070517999,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070517921,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

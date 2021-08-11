@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListAgentOfficePhone field",
+  "systemName": "CWAListAgentOfficePhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_CWLAGPCPVW1_PHONE_TYPES_OFFICE_1_CM_PHONE_NMBR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003863,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

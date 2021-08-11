@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentCity field",
+  "systemName": "ListAgentCity_ADDR_CTY_ID",
+  "displayName": "SYS_LAGPCAVW1_ADDRESS_TYPES_HOME",
+  "shortName": null,
+  "standardName": "ListAgentCity",
+  "id": 10000083503,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

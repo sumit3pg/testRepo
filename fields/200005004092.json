@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFarmFeatures field",
+  "systemName": "CWAFarmFeatures_QMO_FARM_FEATURES",
+  "displayName": "CWA_LIS_QMO_FARM_FEATURES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004092,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639645,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

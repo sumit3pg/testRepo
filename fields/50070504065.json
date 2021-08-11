@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToGas field",
+  "systemName": "DistanceToGas_QSS_DISTANCE_TO_GAS",
+  "displayName": "LIS_LIS_QSS_DISTANCE_TO_GAS",
+  "shortName": null,
+  "standardName": "DistanceToGas",
+  "id": 50070504065,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

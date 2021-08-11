@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisBuildingName field",
+  "systemName": "LisBuildingName_NAME",
+  "displayName": "LIS_LBN_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006367136,
+  "availableFlag": 1,
+  "dataTypeId": 205010451289,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

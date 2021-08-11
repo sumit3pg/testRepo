@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBasicListingID field",
+  "systemName": "BRIGHTBasicListingID_brightall_ListingId",
+  "displayName": "BRIGHTBasicListingID",
+  "shortName": null,
+  "standardName": "ListingId",
+  "id": 550016838010,
+  "availableFlag": 1,
+  "dataTypeId": 10000000116,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

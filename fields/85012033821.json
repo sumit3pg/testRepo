@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ShowModificationTimestamp field",
+  "systemName": "ShowModificationTimestamp_MODIFIED_TMS",
+  "displayName": "SYS_SHIUI_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 85012033821,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

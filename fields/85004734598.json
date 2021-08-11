@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentViewRosterYN field",
+  "systemName": "AgentViewRosterYN_QSFLG_AGENT_VIEW_ROSTER",
+  "displayName": "SYS_PER_QSFLG_AGENT_VIEW_ROSTER",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004734598,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

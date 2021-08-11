@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFloor field",
+  "systemName": "CWAFloor_QMO_FLOOR",
+  "displayName": "CWA_LIS_QMO_FLOOR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003916,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002044,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

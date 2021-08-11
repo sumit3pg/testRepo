@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTInteriorSquareFeetSource field",
+  "systemName": "BRIGHTInteriorSquareFeetSource_LivingAreaSource",
+  "displayName": "BRIGHTInteriorSquareFeetSource",
+  "shortName": null,
+  "standardName": "LivingAreaSource",
+  "id": 200017266694,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897884,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

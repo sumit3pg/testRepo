@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeYoutube field",
+  "systemName": "BRIGHTOfficeYoutube_SocialMediaYouTubeUrlOrId",
+  "displayName": "BRIGHTOfficeYoutube",
+  "shortName": null,
+  "standardName": "SocialMediaYouTubeUrlOrId",
+  "id": 200017260922,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

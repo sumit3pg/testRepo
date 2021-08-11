@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PPOUserCustomizableFlag field",
+  "systemName": "PPOUserCustomizableFlag_USER_CUSTOMIZABLE_FLAG",
+  "displayName": "SYS_PPO_USER_CUSTOMIZABLE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004653501,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

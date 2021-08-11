@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ZoningDescription field",
+  "systemName": "ZoningDescription_QSS_ZONING_DESCRIPTION",
+  "displayName": "LIS_LIS_QSS_ZONING_DESCRIPTION",
+  "shortName": null,
+  "standardName": "ZoningDescription",
+  "id": 85040087477,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

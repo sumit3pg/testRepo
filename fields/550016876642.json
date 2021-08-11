@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXLatitude field",
+  "systemName": "MIREXLatitude_Latitude",
+  "displayName": "MIREXLatitude",
+  "shortName": null,
+  "standardName": "Latitude",
+  "id": 550016876642,
+  "availableFlag": 1,
+  "dataTypeId": 10000000144,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

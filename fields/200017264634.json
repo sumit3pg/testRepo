@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentKey field",
+  "systemName": "BRIGHTSaleAgentKey_BuyerAgentKey",
+  "displayName": "BRIGHTSaleAgentKey",
+  "shortName": null,
+  "standardName": "BuyerAgentKey",
+  "id": 200017264634,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

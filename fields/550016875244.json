@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXContingencyTypes field",
+  "systemName": "MIREXContingencyTypes_Contingency",
+  "displayName": "MIREXContingencyTypes",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875244,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000662,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

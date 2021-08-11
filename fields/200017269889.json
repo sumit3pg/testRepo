@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropObjectKey field",
+  "systemName": "BRIGHTPropObjectKey_ID",
+  "displayName": "BRIGHTPropObjectKey",
+  "shortName": null,
+  "standardName": "ResourceRecordKey",
+  "id": 200017269889,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

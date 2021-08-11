@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LowerFloor1HalfBaths field",
+  "systemName": "LowerFloor1HalfBaths_BATHS_HALF",
+  "displayName": "LIS_STORY_STORY_TYPES_LOWER_1_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000100537,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBedroomFourth1Length field",
+  "systemName": "MIREXBedroomFourth1Length_BedroomFourth1Length",
+  "displayName": "MIREXBedroomFourth1Length",
+  "shortName": null,
+  "standardName": "RoomBedroomFourth1Length",
+  "id": 550016874480,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

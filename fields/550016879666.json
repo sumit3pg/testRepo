@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit2LivingRoomWidth field",
+  "systemName": "MIREXUnit2LivingRoomWidth_Unit2LivingRoomWidth",
+  "displayName": "MIREXUnit2LivingRoomWidth",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879666,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

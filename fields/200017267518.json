@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOwnerPays field",
+  "systemName": "BRIGHTOwnerPays_OwnerPays",
+  "displayName": "BRIGHTOwnerPays",
+  "shortName": null,
+  "standardName": "OwnerPays",
+  "id": 200017267518,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002378,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

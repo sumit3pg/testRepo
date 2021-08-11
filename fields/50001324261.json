@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BranchBrokerCode field",
+  "systemName": "BranchBrokerCode_QSS_BRANCH_BROKER_CODE",
+  "displayName": "SYS_ORG_QSS_BRANCH_BROKER_CODE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001324261,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

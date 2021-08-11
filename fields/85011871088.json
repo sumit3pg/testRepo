@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentPreferredPhone field",
+  "systemName": "AltAgentPreferredPhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_LAGPCPVW2_PHONE_TYPES_PREFER",
+  "shortName": null,
+  "standardName": "CoListAgentPreferredPhone",
+  "id": 85011871088,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

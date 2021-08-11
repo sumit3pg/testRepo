@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTExtraFee field",
+  "systemName": "BRIGHTExtraFee_AdditionalAssociationFees",
+  "displayName": "BRIGHTExtraFee",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264024,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897814,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LaundryRoomLength field",
+  "systemName": "LaundryRoomLength_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_LAUNDRY_",
+  "shortName": null,
+  "standardName": "RoomLaundryRoomLength",
+  "id": 50038763434,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

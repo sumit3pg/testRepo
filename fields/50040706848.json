@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentKey field",
+  "systemName": "AltSaleAgentKey_PTY_ID",
+  "displayName": "SYS_SAGPR2_PTY_ID",
+  "shortName": null,
+  "standardName": "CoBuyerAgentKey",
+  "id": 50040706848,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

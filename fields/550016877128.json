@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListingAgreementType field",
+  "systemName": "MIREXListingAgreementType_ListingServiceOffered",
+  "displayName": "MIREXListingAgreementType",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016877128,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897912,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

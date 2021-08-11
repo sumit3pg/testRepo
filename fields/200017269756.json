@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaCaption field",
+  "systemName": "BRIGHTPropMediaCaption_CAPTION",
+  "displayName": "BRIGHTPropMediaCaption",
+  "shortName": null,
+  "standardName": "ShortDescription",
+  "id": 200017269756,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTGreenSustainability field",
+  "systemName": "BRIGHTGreenSustainability_GreenSustainability",
+  "displayName": "BRIGHTGreenSustainability",
+  "shortName": null,
+  "standardName": "GreenSustainability",
+  "id": 200017265949,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734660,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

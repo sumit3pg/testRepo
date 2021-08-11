@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentDirectPhone field",
+  "systemName": "BRIGHTAgentDirectPhone_MemberDirectPhone",
+  "displayName": "BRIGHTAgentDirectPhone",
+  "shortName": null,
+  "standardName": "MemberDirectPhone",
+  "id": 200017263219,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentPrimaryAssociationLkp field",
+  "systemName": "BRIGHTSaleAgentPrimaryAssociationLkp_BuyerAgentAOR",
+  "displayName": "BRIGHTSaleAgentPrimaryAssociationLkp",
+  "shortName": null,
+  "standardName": "BuyerAgentAOR",
+  "id": 200017264597,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004730358,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

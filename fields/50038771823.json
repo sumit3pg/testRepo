@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LowerFloor1QuarterBaths field",
+  "systemName": "LowerFloor1QuarterBaths_BATHS_QUARTER",
+  "displayName": "LIS_STORY_STORY_TYPES_LOWER_1_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038771823,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

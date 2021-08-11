@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit2Furnished field",
+  "systemName": "Unit2Furnished_FURNISHED",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_2_F",
+  "shortName": null,
+  "standardName": "UnitType2Furnished",
+  "id": 50070546742,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070546562,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

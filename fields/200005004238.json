@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAltOfficeName field",
+  "systemName": "CWAAltOfficeName_PTY_NICK_NAME",
+  "displayName": "SYS_CWLAGORG2_PTY_NICK_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004238,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

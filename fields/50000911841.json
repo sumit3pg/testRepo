@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Storage field",
+  "systemName": "Storage_QMO_STORAGE",
+  "displayName": "LIS_LIS_QMO_STORAGE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911841,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000898008,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWADirectionFaces field",
+  "systemName": "CWADirectionFaces_QSO_DIRECTION_FACES",
+  "displayName": "CWA_LIS_QSO_DIRECTION_FACES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003967,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670905,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

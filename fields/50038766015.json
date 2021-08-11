@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a HomeWarrantyFlag field",
+  "systemName": "HomeWarrantyFlag_QSFLG_HAS_HOME_WARRANTY",
+  "displayName": "LIS_LIS_QSFLG_HAS_HOME_WARRANTY",
+  "shortName": null,
+  "standardName": "HomeWarrantyYN",
+  "id": 50038766015,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

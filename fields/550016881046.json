@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXWithdrawnDate field",
+  "systemName": "MIREXWithdrawnDate_WithdrawnDate",
+  "displayName": "MIREXWithdrawnDate",
+  "shortName": null,
+  "standardName": "WithdrawnDate",
+  "id": 550016881046,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAStreetName field",
+  "systemName": "CWAStreetName_DN_STR_NAME",
+  "displayName": "CWA_ADDR_ADDRESS_TYPES_PROPERTY_DN_STR_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003838,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXLeaseInformation field",
+  "systemName": "MIREXLeaseInformation_LeaseInformation",
+  "displayName": "MIREXLeaseInformation",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016876692,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50063976720,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

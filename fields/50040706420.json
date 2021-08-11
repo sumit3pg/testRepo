@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentEmailSignature field",
+  "systemName": "AgentEmailSignature_QSS_EMAIL_SIGNATURE",
+  "displayName": "SYS_PER_QSS_EMAIL_SIGNATURE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706420,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

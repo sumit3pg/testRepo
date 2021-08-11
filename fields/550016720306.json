@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentFax field",
+  "systemName": "WIREXAgentFax_AgentFax",
+  "displayName": "WIREXAgentFax",
+  "shortName": null,
+  "standardName": "MemberFax",
+  "id": 550016720306,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ShowLeadTimes field",
+  "systemName": "ShowLeadTimes_TEXT_SHOW_LEAD_TIMES",
+  "displayName": "LIS_SHI_TEXT_SHOW_LEAD_TIMES",
+  "shortName": null,
+  "standardName": null,
+  "id": 85026924484,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

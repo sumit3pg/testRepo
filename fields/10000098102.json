@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreatRoomWidth field",
+  "systemName": "GreatRoomWidth_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_GREAT_RO",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000098102,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

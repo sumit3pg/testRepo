@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAConsiderLeaseFlag field",
+  "systemName": "CWAConsiderLeaseFlag_QSFLG_CONSIDER_LEASE",
+  "displayName": "CWA_LIS_QSFLG_CONSIDER_LEASE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003765,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

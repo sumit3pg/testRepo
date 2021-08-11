@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTIncomeExpenseList field",
+  "systemName": "BRIGHTIncomeExpenseList_IncomeExpenseList",
+  "displayName": "BRIGHTIncomeExpenseList",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266105,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000688,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

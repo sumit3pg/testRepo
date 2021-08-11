@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListingContractDate field",
+  "systemName": "CWAListingContractDate_QSD_LISTING_CONTRACT_DATE",
+  "displayName": "CWA_LIS_QSD_LISTING_CONTRACT_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003730,
+  "availableFlag": 1,
+  "dataTypeId": 200004437388,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

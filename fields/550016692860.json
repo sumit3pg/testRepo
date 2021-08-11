@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeFax field",
+  "systemName": "WIREXOfficeFax_OfficeFax",
+  "displayName": "WIREXOfficeFax",
+  "shortName": null,
+  "standardName": "OfficeFax",
+  "id": 550016692860,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

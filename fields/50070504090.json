@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SpecialAssessmentsDescription field",
+  "systemName": "SpecialAssessmentsDescription_QSS_SPECIAL_ASSESSMENTS_DESC",
+  "displayName": "LIS_LIS_QSS_SPECIAL_ASSESSMENTS_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504090,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

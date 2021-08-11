@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SecuredPaymentRequirement field",
+  "systemName": "SecuredPaymentRequirement_QMO_SECURED_PAYMENT_REQ",
+  "displayName": "LIS_LIS_QMO_SECURED_PAYMENT_REQ",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706520,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670896,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

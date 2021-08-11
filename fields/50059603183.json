@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BelowGradeAreaUnfinished field",
+  "systemName": "BelowGradeAreaUnfinished_AREA_UNFINISHED",
+  "displayName": "LIS_SI_SIZE_TYPES_BELOW_OR_PART_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50059603183,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

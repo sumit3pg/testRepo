@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleOfficeStreetSuffix field",
+  "systemName": "SaleOfficeStreetSuffix_STR_STYP_ID",
+  "displayName": "SYS_SAGOCAVW1_ADDRESS_TYPES_OFFI",
+  "shortName": null,
+  "standardName": "BuyerOfficeStreetSuffix",
+  "id": 10000084258,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069210,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

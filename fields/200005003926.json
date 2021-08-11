@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAWallsCeilings field",
+  "systemName": "CWAWallsCeilings_QMO_WALLS_CEILINGS",
+  "displayName": "CWA_LIS_QMO_WALLS_CEILINGS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003926,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002826,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

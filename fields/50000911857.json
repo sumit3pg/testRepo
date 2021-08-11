@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AnnualLeasePricePerSqFt field",
+  "systemName": "AnnualLeasePricePerSqFt_QSF_ANNL_LEASE_PRICE_PR_SQ_FT",
+  "displayName": "LIS_LIS_QSF_ANNL_LEASE_PRICE_PR_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911857,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

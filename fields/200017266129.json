@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTInteriorFeatures field",
+  "systemName": "BRIGHTInteriorFeatures_InteriorFeatures",
+  "displayName": "BRIGHTInteriorFeatures",
+  "shortName": null,
+  "standardName": "InteriorFeatures",
+  "id": 200017266129,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002238,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLaundryType field",
+  "systemName": "BRIGHTLaundryType_LaundryType",
+  "displayName": "BRIGHTLaundryType",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266244,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897888,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

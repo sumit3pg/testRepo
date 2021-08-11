@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PorchDeck field",
+  "systemName": "PorchDeck_QMO_PORCH_DECK",
+  "displayName": "LIS_LIS_QMO_PORCH_DECK",
+  "shortName": null,
+  "standardName": "PatioAndPorchFeatures",
+  "id": 50000911837,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897959,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

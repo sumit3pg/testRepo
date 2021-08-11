@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OpenHouseSourceCreatedBy field",
+  "systemName": "OpenHouseSourceCreatedBy_QSS_OPEN_HOUSE_CREATED_BY",
+  "displayName": "LIS_UOHVW_QSS_OPEN_HOUSE_CREATED",
+  "shortName": null,
+  "standardName": null,
+  "id": 50067295112,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

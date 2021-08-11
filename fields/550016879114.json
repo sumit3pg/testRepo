@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXTotalUnits field",
+  "systemName": "MIREXTotalUnits_TotalUnits",
+  "displayName": "MIREXTotalUnits",
+  "shortName": null,
+  "standardName": "NumberOfUnitsTotal",
+  "id": 550016879114,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

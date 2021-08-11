@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RiparianRights field",
+  "systemName": "RiparianRights_QSFLG_RIPARIAN_RIGHTS",
+  "displayName": "LIS_LIS_QSFLG_RIPARIAN_RIGHTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50074703678,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

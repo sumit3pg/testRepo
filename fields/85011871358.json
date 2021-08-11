@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListingContractDate field",
+  "systemName": "ListingContractDate_QSD_LISTING_CONTRACT_DATE",
+  "displayName": "LIS_LIS_QSD_LISTING_CONTRACT_DAT",
+  "shortName": null,
+  "standardName": "ListingContractDate",
+  "id": 85011871358,
+  "availableFlag": 1,
+  "dataTypeId": 10000081635,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

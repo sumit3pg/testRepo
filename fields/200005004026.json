@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAExclusionRemarks field",
+  "systemName": "CWAExclusionRemarks_TEXT_EXCLUSION",
+  "displayName": "CWA_LIS_TEXT_EXCLUSION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004026,
+  "availableFlag": 1,
+  "dataTypeId": 200004437398,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

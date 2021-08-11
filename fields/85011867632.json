@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ViewFlag field",
+  "systemName": "ViewFlag_QSFLG_VIEW_FLAG",
+  "displayName": "LIS_LIS_QSFLG_VIEW_FLAG",
+  "shortName": null,
+  "standardName": "ViewYN",
+  "id": 85011867632,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOutdoorParkingSpaces field",
+  "systemName": "CWAOutdoorParkingSpaces_QSF_PARKING_SPACES_OUTDOOR",
+  "displayName": "CWA_LIS_QSF_PARKING_SPACES_OUTDOOR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003962,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaInformationValidFlag field",
+  "systemName": "CWAPropMediaInformationValidFlag_MED_INFORMATION_VALID_FLAG",
+  "displayName": "CWA_MEDVW_MED_INFORMATION_VALID_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005058630,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

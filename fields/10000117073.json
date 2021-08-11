@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalRooms field",
+  "systemName": "TotalRooms_STR_ROOMS",
+  "displayName": "LIS_LIS_STR_ROOMS",
+  "shortName": null,
+  "standardName": "RoomsTotal",
+  "id": 10000117073,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GrossSQFT field",
+  "systemName": "GrossSQFT_QSF_GROSS_SQ_FT",
+  "displayName": "LIS_LIS_QSF_GROSS_SQ_FT",
+  "shortName": null,
+  "standardName": "BuildingAreaTotal",
+  "id": 10000117213,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

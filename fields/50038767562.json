@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit2Includes field",
+  "systemName": "Unit2Includes_QMO_FEATURES",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_2_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038767562,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640242,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

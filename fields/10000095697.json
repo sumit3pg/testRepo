@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BreakfastRoom1Length field",
+  "systemName": "BreakfastRoom1Length_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BREAKFAS",
+  "shortName": null,
+  "standardName": "RoomBreakfastRoom1Length",
+  "id": 10000095697,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

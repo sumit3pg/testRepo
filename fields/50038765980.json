@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BusinessName field",
+  "systemName": "BusinessName_QSS_BUSINESS_NAME",
+  "displayName": "LIS_LIS_QSS_BUSINESS_NAME",
+  "shortName": null,
+  "standardName": "BusinessName",
+  "id": 50038765980,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

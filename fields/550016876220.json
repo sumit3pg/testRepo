@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXKitchen1Length field",
+  "systemName": "MIREXKitchen1Length_Kitchen1Length",
+  "displayName": "MIREXKitchen1Length",
+  "shortName": null,
+  "standardName": "RoomKitchen1Length",
+  "id": 550016876220,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

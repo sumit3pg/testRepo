@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AboveGradeAreaFinishedUnits field",
+  "systemName": "AboveGradeAreaFinishedUnits_AREA_FINISHED_UNITS",
+  "displayName": "LIS_SI_SIZE_TYPES_ABOVE_GRADE_1_",
+  "shortName": null,
+  "standardName": "AboveGradeFinishedAreaUnits",
+  "id": 85011872847,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

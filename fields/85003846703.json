@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisListAgentLicenseNumber field",
+  "systemName": "LisListAgentLicenseNumber_QSS_LIC_NUM",
+  "displayName": "LIS_LAGPER1_QSS_LIC_NUM",
+  "shortName": null,
+  "standardName": null,
+  "id": 85003846703,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

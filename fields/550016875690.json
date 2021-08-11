@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXFuelOnSite field",
+  "systemName": "MIREXFuelOnSite_FuelOnSite",
+  "displayName": "MIREXFuelOnSite",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875690,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897857,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GateCode field",
+  "systemName": "GateCode_QSS_GATE_CODE",
+  "displayName": "LIS_LIS_QSS_GATE_CODE",
+  "shortName": null,
+  "standardName": "AccessCode",
+  "id": 50070477012,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

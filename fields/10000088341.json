@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentNameSuffix field",
+  "systemName": "ListAgentNameSuffix_PTY_NS_ID",
+  "displayName": "SYS_LAGPER1_PTY_NS_ID",
+  "shortName": null,
+  "standardName": "ListAgentNameSuffix",
+  "id": 10000088341,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069205,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

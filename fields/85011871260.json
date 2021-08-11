@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentPrimaryAssociationLkp field",
+  "systemName": "AltAgentPrimaryAssociationLkp_QSO_PRIMARY_ASSOCIATION",
+  "displayName": "SYS_LAGPER2_QSO_PRIMARY_ASSOCIAT",
+  "shortName": null,
+  "standardName": "CoListAgentAOR",
+  "id": 85011871260,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004730358,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

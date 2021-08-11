@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BlueprintExistsFlag field",
+  "systemName": "BlueprintExistsFlag_QSFLG_HAS_BLUEPRINT",
+  "displayName": "LIS_LIS_QSFLG_HAS_BLUEPRINT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765933,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

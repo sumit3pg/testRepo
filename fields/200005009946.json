@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PpdEntireBrokerageFlag field",
+  "systemName": "PpdEntireBrokerageFlag_ENTIRE_BROKERAGE_FLAG",
+  "displayName": "SYS_PPD_ENTIRE_BROKERAGE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005009946,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

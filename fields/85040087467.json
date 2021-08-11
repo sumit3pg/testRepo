@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AnchorsCoTenants field",
+  "systemName": "AnchorsCoTenants_QSS_ANCHORS_CO_TENANTS",
+  "displayName": "LIS_LIS_QSS_ANCHORS_CO_TENANTS",
+  "shortName": null,
+  "standardName": "AnchorsCoTenants",
+  "id": 85040087467,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

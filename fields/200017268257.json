@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTStreetDirSuffix field",
+  "systemName": "BRIGHTStreetDirSuffix_StreetDirSuffix",
+  "displayName": "BRIGHTStreetDirSuffix",
+  "shortName": null,
+  "standardName": "StreetDirSuffix",
+  "id": 200017268257,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069220,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACarPort field",
+  "systemName": "CWACarPort_PRK_CARPORT_SPACES",
+  "displayName": "CWA_LIS_PRK_CARPORT_SPACES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003936,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

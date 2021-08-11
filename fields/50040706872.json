@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentLastName field",
+  "systemName": "AltSaleAgentLastName_PTY_LAST_NAME",
+  "displayName": "SYS_SAGPER2_PTY_LAST_NAME",
+  "shortName": null,
+  "standardName": "CoBuyerAgentLastName",
+  "id": 50040706872,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

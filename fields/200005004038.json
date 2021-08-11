@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABuildingPermits field",
+  "systemName": "CWABuildingPermits_QMO_BUILDING_PERMITS",
+  "displayName": "CWA_LIS_QMO_BUILDING_PERMITS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004038,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001707,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

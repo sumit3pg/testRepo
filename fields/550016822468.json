@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDomPropertyCalculatedDate field",
+  "systemName": "BRIGHTDomPropertyCalculatedDate_DOM_CALCULATED_DATE",
+  "displayName": "BRIGHTDomPropertyCalculatedDate",
+  "shortName": null,
+  "standardName": "DomPropertyCalculatedDate",
+  "id": 550016822468,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

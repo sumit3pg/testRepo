@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenSustainability field",
+  "systemName": "GreenSustainability_QMO_GREEN_SUSTAINABILITY",
+  "displayName": "LIS_LIS_QMO_GREEN_SUSTAINABILITY",
+  "shortName": null,
+  "standardName": "GreenSustainability",
+  "id": 85004734659,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734660,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

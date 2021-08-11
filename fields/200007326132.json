@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuilderModelStatus field",
+  "systemName": "BuilderModelStatus_STATUS",
+  "displayName": "LIS_BM_STATUS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007326132,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200007326531,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

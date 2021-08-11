@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherRm4LengthWidthSource field",
+  "systemName": "OtherRm4LengthWidthSource_QSO_LEN_WID_MES_SRC",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_THR_RM_4",
+  "shortName": null,
+  "standardName": "RoomOtherRm4LengthWidthSource",
+  "id": 200003573569,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640907,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

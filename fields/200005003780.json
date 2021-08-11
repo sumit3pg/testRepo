@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListingService field",
+  "systemName": "CWAListingService_QSO_LISTING_SERVICE",
+  "displayName": "CWA_LIS_QSO_LISTING_SERVICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003780,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872869,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

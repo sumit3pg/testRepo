@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Den1Length field",
+  "systemName": "Den1Length_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_DEN_1_LE",
+  "shortName": null,
+  "standardName": "RoomDen1Length",
+  "id": 10000095652,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

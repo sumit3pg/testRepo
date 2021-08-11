@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentStreetNumber field",
+  "systemName": "WIREXAgentStreetNumber_AgentStreetNumber",
+  "displayName": "WIREXAgentStreetNumber",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016720786,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

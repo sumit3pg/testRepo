@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitHalfBaths field",
+  "systemName": "CWAPropUnitHalfBaths_QSL_BATHS_PARTIAL",
+  "displayName": "CWA_UUNIT_QSL_BATHS_PARTIAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005102922,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

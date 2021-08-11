@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoRoomDimensions field",
+  "systemName": "CWALoRoomDimensions_QSS_DIMENSIONS",
+  "displayName": "CWA_LOROOM_QSS_DIMENSIONS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005022520,
+  "availableFlag": 1,
+  "dataTypeId": 200004437396,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

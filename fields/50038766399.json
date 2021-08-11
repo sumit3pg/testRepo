@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit3Rooms field",
+  "systemName": "Unit3Rooms_NUM_ROOMS",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_3_N",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766399,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTIDXAddr field",
+  "systemName": "BRIGHTIDXAddr_InternetAddressDisplayYN",
+  "displayName": "BRIGHTIDXAddr",
+  "shortName": null,
+  "standardName": "InternetAddressDisplayYN",
+  "id": 200017266135,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

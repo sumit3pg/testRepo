@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTGrossSQFT field",
+  "systemName": "BRIGHTGrossSQFT_BuildingAreaTotal",
+  "displayName": "BRIGHTGrossSQFT",
+  "shortName": null,
+  "standardName": "BuildingAreaTotal",
+  "id": 200017264493,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

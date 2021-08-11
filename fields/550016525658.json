@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentTeamKey field",
+  "systemName": "ListAgentTeamKey_PARENT_PTY_ID",
+  "displayName": "SYS_LAGTMLPR1_PARENT_PTY_ID",
+  "shortName": null,
+  "standardName": "ListTeamKey",
+  "id": 550016525658,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSaleOfficePostalCode field",
+  "systemName": "MIREXSaleOfficePostalCode_SaleOfficePostalCode",
+  "displayName": "MIREXSaleOfficePostalCode",
+  "shortName": null,
+  "standardName": "BuyerOfficePostalCode",
+  "id": 550016878242,
+  "availableFlag": 1,
+  "dataTypeId": 10000000169,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

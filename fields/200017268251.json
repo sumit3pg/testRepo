@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTStreetDirPrefix field",
+  "systemName": "BRIGHTStreetDirPrefix_StreetDirPrefix",
+  "displayName": "BRIGHTStreetDirPrefix",
+  "shortName": null,
+  "standardName": "StreetDirPrefix",
+  "id": 200017268251,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069220,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

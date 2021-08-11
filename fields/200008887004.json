@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleOfficeResponsibleBrokerKey field",
+  "systemName": "SaleOfficeResponsibleBrokerKey_QSL_SALE_RESP_BRK_KEY",
+  "displayName": "LIS_LIS_QSL_SALE_RESP_BRK_KEY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008887004,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

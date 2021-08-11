@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaPixelWidth field",
+  "systemName": "CWAPropMediaPixelWidth_MED_PIXEL_WIDTH",
+  "displayName": "CWA_MEDVW_MED_PIXEL_WIDTH",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024418,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

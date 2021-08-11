@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeFullStreetAddress field",
+  "systemName": "BRIGHTOfficeFullStreetAddress_OfficeAddress1",
+  "displayName": "BRIGHTOfficeFullStreetAddress",
+  "shortName": null,
+  "standardName": "OfficeAddress1",
+  "id": 200017260553,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

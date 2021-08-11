@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Township field",
+  "systemName": "Township_QSS_TOWNSHIP",
+  "displayName": "LIS_LIS_QSS_TOWNSHIP",
+  "shortName": null,
+  "standardName": "Township",
+  "id": 85011872964,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

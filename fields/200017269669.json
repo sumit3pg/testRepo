@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaResourceName field",
+  "systemName": "BRIGHTPropMediaResourceName_QSO_PROP_MEDIA_RESOURCE_NAME",
+  "displayName": "BRIGHTPropMediaResourceName",
+  "shortName": null,
+  "standardName": "ResourceName",
+  "id": 200017269669,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85046979048,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

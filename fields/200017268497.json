@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTaxYear field",
+  "systemName": "BRIGHTTaxYear_TaxYear",
+  "displayName": "BRIGHTTaxYear",
+  "shortName": null,
+  "standardName": "TaxYear",
+  "id": 200017268497,
+  "availableFlag": 1,
+  "dataTypeId": 10000000168,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

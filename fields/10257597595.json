@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchemaShortName field",
+  "systemName": "SchemaShortName_SHORT_NAME",
+  "displayName": "CFG_LS_SHORT_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 10257597595,
+  "availableFlag": 1,
+  "dataTypeId": 10000000119,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

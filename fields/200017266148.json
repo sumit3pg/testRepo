@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTIDXConsumerCommentYN field",
+  "systemName": "BRIGHTIDXConsumerCommentYN_InternetConsumerCommentYN",
+  "displayName": "BRIGHTIDXConsumerCommentYN",
+  "shortName": null,
+  "standardName": "InternetConsumerCommentYN",
+  "id": 200017266148,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

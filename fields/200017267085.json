@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTMiddleSchool field",
+  "systemName": "BRIGHTMiddleSchool_MiddleOrJuniorSchool",
+  "displayName": "BRIGHTMiddleSchool",
+  "shortName": null,
+  "standardName": "MiddleOrJuniorSchool",
+  "id": 200017267085,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

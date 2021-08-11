@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PostalCode field",
+  "systemName": "PostalCode_ZIP",
+  "displayName": "LIS_ADDR_ADDRESS_TYPES_PROPERTY_",
+  "shortName": null,
+  "standardName": "PostalCode",
+  "id": 10000116724,
+  "availableFlag": 1,
+  "dataTypeId": 10000000169,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

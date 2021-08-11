@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltAgentOfficePhoneExtNum field",
+  "systemName": "BRIGHTAltAgentOfficePhoneExtNum_MemberOfficePhoneExt",
+  "displayName": "BRIGHTAltAgentOfficePhoneExtNum",
+  "shortName": null,
+  "standardName": "CoListAgentOfficePhoneExt",
+  "id": 200017265143,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

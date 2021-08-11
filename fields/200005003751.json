@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListingType field",
+  "systemName": "CWAListingType_MAIN_LISTING_TYPE",
+  "displayName": "CWA_LIS_MAIN_LISTING_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003751,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000745,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

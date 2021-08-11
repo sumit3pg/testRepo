@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSysMediaDescription field",
+  "systemName": "BRIGHTSysMediaDescription_DESCRIPTION",
+  "displayName": "BRIGHTSysMediaDescription",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263744,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

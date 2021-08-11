@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MainFloorTotalBaths field",
+  "systemName": "MainFloorTotalBaths_BATHS_TOTAL",
+  "displayName": "LIS_STORY_STORY_TYPES_MAIN_1_BAT",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000100797,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

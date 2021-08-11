@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBuildings field",
+  "systemName": "BRIGHTBuildings_NumberOfBuildings",
+  "displayName": "BRIGHTBuildings",
+  "shortName": null,
+  "standardName": "NumberOfBuildings",
+  "id": 200017267292,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

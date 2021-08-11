@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ContiguousSquareFeetAvailableYN field",
+  "systemName": "ContiguousSquareFeetAvailableYN_QSFLG_CNTGS_SQR_FT_VILABLE_Y_N",
+  "displayName": "LIS_LIS_QSFLG_CNTGS_SQR_FT_VILAB",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005795271,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXFinishedNonExposedSqFt field",
+  "systemName": "MIREXFinishedNonExposedSqFt_SqFtLevel1",
+  "displayName": "MIREXFinishedNonExposedSqFt",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878658,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

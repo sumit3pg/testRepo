@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuilderName field",
+  "systemName": "BuilderName_STR_BUILDER_NAME",
+  "displayName": "LIS_LIS_STR_BUILDER_NAME",
+  "shortName": null,
+  "standardName": "BuilderName",
+  "id": 10000117326,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

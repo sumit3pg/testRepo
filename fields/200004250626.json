@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeAssociationsList field",
+  "systemName": "OfficeAssociationsList_QMO_ASSOCIATIONS",
+  "displayName": "SYS_ORG_QMO_ASSOCIATIONS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004250626,
+  "availableFlag": 1,
+  "dataTypeId": 10000070531,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004265034,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

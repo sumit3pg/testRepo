@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GrazingPermitPrivateFlag field",
+  "systemName": "GrazingPermitPrivateFlag_QSFLG_GRAZING_PERMIT_PRIVATE",
+  "displayName": "LIS_LIS_QSFLG_GRAZING_PERMIT_PRI",
+  "shortName": null,
+  "standardName": "GrazingPermitsPrivateYN",
+  "id": 50048770193,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxMap field",
+  "systemName": "TaxMap_PUB_TAX_MAP_NUMBER",
+  "displayName": "LIS_LIS_PUB_TAX_MAP_NUMBER",
+  "shortName": null,
+  "standardName": "TaxMapNumber",
+  "id": 10000117264,
+  "availableFlag": 1,
+  "dataTypeId": 10000000116,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

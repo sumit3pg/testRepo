@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAssociationRecreationFeeYN field",
+  "systemName": "CWAAssociationRecreationFeeYN_QSFLG_SSCTN_RECREATION_FEE_Y_N",
+  "displayName": "CWA_LIS_QSFLG_SSCTN_RECREATION_FEE_Y_N",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006135589,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

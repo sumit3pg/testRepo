@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUpperFloor6HalfBaths field",
+  "systemName": "BRIGHTUpperFloor6HalfBaths_UpperLevel6HalfBaths",
+  "displayName": "BRIGHTUpperFloor6HalfBaths",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268863,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

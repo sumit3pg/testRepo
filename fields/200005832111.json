@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxTotalFinishedSqFt field",
+  "systemName": "TaxTotalFinishedSqFt_QSL_TAX_TOTAL_FINISHED_SQ_FT",
+  "displayName": "LIS_LIS_QSL_TAX_TOTAL_FINISHED_S",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005832111,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

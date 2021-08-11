@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentSocialMediaType field",
+  "systemName": "AgentSocialMediaType_QSO_AGENT_SOCIAL_MEDIA_TYPE",
+  "displayName": "SYS_PER_QSO_AGENT_SOCIAL_MEDIA_T",
+  "shortName": null,
+  "standardName": "SocialMediaType",
+  "id": 85042434531,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069195,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

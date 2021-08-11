@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ElectricAverageMonthly field",
+  "systemName": "ElectricAverageMonthly_QSF_AVG_MONTHLY",
+  "displayName": "LIS_FIE_INCOM_XPNS_TYPS_TLTS___L",
+  "shortName": null,
+  "standardName": null,
+  "id": 60000054106,
+  "availableFlag": 1,
+  "dataTypeId": 50000635388,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentZip4 field",
+  "systemName": "AgentZip4_ADDR_ZIP4",
+  "displayName": "SYS_PCAVW_ADDRESS_TYPES_HOME_1_A",
+  "shortName": null,
+  "standardName": "MemberPostalCodePlus4",
+  "id": 10000072490,
+  "availableFlag": 1,
+  "dataTypeId": 10000000170,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

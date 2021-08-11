@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListOfficeDistance field",
+  "systemName": "BRIGHTListOfficeDistance_ListOfficeDistance",
+  "displayName": "BRIGHTListOfficeDistance",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266521,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

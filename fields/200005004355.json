@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOwnerPays field",
+  "systemName": "CWAOwnerPays_QMO_OWNERS_EXPENSES",
+  "displayName": "CWA_LIS_QMO_OWNERS_EXPENSES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004355,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002378,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

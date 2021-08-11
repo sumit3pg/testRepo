@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUpperFloorsTotalBedrooms field",
+  "systemName": "CWAUpperFloorsTotalBedrooms_QSL_UPPER_TOTAL_BEDROOMS",
+  "displayName": "CWA_LIS_QSL_UPPER_TOTAL_BEDROOMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101647,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

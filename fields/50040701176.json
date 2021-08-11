@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisListAgentVoiceMailExt field",
+  "systemName": "LisListAgentVoiceMailExt_CM_PHONE_EXTENSION",
+  "displayName": "LIS_LAGPCPVW1_PHONE_TYPES_VOICE_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040701176,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}
