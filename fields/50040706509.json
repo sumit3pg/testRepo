@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LockBoxType field",
+  "systemName": "LockBoxType_QMO_LOCK_BOX_TYPE",
+  "displayName": "LIS_LIS_QMO_LOCK_BOX_TYPE",
+  "shortName": null,
+  "standardName": "LockBoxType",
+  "id": 50040706509,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670913,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

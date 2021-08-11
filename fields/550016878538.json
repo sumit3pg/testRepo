@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSittingRoom1Level field",
+  "systemName": "MIREXSittingRoom1Level_SittingRoom1Level",
+  "displayName": "MIREXSittingRoom1Level",
+  "shortName": null,
+  "standardName": "RoomSittingRoom1Level",
+  "id": 550016878538,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

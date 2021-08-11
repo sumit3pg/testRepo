@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAuctionBuyerPremium field",
+  "systemName": "CWAAuctionBuyerPremium_QSF_AUCTION_BUYER_PREMIUM",
+  "displayName": "CWA_LIS_QSF_AUCTION_BUYER_PREMIUM",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003785,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

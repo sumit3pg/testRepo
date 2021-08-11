@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a HOA field",
+  "systemName": "HOA_MAIN_HOA_FLAG",
+  "displayName": "LIS_LIS_MAIN_HOA_FLAG",
+  "shortName": null,
+  "standardName": "AssociationYN",
+  "id": 10000117282,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

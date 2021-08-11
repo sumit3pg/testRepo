@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAgentTransferDate field",
+  "systemName": "MIREXAgentTransferDate_AgentTransferDate",
+  "displayName": "MIREXAgentTransferDate",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016711278,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

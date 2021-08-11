@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeOfficePhone2 field",
+  "systemName": "WIREXOfficeOfficePhone2_OfficeOfficePhone2",
+  "displayName": "WIREXOfficeOfficePhone2",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693148,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LandAssessmentAmount field",
+  "systemName": "LandAssessmentAmount_AMOUNT",
+  "displayName": "LIS_FIE_INCOME_EXPENSE_TYPES_LAN",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000116963,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

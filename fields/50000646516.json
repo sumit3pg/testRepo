@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropAreaKey field",
+  "systemName": "PropAreaKey_AREA_ID",
+  "displayName": "LIS_AREA_AREA_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000646516,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

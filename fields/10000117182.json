@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BedroomPercs field",
+  "systemName": "BedroomPercs_QSL_NUMBER_OF_BEDROOM_PERC",
+  "displayName": "LIS_LIS_QSL_NUMBER_OF_BEDROOM_PE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117182,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLSumListPictureURL field",
+  "systemName": "BRIGHTLSumListPictureURL_EXTERIOR_MAIN_MEDIUM",
+  "displayName": "CWA_BLSUVW_EXTERIOR_MAIN_MEDIUM",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005040583,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

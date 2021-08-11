@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ElectionDistrict field",
+  "systemName": "ElectionDistrict_PUB_ELECTION_DISTRICT",
+  "displayName": "LIS_LIS_PUB_ELECTION_DISTRICT",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117256,
+  "availableFlag": 1,
+  "dataTypeId": 205010451288,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

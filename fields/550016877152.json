@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListingSubscriptionClassList field",
+  "systemName": "MIREXListingSubscriptionClassList_ListingSubscriptionClassList",
+  "displayName": "MIREXListingSubscriptionClassList",
+  "shortName": null,
+  "standardName": "SyndicateTo",
+  "id": 550016877152,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10025709817,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

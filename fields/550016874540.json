@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBedroomSecond1Width field",
+  "systemName": "MIREXBedroomSecond1Width_BedroomSecond1Width",
+  "displayName": "MIREXBedroomSecond1Width",
+  "shortName": null,
+  "standardName": "RoomBedroomSecond1Width",
+  "id": 550016874540,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

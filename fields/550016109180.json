@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPPOClobValue field",
+  "systemName": "BRIGHTPPOClobValue_CLOB_VALUE",
+  "displayName": "BRIGHTPPOClobValue",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016109180,
+  "availableFlag": 1,
+  "dataTypeId": 10000000164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

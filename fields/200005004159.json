@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleAgentURL field",
+  "systemName": "CWASaleAgentURL_CM_STRING_TEXT",
+  "displayName": "SYS_CWSAGPCSVW1_CONTACT_TYPES_WEBST_1_CM_STRNG_TXT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004159,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

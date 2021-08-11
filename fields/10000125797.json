@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OccupantFax field",
+  "systemName": "OccupantFax_CM_PHONE_NUMBER",
+  "displayName": "PUB_OCCPCPVW1_PHONE_TYPES_FAX_1_",
+  "shortName": null,
+  "standardName": "OccupantFax",
+  "id": 10000125797,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

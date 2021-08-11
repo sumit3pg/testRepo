@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Bathrooms field",
+  "systemName": "Bathrooms_QMO_BATHROOMS",
+  "displayName": "LIS_LIS_QMO_BATHROOMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911814,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897642,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

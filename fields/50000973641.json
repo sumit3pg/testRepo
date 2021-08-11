@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeIDXExclude field",
+  "systemName": "OfficeIDXExclude_QSFLG_IDX_EXCLUDE",
+  "displayName": "SYS_ORG_QSFLG_IDX_EXCLUDE",
+  "shortName": null,
+  "standardName": "IDXOfficeParticipationYN",
+  "id": 50000973641,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

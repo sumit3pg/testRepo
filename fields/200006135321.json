@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AssociationRecreationFee field",
+  "systemName": "AssociationRecreationFee_QSF_ASSOCIATION_RECREATION_FEE",
+  "displayName": "LIS_LIS_QSF_ASSOCIATION_RECREATI",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006135321,
+  "availableFlag": 1,
+  "dataTypeId": 50000635388,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

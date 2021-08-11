@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentSourceTransport field",
+  "systemName": "AgentSourceTransport_QSO_SOURCE_TRANSPORT",
+  "displayName": "SYS_PER_QSO_SOURCE_TRANSPORT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004228597,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228527,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

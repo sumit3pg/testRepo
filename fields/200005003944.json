@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABuilderName field",
+  "systemName": "CWABuilderName_STR_BUILDER_NAME",
+  "displayName": "CWA_LIS_STR_BUILDER_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003944,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WallsCeilings field",
+  "systemName": "WallsCeilings_QMO_WALLS_CEILINGS",
+  "displayName": "LIS_LIS_QMO_WALLS_CEILINGS",
+  "shortName": null,
+  "standardName": "CommonWalls",
+  "id": 10000117161,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002826,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

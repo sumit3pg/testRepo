@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Stories field",
+  "systemName": "Stories_STR_LEVELS",
+  "displayName": "LIS_LIS_STR_LEVELS",
+  "shortName": null,
+  "standardName": "Stories",
+  "id": 10000117071,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTShowingInstructions field",
+  "systemName": "BRIGHTShowingInstructions_ShowingRequirements",
+  "displayName": "BRIGHTShowingInstructions",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268113,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002657,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

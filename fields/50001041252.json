@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentOtherPhone3 field",
+  "systemName": "AgentOtherPhone3_CM_PHONE_NUMBER",
+  "displayName": "SYS_PCPVW_PHONE_TYPES_OTHER_3_CM",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001041252,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

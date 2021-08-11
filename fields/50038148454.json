@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OpenHouseExternalSystemID field",
+  "systemName": "OpenHouseExternalSystemID_OH_EXTERNAL_SYSTEM_ID",
+  "displayName": "LIS_UOHVW_OH_EXTERNAL_SYSTEM_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038148454,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

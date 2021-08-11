@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ElementarySchool field",
+  "systemName": "ElementarySchool_SCH_NAME",
+  "displayName": "LIS_LSVW_SCHOOL_TYPES_ELEMENTARY",
+  "shortName": null,
+  "standardName": "ElementarySchool",
+  "id": 10000116117,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

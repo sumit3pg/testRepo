@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ThreeBedroomUnits field",
+  "systemName": "ThreeBedroomUnits_QSL_N_UNITS_THREE_BEDROOM",
+  "displayName": "LIS_LIS_QSL_N_UNITS_THREE_BEDROO",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117180,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

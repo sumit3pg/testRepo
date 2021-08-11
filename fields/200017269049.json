@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTWaterViewYN field",
+  "systemName": "BRIGHTWaterViewYN_WaterViewYN",
+  "displayName": "BRIGHTWaterViewYN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017269049,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

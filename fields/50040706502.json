@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RentControlFlag field",
+  "systemName": "RentControlFlag_QSFLG_RENT_CONTROL",
+  "displayName": "LIS_LIS_QSFLG_RENT_CONTROL",
+  "shortName": null,
+  "standardName": "RentControlYN",
+  "id": 50040706502,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

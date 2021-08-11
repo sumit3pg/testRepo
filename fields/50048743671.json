@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FamilyRoomArea field",
+  "systemName": "FamilyRoomArea_AREA_TOTAL",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_FAMILY_R",
+  "shortName": null,
+  "standardName": "RoomFamilyRoomArea",
+  "id": 50048743671,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

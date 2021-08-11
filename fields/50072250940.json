@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IDXAddr field",
+  "systemName": "IDXAddr_QSFLG_IDX_DISP_ADDR",
+  "displayName": "LIS_LIS_QSFLG_IDX_DISP_ADDR",
+  "shortName": null,
+  "standardName": "InternetAddressDisplayYN",
+  "id": 50072250940,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

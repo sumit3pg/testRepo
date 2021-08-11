@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListPicture2URL field",
+  "systemName": "CWAListPicture2URL_MEDIA_EXTERIOR_MAIN_THUMB",
+  "displayName": "CWA_LIS_MEDIA_EXTERIOR_MAIN_THUMB",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004345,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropHistOriginalPickListValue field",
+  "systemName": "PropHistOriginalPickListValue_ORIGINAL_PCKI_VALUE",
+  "displayName": "LIS_UHVW_ORIGINAL_PCKI_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10197249027,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

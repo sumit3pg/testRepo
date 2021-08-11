@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeSubscriptions field",
+  "systemName": "BRIGHTOfficeSubscriptions_SyndicateTo",
+  "displayName": "BRIGHTOfficeSubscriptions",
+  "shortName": null,
+  "standardName": "SyndicateTo",
+  "id": 200017260940,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070505926,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

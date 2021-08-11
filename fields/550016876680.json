@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXLaundryRoomWidth field",
+  "systemName": "MIREXLaundryRoomWidth_LaundryRoomWidth",
+  "displayName": "MIREXLaundryRoomWidth",
+  "shortName": null,
+  "standardName": "RoomLaundryRoomWidth",
+  "id": 550016876680,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

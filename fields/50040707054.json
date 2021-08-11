@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SellingOfficeCompensationType field",
+  "systemName": "SellingOfficeCompensationType_SUB_TYPE",
+  "displayName": "LIS_COMP_COMPENSATION_TYPES_SELL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040707054,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670921,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

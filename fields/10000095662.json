@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BasementLength field",
+  "systemName": "BasementLength_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNFINISH",
+  "shortName": null,
+  "standardName": "BasementLength",
+  "id": 10000095662,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltOfficeFax field",
+  "systemName": "AltOfficeFax_CM_PHONE_NUMBER",
+  "displayName": "SYS_LAGOCPVW2_PHONE_TYPES_FAX_1_",
+  "shortName": null,
+  "standardName": "CoListOfficeFax",
+  "id": 10162044667,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

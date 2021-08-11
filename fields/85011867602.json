@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ElectricOnPropertyFlag field",
+  "systemName": "ElectricOnPropertyFlag_QSFLG_ELECTRIC_ON_PROP_FLAG",
+  "displayName": "LIS_LIS_QSFLG_ELECTRIC_ON_PROP_F",
+  "shortName": null,
+  "standardName": "ElectricOnPropertyYN",
+  "id": 85011867602,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

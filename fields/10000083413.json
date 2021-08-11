@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentCountry field",
+  "systemName": "ListAgentCountry_ADDR_CTRY_ID",
+  "displayName": "SYS_LAGPCAVW1_ADDRESS_TYPES_HOME",
+  "shortName": null,
+  "standardName": "ListAgentCountry",
+  "id": 10000083413,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002982,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

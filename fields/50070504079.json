@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IngressEgress field",
+  "systemName": "IngressEgress_QSS_INGRESS_EGRESS",
+  "displayName": "LIS_LIS_QSS_INGRESS_EGRESS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504079,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

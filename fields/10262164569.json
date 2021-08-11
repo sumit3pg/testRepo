@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RoomList field",
+  "systemName": "RoomList_QMEO_ROOM",
+  "displayName": "LIS_LIS_QMEO_ROOMS",
+  "shortName": null,
+  "standardName": "RoomType",
+  "id": 10262164569,
+  "availableFlag": 1,
+  "dataTypeId": 10262164566,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001080,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

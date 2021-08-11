@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeLinkedin field",
+  "systemName": "OfficeLinkedin_CM_STRING_TEXT",
+  "displayName": "SYS_OCSVW_CONTACT_TYPES_LINKEDIN",
+  "shortName": null,
+  "standardName": "SocialMediaLinkedInUrlOrId",
+  "id": 85042410364,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

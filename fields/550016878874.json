@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXStructureList field",
+  "systemName": "MIREXStructureList_SubStructureTypes",
+  "displayName": "MIREXStructureList",
+  "shortName": null,
+  "standardName": "OtherStructures",
+  "id": 550016878874,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001171,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

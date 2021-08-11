@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToShopping field",
+  "systemName": "DistanceToShopping_QSS_DISTANCE_TO_SHOPPING",
+  "displayName": "LIS_LIS_QSS_DISTANCE_TO_SHOPPING",
+  "shortName": null,
+  "standardName": "DistanceFromShopping",
+  "id": 50048770201,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

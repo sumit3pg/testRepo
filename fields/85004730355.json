@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentPrimaryAssociationLkp field",
+  "systemName": "AgentPrimaryAssociationLkp_QSO_PRIMARY_ASSOCIATION",
+  "displayName": "SYS_PER_QSO_PRIMARY_ASSOCIATION",
+  "shortName": null,
+  "standardName": "MemberAOR",
+  "id": 85004730355,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004730358,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

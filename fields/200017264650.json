@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentSalutationDesc field",
+  "systemName": "BRIGHTSaleAgentSalutationDesc_BuyerAgentNamePrefix",
+  "displayName": "BRIGHTSaleAgentSalutationDesc",
+  "shortName": null,
+  "standardName": "BuyerAgentNamePrefix",
+  "id": 200017264650,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

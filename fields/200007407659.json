@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASection8Approved field",
+  "systemName": "CWASection8Approved_QSFLG_SECTION_8_APPROVED",
+  "displayName": "CWA_LIS_QSFLG_SECTION_8_APPROVED",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007407659,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

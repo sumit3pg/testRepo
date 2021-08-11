@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSysPartyLicenseExpirationDate field",
+  "systemName": "BRIGHTSysPartyLicenseExpirationDate_EXPIRATION_DATE",
+  "displayName": "BRIGHTSysPartyLicenseExpirationDate",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016084014,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

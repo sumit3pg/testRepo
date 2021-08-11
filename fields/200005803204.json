@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxesPerSquareFeet field",
+  "systemName": "TaxesPerSquareFeet_QSF_TAXES_PER_SQUARE_FEET",
+  "displayName": "LIS_LIS_QSF_TAXES_PER_SQUARE_FEE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005803204,
+  "availableFlag": 1,
+  "dataTypeId": 50000635388,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

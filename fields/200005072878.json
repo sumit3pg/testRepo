@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUOHVWCheckOutTimestamp field",
+  "systemName": "CWAUOHVWCheckOutTimestamp_OH_CHECK_OUT_TMS",
+  "displayName": "CWA_UOHVW_OH_CHECK_OUT_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005072878,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

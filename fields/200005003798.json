@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListingPriorPrice field",
+  "systemName": "CWAListingPriorPrice_QSF_PRIOR_LIST_PRICE",
+  "displayName": "CWA_LIS_QSF_PRIOR_LIST_PRICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003798,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

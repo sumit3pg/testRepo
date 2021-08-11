@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BathsHalf field",
+  "systemName": "BathsHalf_STR_BATHS_HALF",
+  "displayName": "LIS_LIS_STR_BATHS_HALF",
+  "shortName": null,
+  "standardName": "BathroomsHalf",
+  "id": 10000117321,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

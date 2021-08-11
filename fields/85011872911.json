@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LeaseTermSingle field",
+  "systemName": "LeaseTermSingle_QSO_LEASE_TERM_SINGLE",
+  "displayName": "LIS_LIS_QSO_LEASE_TERM_SINGLE",
+  "shortName": null,
+  "standardName": "LeaseTerm",
+  "id": 85011872911,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872908,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

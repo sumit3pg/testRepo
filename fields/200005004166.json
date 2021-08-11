@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleAgentDirectPhone field",
+  "systemName": "CWASaleAgentDirectPhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_CWSAGPCPVW1_PHONE_TYPES_DIRECT_1_CM_PHONE_NMBR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004166,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

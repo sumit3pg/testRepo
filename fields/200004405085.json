@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AdditionalCompensation2 field",
+  "systemName": "AdditionalCompensation2_DESCRIPTION",
+  "displayName": "LIS_COMP_COMPENSATION_TYPS_DDTNL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004405085,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

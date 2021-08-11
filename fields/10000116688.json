@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a StreetAdditionalInfo field",
+  "systemName": "StreetAdditionalInfo_ADDITIONAL_DISPLAY_NAME",
+  "displayName": "LIS_ADDR_ADDRESS_TYPES_PROPERTY_",
+  "shortName": null,
+  "standardName": "StreetAdditionalInfo",
+  "id": 10000116688,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

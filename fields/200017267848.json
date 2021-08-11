@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPurchaseOptional field",
+  "systemName": "BRIGHTPurchaseOptional_PurchaseOptionalYN",
+  "displayName": "BRIGHTPurchaseOptional",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267848,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropUnitSystemLocale field",
+  "systemName": "BRIGHTPropUnitSystemLocale_UnitSystemLocale",
+  "displayName": "BRIGHTPropUnitSystemLocale",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017271704,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50044328982,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

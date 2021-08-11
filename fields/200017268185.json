@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSpaFlag field",
+  "systemName": "BRIGHTSpaFlag_SpaYN",
+  "displayName": "BRIGHTSpaFlag",
+  "shortName": null,
+  "standardName": "SpaYN",
+  "id": 200017268185,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

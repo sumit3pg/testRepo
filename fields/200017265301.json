@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTExterior field",
+  "systemName": "BRIGHTExterior_ConstructionMaterials",
+  "displayName": "BRIGHTExterior",
+  "shortName": null,
+  "standardName": "ConstructionMaterials",
+  "id": 200017265301,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001984,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

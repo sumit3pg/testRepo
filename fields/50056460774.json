@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysMediaModificationTimestamp field",
+  "systemName": "SysMediaModificationTimestamp_MODIFIED_TMS",
+  "displayName": "SYS_SMEDUI_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50056460774,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit3FamilyRoomWidth field",
+  "systemName": "MIREXUnit3FamilyRoomWidth_Unit3FamilyRoomWidth",
+  "displayName": "MIREXUnit3FamilyRoomWidth",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879870,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

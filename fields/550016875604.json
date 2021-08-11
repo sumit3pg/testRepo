@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXExternalSystemID field",
+  "systemName": "MIREXExternalSystemID_ExternalSystemID",
+  "displayName": "MIREXExternalSystemID",
+  "shortName": null,
+  "standardName": "OriginatingSystemKey",
+  "id": 550016875604,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

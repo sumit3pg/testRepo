@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSittingRoom1Length field",
+  "systemName": "MIREXSittingRoom1Length_SittingRoom1Length",
+  "displayName": "MIREXSittingRoom1Length",
+  "shortName": null,
+  "standardName": "RoomSittingRoom1Length",
+  "id": 550016878526,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

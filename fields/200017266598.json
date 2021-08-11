@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListPrice field",
+  "systemName": "BRIGHTListPrice_ListPrice",
+  "displayName": "BRIGHTListPrice",
+  "shortName": null,
+  "standardName": "ListPrice",
+  "id": 200017266598,
+  "availableFlag": 1,
+  "dataTypeId": 50000635582,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

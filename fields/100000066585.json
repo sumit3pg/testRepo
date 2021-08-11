@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoRoomDimensions field",
+  "systemName": "LoRoomDimensions_QSS_DIMENSIONS",
+  "displayName": "LIS_LOROOM_QSS_DIMENSIONS",
+  "shortName": null,
+  "standardName": "RoomDimensions",
+  "id": 100000066585,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

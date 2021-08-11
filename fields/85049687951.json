@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentVoiceMailExtNum field",
+  "systemName": "ListAgentVoiceMailExtNum_CM_PHONE_EXTENSION_NUM",
+  "displayName": "SYS_LAGPCPVW1_PHONE_TYPES_VOC_ML",
+  "shortName": null,
+  "standardName": "ListAgentVoiceMailExt",
+  "id": 85049687951,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

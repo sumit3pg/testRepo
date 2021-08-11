@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaURLHiRes field",
+  "systemName": "BRIGHTPropMediaURLHiRes_FC_URL_HIRES",
+  "displayName": "BRIGHTPropMediaURLHiRes",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017269637,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

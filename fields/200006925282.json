@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACapitalContributionFee field",
+  "systemName": "CWACapitalContributionFee_QSF_CAPITAL_CONTRIBUTION_FEE",
+  "displayName": "CWA_LIS_QSF_CAPITAL_CONTRIBUTION_FEE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006925282,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

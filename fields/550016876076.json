@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXHeatingCooling field",
+  "systemName": "MIREXHeatingCooling_HeatingCooling",
+  "displayName": "MIREXHeatingCooling",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016876076,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639708,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

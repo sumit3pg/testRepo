@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABelowGradeAreaUnfinishedUnits field",
+  "systemName": "CWABelowGradeAreaUnfinishedUnits_AREA_UNFINISHED_UNITS",
+  "displayName": "CWA_SI_SIZE_TYPES_BELOW_OR_PART_BLW_1_R_NFNSHD_NTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004019,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

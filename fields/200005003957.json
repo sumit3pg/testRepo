@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAStoriesInBuilding field",
+  "systemName": "CWAStoriesInBuilding_QMO_STORIES_IN_BUILDING",
+  "displayName": "CWA_LIS_QMO_STORIES_IN_BUILDING",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003957,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640046,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

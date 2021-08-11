@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAHistoric field",
+  "systemName": "CWAHistoric_PUB_HISTORIC_FLAG",
+  "displayName": "CWA_LIS_PUB_HISTORIC_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004302,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTenancySVO field",
+  "systemName": "BRIGHTTenancySVO_TenancySVO",
+  "displayName": "BRIGHTTenancySVO",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268509,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200007797970,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

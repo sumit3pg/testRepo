@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentTransferDate field",
+  "systemName": "AgentTransferDate_QSD_TRANSFER_DATE",
+  "displayName": "SYS_PER_QSD_TRANSFER_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50057928207,
+  "availableFlag": 1,
+  "dataTypeId": 10000070533,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

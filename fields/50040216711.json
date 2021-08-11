@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentOtherPhone2Description field",
+  "systemName": "SaleAgentOtherPhone2Description_DSS_DESCRIPTION",
+  "displayName": "SYS_SAGPCPVW1_PHONE_TYPES_OTHER_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040216711,
+  "availableFlag": 1,
+  "dataTypeId": 10000070527,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GasLast12Months field",
+  "systemName": "GasLast12Months_QSF_LAST_TWELVE_MONTHS",
+  "displayName": "LIS_FIE_NCM_XPNS_TYPS_TLTS___GS_",
+  "shortName": null,
+  "standardName": null,
+  "id": 60000054117,
+  "availableFlag": 1,
+  "dataTypeId": 50000635388,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

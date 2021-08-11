@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisSaleAgentPreferredPhoneExt field",
+  "systemName": "LisSaleAgentPreferredPhoneExt_CM_PHONE_EXTENSION",
+  "displayName": "LIS_SAGPCPVW1_PHONE_TYPES_PREFER",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040702288,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

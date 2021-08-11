@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoRoomKey field",
+  "systemName": "CWALoRoomKey_SOURCE_ROOM_ID",
+  "displayName": "CWA_LOROOM_SOURCE_ROOM_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005027962,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUpperFloor4Bedrooms field",
+  "systemName": "BRIGHTUpperFloor4Bedrooms_UpperLevel4Bedrooms",
+  "displayName": "BRIGHTUpperFloor4Bedrooms",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268803,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

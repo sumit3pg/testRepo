@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAShowingMethod field",
+  "systemName": "CWAShowingMethod_QSO_SHOWING_METHOD",
+  "displayName": "CWA_LIS_QSO_SHOWING_METHOD",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016642796,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200016642577,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

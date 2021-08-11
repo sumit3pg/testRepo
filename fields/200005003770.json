@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAuctionPublishedMinBid field",
+  "systemName": "CWAAuctionPublishedMinBid_QSF_AUCTN_PUBLISHED_MIN_BID",
+  "displayName": "CWA_LIS_QSF_AUCTN_PUBLISHED_MIN_BID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003770,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

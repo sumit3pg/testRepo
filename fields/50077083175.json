@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BasicListingID field",
+  "systemName": "BasicListingID_LIS_LIST_NUMBER",
+  "displayName": "LIS_LISBIVW_LIS_LIST_NUMBER",
+  "shortName": null,
+  "standardName": "ListingId",
+  "id": 50077083175,
+  "availableFlag": 1,
+  "dataTypeId": 10000000116,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

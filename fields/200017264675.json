@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentPreferredPhoneExtNum field",
+  "systemName": "BRIGHTSaleAgentPreferredPhoneExtNum_MemberPreferredPhoneExt",
+  "displayName": "BRIGHTSaleAgentPreferredPhoneExtNum",
+  "shortName": null,
+  "standardName": "BuyerAgentPreferredPhoneExt",
+  "id": 200017264675,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

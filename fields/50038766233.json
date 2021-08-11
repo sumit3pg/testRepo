@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit8TotalBaths field",
+  "systemName": "Unit8TotalBaths_BATHS_TOTAL",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_8_B",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766233,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUUNITChangeTimestamp field",
+  "systemName": "CWAUUNITChangeTimestamp_CHANGE_TMS",
+  "displayName": "CWA_UUNIT_CHANGE_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005079721,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

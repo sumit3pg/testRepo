@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropUnitContiguousSpaceFlag field",
+  "systemName": "PropUnitContiguousSpaceFlag_QSFLG_CONTIGUOUS_SPACE",
+  "displayName": "LIS_UUNIT_QSFLG_CONTIGUOUS_SPACE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004405072,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

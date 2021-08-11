@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUtilities field",
+  "systemName": "BRIGHTUtilities_Utilities",
+  "displayName": "BRIGHTUtilities",
+  "shortName": null,
+  "standardName": "Utilities",
+  "id": 200017268905,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50001304064,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

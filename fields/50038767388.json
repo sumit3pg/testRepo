@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit8HeatType field",
+  "systemName": "Unit8HeatType_QSS_HEAT_DESCRIPTION",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_8_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038767388,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

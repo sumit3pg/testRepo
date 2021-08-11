@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeOfficePhone2 field",
+  "systemName": "OfficeOfficePhone2_CM_PHONE_NUMBER",
+  "displayName": "SYS_OCPVW_PHONE_TYPES_OFFICE_2_C",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000073231,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1LeaseExpirationInfo field",
+  "systemName": "Unit1LeaseExpirationInfo_QSS_LEASE_EXPIRATION_INFO",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_1_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038770103,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

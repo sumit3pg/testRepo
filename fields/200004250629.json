@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentMainAssociation field",
+  "systemName": "AgentMainAssociation_QSO_MAIN_ASSOCIATION",
+  "displayName": "SYS_PER_QSO_MAIN_ASSOCIATION",
+  "shortName": null,
+  "standardName": "MemberAOR",
+  "id": 200004250629,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004265034,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListingOtherPhoneDescription field",
+  "systemName": "ListingOtherPhoneDescription_QSS_OTHER_PHONE_DESCRIPTION",
+  "displayName": "LIS_LIS_QSS_OTHER_PHONE_DESCRIPT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706487,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

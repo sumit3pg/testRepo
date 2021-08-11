@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysHistSubSystemLocale field",
+  "systemName": "SysHistSubSystemLocale_SUB_SYS_LOC_ID",
+  "displayName": "SYS_UHVW_SUB_SYS_LOC_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005133357,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50060609962,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

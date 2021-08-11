@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CtyCityKey field",
+  "systemName": "CtyCityKey_CTY_ID",
+  "displayName": "SYS_CCTY_CTY_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003635538,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

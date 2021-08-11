@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAWindowStyles field",
+  "systemName": "CWAWindowStyles_QMO_WINDOW_STYLES",
+  "displayName": "CWA_LIS_QMO_WINDOW_STYLES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003966,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670929,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

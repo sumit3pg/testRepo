@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PoolAccessories field",
+  "systemName": "PoolAccessories_QMO_POOL_ACCESSORIES",
+  "displayName": "LIS_LIS_QMO_POOL_ACCESSORIES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706518,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670919,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

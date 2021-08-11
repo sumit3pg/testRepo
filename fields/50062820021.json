@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ManufacturedHomeYN field",
+  "systemName": "ManufacturedHomeYN_QSFLG_MANUFACTURED_HOME_FLAG",
+  "displayName": "LIS_LIS_QSFLG_MANUFACTURED_HOME_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820021,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentPreferredPhone field",
+  "systemName": "ListAgentPreferredPhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_LAGPCPVW1_PHONE_TYPES_PREFER",
+  "shortName": null,
+  "standardName": "ListAgentPreferredPhone",
+  "id": 50040216375,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

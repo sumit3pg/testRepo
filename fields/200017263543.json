@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentUnitDesignation field",
+  "systemName": "BRIGHTAgentUnitDesignation_MemberUnitDesignation",
+  "displayName": "BRIGHTAgentUnitDesignation",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263543,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069213,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1DiningRoomDescription field",
+  "systemName": "Unit1DiningRoomDescription_QMO_UNIT_FEATURES",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNT_1_DN",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765339,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038643744,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeSourceBusinessPartner field",
+  "systemName": "OfficeSourceBusinessPartner_QSO_SOURCE_BUSINESS_PARTNER",
+  "displayName": "SYS_ORG_QSO_SOURCE_BUSINESS_PART",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004228523,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228477,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

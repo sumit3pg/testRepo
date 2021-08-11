@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeRecordUpdatedBy field",
+  "systemName": "OfficeRecordUpdatedBy_QSS_RECORD_UPDATED_BY",
+  "displayName": "SYS_ORG_QSS_RECORD_UPDATED_BY",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000973645,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

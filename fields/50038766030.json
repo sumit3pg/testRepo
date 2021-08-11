@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LegalDescription field",
+  "systemName": "LegalDescription_QSS_LEGAL_DESCRIPTION",
+  "displayName": "LIS_LIS_QSS_LEGAL_DESCRIPTION",
+  "shortName": null,
+  "standardName": "TaxLegalDescription",
+  "id": 50038766030,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

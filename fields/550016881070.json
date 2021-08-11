@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXZip4 field",
+  "systemName": "MIREXZip4_Zip4",
+  "displayName": "MIREXZip4",
+  "shortName": null,
+  "standardName": "PostalCodePlus4",
+  "id": 550016881070,
+  "availableFlag": 1,
+  "dataTypeId": 10000000170,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

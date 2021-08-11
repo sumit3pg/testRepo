@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MobileLength field",
+  "systemName": "MobileLength_LENGTH",
+  "displayName": "LIS_SI_SIZE_TYPES_MOBILE_1_LENGT",
+  "shortName": null,
+  "standardName": "MobileLength",
+  "id": 85011871608,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

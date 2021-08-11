@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUnitBuildingType field",
+  "systemName": "CWAUnitBuildingType_QSO_UNIT_BUILDING_TYPE",
+  "displayName": "CWA_LIS_QSO_UNIT_BUILDING_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005845205,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200005845166,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

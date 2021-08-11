@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AutomaticallyCloseOnCloseDateYN field",
+  "systemName": "AutomaticallyCloseOnCloseDateYN_QSFLG_TMTCLLY_CLS_N_CLS_DT_Y_N",
+  "displayName": "LIS_LIS_QSFLG_TMTCLLY_CLS_N_CLS_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016682492,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

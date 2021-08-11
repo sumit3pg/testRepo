@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSysPartyLicensePartyKey field",
+  "systemName": "BRIGHTSysPartyLicensePartyKey_PTY_ID",
+  "displayName": "BRIGHTSysPartyLicensePartyKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016084050,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

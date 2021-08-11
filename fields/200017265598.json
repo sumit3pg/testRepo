@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDuplicateMlsIDs field",
+  "systemName": "BRIGHTDuplicateMlsIDs_DuplicateMlsIDs",
+  "displayName": "BRIGHTDuplicateMlsIDs",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265598,
+  "availableFlag": 1,
+  "dataTypeId": 200017265595,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a County field",
+  "systemName": "County_COR_ID",
+  "displayName": "LIS_ADDR_ADDRESS_TYPES_PROPERTY_",
+  "shortName": null,
+  "standardName": "CountyOrParish",
+  "id": 10000116640,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002984,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

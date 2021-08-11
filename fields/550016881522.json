@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaDisplayOrder field",
+  "systemName": "MIREXPropMediaDisplayOrder_DISPLAY_ORDER",
+  "displayName": "MIREXPropMediaDisplayOrder",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016881522,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

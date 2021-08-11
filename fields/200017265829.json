@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFireplaces field",
+  "systemName": "BRIGHTFireplaces_FireplacesTotal",
+  "displayName": "BRIGHTFireplaces",
+  "shortName": null,
+  "standardName": "FireplacesTotal",
+  "id": 200017265829,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

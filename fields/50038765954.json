@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DIHLRCertifiedFlag field",
+  "systemName": "DIHLRCertifiedFlag_QSFLG_IS_DIHLR_CERTIFIED",
+  "displayName": "LIS_LIS_QSFLG_IS_DIHLR_CERTIFIED",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765954,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

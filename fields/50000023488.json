@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OpenHouseShowingAgentKey field",
+  "systemName": "OpenHouseShowingAgentKey_PTY_ID",
+  "displayName": "SYS_OHPR_PTY_ID",
+  "shortName": null,
+  "standardName": "ShowingAgentKey",
+  "id": 50000023488,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

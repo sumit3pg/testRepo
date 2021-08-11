@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SimLisUserDeletedFlag field",
+  "systemName": "SimLisUserDeletedFlag_USER_DELETED_FLAG",
+  "displayName": "LIS_SL_USER_DELETED_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003505170,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

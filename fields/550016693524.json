@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXSysPrEndDate field",
+  "systemName": "WIREXSysPrEndDate_END_DATE",
+  "displayName": "WIREXSysPrEndDate",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693524,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeBranchType field",
+  "systemName": "OfficeBranchType_QSO_OFFICE_BRANCH_TYPE",
+  "displayName": "SYS_ORG_QSO_OFFICE_BRANCH_TYPE",
+  "shortName": null,
+  "standardName": "OfficeBranchType",
+  "id": 85042434106,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85042405580,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

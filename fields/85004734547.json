@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentListingAddEditYN field",
+  "systemName": "AgentListingAddEditYN_QSFLG_AGENT_ADD_EDIT_LISTING",
+  "displayName": "SYS_PER_QSFLG_AGENT_ADD_EDIT_LIS",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004734547,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

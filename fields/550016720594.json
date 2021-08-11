@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentOtherPhone3 field",
+  "systemName": "WIREXAgentOtherPhone3_AgentOtherPhone3",
+  "displayName": "WIREXAgentOtherPhone3",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016720594,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASussexDEQuadrants field",
+  "systemName": "CWASussexDEQuadrants_QSO_SUSSEX_D_E_QUADRANTS",
+  "displayName": "CWA_LIS_QSO_SUSSEX_D_E_QUADRANTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005953156,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200005952434,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaExtSysProcessingTime field",
+  "systemName": "CWAPropMediaExtSysProcessingTime_MED_EXT_SYS_RCV_PROCESSING_TIM",
+  "displayName": "CWA_MEDVW_MED_EXT_SYS_RCV_PROCESSING_TIME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016838559,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ExteriorFeatures field",
+  "systemName": "ExteriorFeatures_QMO_EXTERIOR_FEATURES",
+  "displayName": "LIS_LIS_QMO_EXTERIOR_FEATURES",
+  "shortName": null,
+  "standardName": "ExteriorFeatures",
+  "id": 10000117108,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002003,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

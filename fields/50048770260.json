@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToElectricity field",
+  "systemName": "DistanceToElectricity_QSS_DISTANCE_TO_ELECTRICITY",
+  "displayName": "LIS_LIS_QSS_DISTANCE_TO_ELECTRIC",
+  "shortName": null,
+  "standardName": "DistanceToElectric",
+  "id": 50048770260,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXStyles field",
+  "systemName": "MIREXStyles_Styles",
+  "displayName": "MIREXStyles",
+  "shortName": null,
+  "standardName": "ArchitecturalStyle",
+  "id": 550016878802,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50039768139,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

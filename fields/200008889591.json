@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListOfficeResponsibleBrokerKey field",
+  "systemName": "CWAListOfficeResponsibleBrokerKey_QSL_LIST_RESP_BRK_KEY",
+  "displayName": "CWA_LIS_QSL_LIST_RESP_BRK_KEY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008889591,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

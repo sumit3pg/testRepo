@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOtherUnits field",
+  "systemName": "BRIGHTOtherUnits_OtherUnits",
+  "displayName": "BRIGHTOtherUnits",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267506,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCAM field",
+  "systemName": "BRIGHTCAM_CommonAreaMaintenance",
+  "displayName": "BRIGHTCAM",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265235,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPsubKey field",
+  "systemName": "BRIGHTPsubKey_PS_ID",
+  "displayName": "BRIGHTPsubKey",
+  "shortName": null,
+  "standardName": "PsubKey",
+  "id": 550016266532,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

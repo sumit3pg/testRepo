@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RecRm1Width field",
+  "systemName": "RecRm1Width_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_RECREATI",
+  "shortName": null,
+  "standardName": "RoomRecRm1Width",
+  "id": 10000097982,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

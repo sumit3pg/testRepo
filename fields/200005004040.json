@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFarmOperation field",
+  "systemName": "CWAFarmOperation_QMO_FARM_OPERATION",
+  "displayName": "CWA_LIS_QMO_FARM_OPERATION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004040,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002029,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

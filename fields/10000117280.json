@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Farm field",
+  "systemName": "Farm_MAIN_FARM_FLAG",
+  "displayName": "LIS_LIS_MAIN_FARM_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117280,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

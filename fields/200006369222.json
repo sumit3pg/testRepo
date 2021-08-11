@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoSubdivisionStatus field",
+  "systemName": "LoSubdivisionStatus_STATUS",
+  "displayName": "LIS_LOSUBD_STATUS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006369222,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200006369212,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHomeWarrantyFlag field",
+  "systemName": "BRIGHTHomeWarrantyFlag_HomeWarrantyYN",
+  "displayName": "BRIGHTHomeWarrantyFlag",
+  "shortName": null,
+  "standardName": "HomeWarrantyYN",
+  "id": 200017266063,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

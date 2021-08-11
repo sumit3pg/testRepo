@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASubAgentCompensationRemarks field",
+  "systemName": "CWASubAgentCompensationRemarks_TEXT_REMARKS",
+  "displayName": "CWA_COMP_COMPENSATIN_TYPS_SB_GNT_CMPNSTN_TXT_RMRKS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005156341,
+  "availableFlag": 1,
+  "dataTypeId": 200004437398,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

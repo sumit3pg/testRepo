@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotImprovementsFlag field",
+  "systemName": "LotImprovementsFlag_QSFLG_LOT_HAS_IMPROVEMENTS",
+  "displayName": "LIS_LIS_QSFLG_LOT_HAS_IMPROVEMEN",
+  "shortName": null,
+  "standardName": null,
+  "id": 50047378202,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

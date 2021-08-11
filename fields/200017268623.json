@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTotalTours field",
+  "systemName": "BRIGHTTotalTours_TotalVirtualTours",
+  "displayName": "BRIGHTTotalTours",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268623,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a YearRenovated field",
+  "systemName": "YearRenovated_QSL_YEAR_RENOVATED",
+  "displayName": "LIS_LIS_QSL_YEAR_RENOVATED",
+  "shortName": null,
+  "standardName": "YearBuiltEffective",
+  "id": 10000117186,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

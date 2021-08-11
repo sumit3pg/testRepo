@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAShowingContact1Type field",
+  "systemName": "CWAShowingContact1Type_QSO_SHOW_CONTACT_1_TYPE",
+  "displayName": "CWA_LIS_QSO_SHOW_CONTACT_1_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004367,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001604,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

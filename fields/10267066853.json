@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a StructureList field",
+  "systemName": "StructureList_QMEO_OS",
+  "displayName": "LIS_LIS_QMEO_OS",
+  "shortName": null,
+  "standardName": "OtherStructures",
+  "id": 10267066853,
+  "availableFlag": 1,
+  "dataTypeId": 10267066750,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001171,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

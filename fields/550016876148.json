@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXInteriorFeatures field",
+  "systemName": "MIREXInteriorFeatures_InteriorFeatures",
+  "displayName": "MIREXInteriorFeatures",
+  "shortName": null,
+  "standardName": "InteriorFeatures",
+  "id": 550016876148,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002238,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

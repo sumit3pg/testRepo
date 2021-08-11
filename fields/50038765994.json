@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FarmFeatures field",
+  "systemName": "FarmFeatures_QMO_FARM_FEATURES",
+  "displayName": "LIS_LIS_QMO_FARM_FEATURES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765994,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639645,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

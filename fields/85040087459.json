@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FinancialDataSource field",
+  "systemName": "FinancialDataSource_QMO_FINANCIAL_DATA_SOURCE",
+  "displayName": "LIS_LIS_QMO_FINANCIAL_DATA_SOURC",
+  "shortName": null,
+  "standardName": "FinancialDataSource",
+  "id": 85040087459,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85040087485,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

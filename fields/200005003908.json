@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAYearBuilt field",
+  "systemName": "CWAYearBuilt_STR_YEAR_BUILT",
+  "displayName": "CWA_LIS_STR_YEAR_BUILT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003908,
+  "availableFlag": 1,
+  "dataTypeId": 10000000168,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

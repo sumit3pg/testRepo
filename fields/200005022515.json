@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoRoomItemNumber field",
+  "systemName": "CWALoRoomItemNumber_ITEM_NUMBER",
+  "displayName": "CWA_LOROOM_ITEM_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005022515,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

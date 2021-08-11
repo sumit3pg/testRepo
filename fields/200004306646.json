@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PartyPermKey field",
+  "systemName": "PartyPermKey_PP_ID",
+  "displayName": "SYS_PP_PP_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004306646,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

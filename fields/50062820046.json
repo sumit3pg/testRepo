@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherRequirementsExistFlag field",
+  "systemName": "OtherRequirementsExistFlag_QSFLG_OTHER_REQUIREMENTS_EXIST",
+  "displayName": "LIS_LIS_QSFLG_OTHER_REQUIREMENTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820046,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

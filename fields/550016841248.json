@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUchPropHistItemNumber field",
+  "systemName": "BRIGHTUchPropHistItemNumber_ITEM_NUMBER",
+  "displayName": "BRIGHTUchPropHistItemNumber",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016841248,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

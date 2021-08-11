@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToSewer field",
+  "systemName": "DistanceToSewer_QSS_DISTANCE_TO_SEWER",
+  "displayName": "LIS_LIS_QSS_DISTANCE_TO_SEWER",
+  "shortName": null,
+  "standardName": "DistanceToSewer",
+  "id": 50070504068,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

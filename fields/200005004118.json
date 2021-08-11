@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAGreenSustainability field",
+  "systemName": "CWAGreenSustainability_QMO_GREEN_SUSTAINABILITY",
+  "displayName": "CWA_LIS_QMO_GREEN_SUSTAINABILITY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004118,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734660,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

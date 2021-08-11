@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PPOKey field",
+  "systemName": "PPOKey_PPO_ID",
+  "displayName": "SYS_PPO_PPO_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004653498,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

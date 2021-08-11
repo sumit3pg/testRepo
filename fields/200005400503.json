@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ContingencyTypes field",
+  "systemName": "ContingencyTypes_QMO_CONTINGENCY_TYPES",
+  "displayName": "LIS_LIS_QMO_CONTINGENCY_TYPES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005400503,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000000662,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

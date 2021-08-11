@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListAgentFirstName field",
+  "systemName": "BRIGHTListAgentFirstName_MemberFirstName",
+  "displayName": "BRIGHTListAgentFirstName",
+  "shortName": null,
+  "standardName": "ListAgentFirstName",
+  "id": 200017266408,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

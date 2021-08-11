@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXGarage field",
+  "systemName": "MIREXGarage_Garage",
+  "displayName": "MIREXGarage",
+  "shortName": null,
+  "standardName": "GarageSpaces",
+  "id": 550016875834,
+  "availableFlag": 1,
+  "dataTypeId": 10000000139,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

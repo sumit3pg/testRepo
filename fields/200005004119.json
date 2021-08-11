@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAGreenWaterConservation field",
+  "systemName": "CWAGreenWaterConservation_QMO_GREEN_WATER_CONSERVATION",
+  "displayName": "CWA_LIS_QMO_GREEN_WATER_CONSERVATION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004119,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734669,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

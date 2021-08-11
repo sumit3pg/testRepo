@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListOfficeBrightConvertedFlag field",
+  "systemName": "CWAListOfficeBrightConvertedFlag_QSFLG_BRIGHT_CONVERTED",
+  "displayName": "SYS_CWLAGORG1_QSFLG_BRIGHT_CONVERTED",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003789,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

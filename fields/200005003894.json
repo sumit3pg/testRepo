@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABasementAreaFinished field",
+  "systemName": "CWABasementAreaFinished_AREA_FINISHED",
+  "displayName": "CWA_OS_SUB_STRUCTURE_TYPES_BELOW_GRADE_1_ARE_FNSHD",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003894,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

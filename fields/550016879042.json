@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAnnualGrossExpense field",
+  "systemName": "MIREXAnnualGrossExpense_TotalExpenses",
+  "displayName": "MIREXAnnualGrossExpense",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879042,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

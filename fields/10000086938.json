@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentVoiceMail field",
+  "systemName": "ListAgentVoiceMail_CM_PHONE_NUMBER",
+  "displayName": "SYS_LAGPCPVW1_PHONE_TYPES_VOICE_",
+  "shortName": null,
+  "standardName": "ListAgentVoiceMail",
+  "id": 10000086938,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

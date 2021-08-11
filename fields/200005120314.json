@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TransactionBrokerCompensation2 field",
+  "systemName": "TransactionBrokerCompensation2_DESCRIPTION",
+  "displayName": "LIS_COMP_COMPENSATION_TYPES_TRNS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005120314,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a InternetServices field",
+  "systemName": "InternetServices_QMO_INTERNET_SERVICES",
+  "displayName": "LIS_LIS_QMO_INTERNET_SERVICES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016890022,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200016889536,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

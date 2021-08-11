@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOtherDescription field",
+  "systemName": "BRIGHTOtherDescription_ListOfficeCounty",
+  "displayName": "BRIGHTOtherDescription",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266515,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

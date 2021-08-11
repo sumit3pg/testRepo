@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit10Quantity field",
+  "systemName": "Unit10Quantity_NUM_UNITS",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_10_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50048748664,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

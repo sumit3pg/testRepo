@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitExternalSystemID field",
+  "systemName": "CWAPropUnitExternalSystemID_EXTERNAL_SYSTEM_ID",
+  "displayName": "CWA_UUNIT_EXTERNAL_SYSTEM_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005921521,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

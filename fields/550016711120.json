@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAgentPostalCode field",
+  "systemName": "MIREXAgentPostalCode_AgentPostalCode",
+  "displayName": "MIREXAgentPostalCode",
+  "shortName": null,
+  "standardName": "MemberPostalCode",
+  "id": 550016711120,
+  "availableFlag": 1,
+  "dataTypeId": 10000000169,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

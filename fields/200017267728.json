@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListingPriorPrice field",
+  "systemName": "BRIGHTListingPriorPrice_PreviousListPrice",
+  "displayName": "BRIGHTListingPriorPrice",
+  "shortName": null,
+  "standardName": "PreviousListPrice",
+  "id": 200017267728,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

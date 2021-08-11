@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltOfficeOfficeID field",
+  "systemName": "AltOfficeOfficeID_PTY_IDENTIFIER",
+  "displayName": "SYS_LAGORG2_PTY_IDENTIFIER",
+  "shortName": null,
+  "standardName": "CoListOfficeMlsId",
+  "id": 10162043270,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

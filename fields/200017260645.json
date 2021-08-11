@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeCountry field",
+  "systemName": "BRIGHTOfficeCountry_OfficeCountry",
+  "displayName": "BRIGHTOfficeCountry",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260645,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002982,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAgentFax field",
+  "systemName": "MIREXAgentFax_AgentFax",
+  "displayName": "MIREXAgentFax",
+  "shortName": null,
+  "standardName": "MemberFax",
+  "id": 550016710862,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

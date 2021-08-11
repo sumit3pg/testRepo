@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPphvwListPictureURL field",
+  "systemName": "BRIGHTPphvwListPictureURL_LIST_PICTURE_URL",
+  "displayName": "BRGHT_PPHVW_LIST_PICTURE_URL",
+  "shortName": null,
+  "standardName": null,
+  "id": 550017025296,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

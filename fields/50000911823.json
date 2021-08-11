@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ExtraFee field",
+  "systemName": "ExtraFee_QMO_EXTRA_FEE",
+  "displayName": "LIS_LIS_QMO_EXTRA_FEE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911823,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897814,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

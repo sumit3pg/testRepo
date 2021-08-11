@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltAgentTeamName field",
+  "systemName": "BRIGHTAltAgentTeamName_TeamName",
+  "displayName": "BRIGHTAltAgentTeamName",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016973348,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

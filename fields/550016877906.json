@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPresentUse field",
+  "systemName": "MIREXPresentUse_PresentUse",
+  "displayName": "MIREXPresentUse",
+  "shortName": null,
+  "standardName": "CurrentUse",
+  "id": 550016877906,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002463,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

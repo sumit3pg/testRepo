@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentPrivateEmail field",
+  "systemName": "BRIGHTAgentPrivateEmail_MemberPrivateEmail",
+  "displayName": "BRIGHTAgentPrivateEmail",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263399,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

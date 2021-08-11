@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXLeasedUnits field",
+  "systemName": "MIREXLeasedUnits_PercentLeased",
+  "displayName": "MIREXLeasedUnits",
+  "shortName": null,
+  "standardName": "NumberOfUnitsLeased",
+  "id": 550016877856,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

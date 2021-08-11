@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSunRoomLevel field",
+  "systemName": "MIREXSunRoomLevel_SunRoomLevel",
+  "displayName": "MIREXSunRoomLevel",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878934,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

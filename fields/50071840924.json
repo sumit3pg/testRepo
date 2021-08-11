@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a VOWComment field",
+  "systemName": "VOWComment_QSFLG_VOW_CONSUMER_COMMENTS",
+  "displayName": "LIS_LIS_QSFLG_VOW_CONSUMER_COMME",
+  "shortName": null,
+  "standardName": null,
+  "id": 50071840924,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

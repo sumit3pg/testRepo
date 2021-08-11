@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Foyer1LengthWidthSource field",
+  "systemName": "Foyer1LengthWidthSource_QSO_LEN_WID_MES_SRC",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_FOYER_1_",
+  "shortName": null,
+  "standardName": "RoomFoyer1LengthWidthSource",
+  "id": 85011883919,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640907,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

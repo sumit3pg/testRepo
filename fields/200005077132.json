@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitExpirationDate field",
+  "systemName": "CWAPropUnitExpirationDate_QSD_EXPIRATION_DATE",
+  "displayName": "CWA_UUNIT_QSD_EXPIRATION_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077132,
+  "availableFlag": 1,
+  "dataTypeId": 200004437388,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

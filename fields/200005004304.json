@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALotNumber field",
+  "systemName": "CWALotNumber_PUB_LOT",
+  "displayName": "CWA_LIS_PUB_LOT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004304,
+  "availableFlag": 1,
+  "dataTypeId": 10000000143,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

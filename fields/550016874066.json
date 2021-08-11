@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXStreetAdditionalInfo field",
+  "systemName": "MIREXStreetAdditionalInfo_AddressAdditionalInfo",
+  "displayName": "MIREXStreetAdditionalInfo",
+  "shortName": null,
+  "standardName": "StreetAdditionalInfo",
+  "id": 550016874066,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitTotalBaths field",
+  "systemName": "CWAPropUnitTotalBaths_BATHS_TOTAL",
+  "displayName": "CWA_UUNIT_BATHS_TOTAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077118,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

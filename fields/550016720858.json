@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentAlternateID field",
+  "systemName": "WIREXAgentAlternateID_AgentUserCode",
+  "displayName": "WIREXAgentAlternateID",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016720858,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

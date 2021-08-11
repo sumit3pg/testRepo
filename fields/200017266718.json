@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLockBoxInformation field",
+  "systemName": "BRIGHTLockBoxInformation_LockBoxLocation",
+  "displayName": "BRIGHTLockBoxInformation",
+  "shortName": null,
+  "standardName": "LockBoxLocation",
+  "id": 200017266718,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

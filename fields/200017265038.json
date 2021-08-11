@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltSaleOfficeFax field",
+  "systemName": "BRIGHTAltSaleOfficeFax_OfficeFax",
+  "displayName": "BRIGHTAltSaleOfficeFax",
+  "shortName": null,
+  "standardName": "CoBuyerOfficeFax",
+  "id": 200017265038,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

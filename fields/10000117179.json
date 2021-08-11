@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SingleRoomUnits field",
+  "systemName": "SingleRoomUnits_QSL_N_UNITS_SINGLE_BEDROOM",
+  "displayName": "LIS_LIS_QSL_N_UNITS_SINGLE_BEDRO",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117179,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

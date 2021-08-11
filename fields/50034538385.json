@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Styles field",
+  "systemName": "Styles_QMO_STYLES",
+  "displayName": "LIS_LIS_QMO_STYLES",
+  "shortName": null,
+  "standardName": "ArchitecturalStyle",
+  "id": 50034538385,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50039768139,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

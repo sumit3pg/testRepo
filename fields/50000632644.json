@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CityZipCodeZip field",
+  "systemName": "CityZipCodeZip_ZIP",
+  "displayName": "SYS_ZC_ZIP",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000632644,
+  "availableFlag": 1,
+  "dataTypeId": 10000000119,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ForSale field",
+  "systemName": "ForSale_MAIN_FOR_SALE_FLAG",
+  "displayName": "LIS_LIS_MAIN_FOR_SALE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117281,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

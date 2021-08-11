@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LandlordTenantPays field",
+  "systemName": "LandlordTenantPays_QMO_LANDLORD_TENANT_PAYS",
+  "displayName": "LIS_LIS_QMO_LANDLORD_TENANT_PAYS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765959,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639779,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

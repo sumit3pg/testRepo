@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTExteriorAmenities field",
+  "systemName": "BRIGHTExteriorAmenities_ExteriorAmenities",
+  "displayName": "BRIGHTExteriorAmenities",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265715,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897803,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

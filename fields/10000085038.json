@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleOfficeZip4 field",
+  "systemName": "SaleOfficeZip4_ADDR_ZIP4",
+  "displayName": "SYS_SAGOCAVW1_ADDRESS_TYPES_OFFI",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000085038,
+  "availableFlag": 1,
+  "dataTypeId": 10000000170,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

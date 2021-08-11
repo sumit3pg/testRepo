@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSchoolDistrictName field",
+  "systemName": "BRIGHTSchoolDistrictName_NAME",
+  "displayName": "BRIGHTSchoolDistrictName",
+  "shortName": null,
+  "standardName": "HighSchoolDistrict",
+  "id": 550016822444,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

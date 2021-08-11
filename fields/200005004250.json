@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAdditionalCompAmount field",
+  "systemName": "CWAAdditionalCompAmount_DESCRIPTION",
+  "displayName": "CWA_COMP_COMPENSATION_TYPES_ADDTNL_CMPNSTN_DSCRPTN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004250,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

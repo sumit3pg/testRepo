@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSemiAnnualTax2Year field",
+  "systemName": "MIREXSemiAnnualTax2Year_SemiAnnualTaxYear2",
+  "displayName": "MIREXSemiAnnualTax2Year",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878394,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLsubKey field",
+  "systemName": "BRIGHTLsubKey_LSUB_ID",
+  "displayName": "BRIGHTLsubKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016842226,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

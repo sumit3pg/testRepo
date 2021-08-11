@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaSize field",
+  "systemName": "CWAPropMediaSize_MED_MEDS_ID",
+  "displayName": "CWA_MEDVW_MED_MEDS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024403,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000069217,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

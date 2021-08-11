@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LockBoxInformation field",
+  "systemName": "LockBoxInformation_QSS_LOCK_BOX_INFO",
+  "displayName": "LIS_LIS_QSS_LOCK_BOX_INFO",
+  "shortName": null,
+  "standardName": "LockBoxLocation",
+  "id": 50048770219,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

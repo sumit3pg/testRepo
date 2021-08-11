@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAMediaVisibility field",
+  "systemName": "CWAMediaVisibility_QSO_MEDIA_VISIBILITY",
+  "displayName": "CWA_MEDVW_QSO_MEDIA_VISIBILITY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005795675,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200005793077,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

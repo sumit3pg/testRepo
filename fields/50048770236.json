@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SourceDaysOnMarketProperty field",
+  "systemName": "SourceDaysOnMarketProperty_QSL_SOURCE_DOMP",
+  "displayName": "LIS_LIS_QSL_SOURCE_DOMP",
+  "shortName": null,
+  "standardName": null,
+  "id": 50048770236,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

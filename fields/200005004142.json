@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWADockSlipConveyance field",
+  "systemName": "CWADockSlipConveyance_QSO_DOCK_SLIP_CONVEYANCE",
+  "displayName": "CWA_LIS_QSO_DOCK_SLIP_CONVEYANCE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004142,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85033301940,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

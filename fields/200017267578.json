@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTParkingTypes field",
+  "systemName": "BRIGHTParkingTypes_ParkingTypes",
+  "displayName": "BRIGHTParkingTypes",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267578,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200005886796,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

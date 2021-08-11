@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLoRoomExistsFlag field",
+  "systemName": "BRIGHTLoRoomExistsFlag_RoomExistsYN",
+  "displayName": "BRIGHTLoRoomExistsFlag",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017269447,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherRm1AreaSource field",
+  "systemName": "OtherRm1AreaSource_QSO_AREA_TOTAL_MES_SRC",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_THR_RM_1",
+  "shortName": null,
+  "standardName": "RoomOtherRm1AreaSource",
+  "id": 85011883865,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640907,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

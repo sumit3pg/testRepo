@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaPixelWidth field",
+  "systemName": "BRIGHTPropMediaPixelWidth_PIXEL_WIDTH",
+  "displayName": "BRIGHTPropMediaPixelWidth",
+  "shortName": null,
+  "standardName": "ImageWidth",
+  "id": 200017269715,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LienReleaseFlag field",
+  "systemName": "LienReleaseFlag_QSFLG_LIEN_RELEASE_FLAG",
+  "displayName": "LIS_LIS_QSFLG_LIEN_RELEASE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504082,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

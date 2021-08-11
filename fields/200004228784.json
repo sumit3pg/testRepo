@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentBrightConvertedFlag field",
+  "systemName": "ListAgentBrightConvertedFlag_QSFLG_BRIGHT_CONVERTED",
+  "displayName": "SYS_LAGPER1_QSFLG_BRIGHT_CONVERT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004228784,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

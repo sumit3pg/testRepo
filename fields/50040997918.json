@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherAssociationFeeList field",
+  "systemName": "OtherAssociationFeeList_QMO_ASSOCIATION_FEE_LIST",
+  "displayName": "LIS_LIS_QMO_ASSOCIATION_FEE_LIST",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040997918,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040997834,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

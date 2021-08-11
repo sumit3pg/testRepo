@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAMapURL field",
+  "systemName": "CWAMapURL_URL",
+  "displayName": "CWA_MAP_MAP_TYPES_TBM_URL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003854,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

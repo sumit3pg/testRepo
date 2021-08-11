@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DelUchHistSubSystemLocale field",
+  "systemName": "DelUchHistSubSystemLocale_SUB_SYS_LOC_ID",
+  "displayName": "SYS_UCHD_SUB_SYS_LOC_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006491090,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 50060609962,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

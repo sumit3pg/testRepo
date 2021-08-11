@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropUnitTotalBaths field",
+  "systemName": "PropUnitTotalBaths_BATHS_TOTAL",
+  "displayName": "LIS_UUNIT_BATHS_TOTAL",
+  "shortName": null,
+  "standardName": "UnitTypeBathsTotal",
+  "id": 50070932276,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

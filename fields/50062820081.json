@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuyerBrokerCompensationExistsFlag field",
+  "systemName": "BuyerBrokerCompensationExistsFlag_EXISTS_FLAG",
+  "displayName": "LIS_COMP_COMPENSATION_TYPES_BUYE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820081,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

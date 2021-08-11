@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit2BedroomMaster1Length field",
+  "systemName": "MIREXUnit2BedroomMaster1Length_Unit2Bedroom1Length",
+  "displayName": "MIREXUnit2BedroomMaster1Length",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879426,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

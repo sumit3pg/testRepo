@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentMainAssociation field",
+  "systemName": "BRIGHTAgentMainAssociation_MemberAssociationPrimary",
+  "displayName": "BRIGHTAgentMainAssociation",
+  "shortName": null,
+  "standardName": "MemberAOR",
+  "id": 200017263144,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200004265034,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

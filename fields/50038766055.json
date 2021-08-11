@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SubjectToPolicyLetterFlag field",
+  "systemName": "SubjectToPolicyLetterFlag_QSFLG_IS_SUBJ_TO_POLICY_LETTER",
+  "displayName": "LIS_LIS_QSFLG_IS_SUBJ_TO_POLICY_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766055,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

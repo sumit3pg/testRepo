@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAuctionType field",
+  "systemName": "BRIGHTAuctionType_AuctionType",
+  "displayName": "BRIGHTAuctionType",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264316,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070749923,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

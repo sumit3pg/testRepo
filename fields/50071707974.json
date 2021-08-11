@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaCreatedTimestamp field",
+  "systemName": "PropMediaCreatedTimestamp_CREATED_TMS",
+  "displayName": "SYS_LMEDUI_CREATED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50071707974,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

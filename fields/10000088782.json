@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MapCoordinate field",
+  "systemName": "MapCoordinate_COORDINATES",
+  "displayName": "LIS_MAP_MAP_TYPES_TBM_COORDINATE",
+  "shortName": null,
+  "standardName": "MapCoordinate",
+  "id": 10000088782,
+  "availableFlag": 1,
+  "dataTypeId": 10000000117,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

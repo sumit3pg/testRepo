@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AssessedLandPercent field",
+  "systemName": "AssessedLandPercent_QSF_ASSESSED_LAND_PERCENT",
+  "displayName": "LIS_LIS_QSF_ASSESSED_LAND_PERCEN",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070547439,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

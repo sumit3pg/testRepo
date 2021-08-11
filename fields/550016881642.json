@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaPendingFileName field",
+  "systemName": "MIREXPropMediaPendingFileName_PENDING_FILE_NAME",
+  "displayName": "MIREXPropMediaPendingFileName",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016881642,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

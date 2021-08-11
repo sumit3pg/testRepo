@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentModificationTimestamp field",
+  "systemName": "AgentModificationTimestamp_LO_MODIFIED_TMS",
+  "displayName": "SYS_PER_UID_LO_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": "ModificationTimestamp",
+  "id": 10244895162,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

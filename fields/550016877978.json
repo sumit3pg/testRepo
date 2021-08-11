@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXProtectionPeriod field",
+  "systemName": "MIREXProtectionPeriod_ProtectionPeriod",
+  "displayName": "MIREXProtectionPeriod",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016877978,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

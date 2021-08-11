@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFarmLandAreaSource field",
+  "systemName": "CWAFarmLandAreaSource_QSO_FARM_LAND_AREA_SOURCE",
+  "displayName": "CWA_LIS_QSO_FARM_LAND_AREA_SOURCE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004132,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872857,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

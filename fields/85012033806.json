@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ShowListingKey field",
+  "systemName": "ShowListingKey_LIS_ID",
+  "displayName": "LIS_SHI_LIS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 85012033806,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

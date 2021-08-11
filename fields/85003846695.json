@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisAltSaleOfficeBrokerLicenseNumber field",
+  "systemName": "LisAltSaleOfficeBrokerLicenseNumber_QSS_BROKER_LICENSE_NUMBER",
+  "displayName": "LIS_SAGORG2_QSS_BROKER_LICENSE_N",
+  "shortName": null,
+  "standardName": null,
+  "id": 85003846695,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

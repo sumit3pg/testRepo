@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UnitWithGarageFlag field",
+  "systemName": "UnitWithGarageFlag_QSFLG_UNIT_HAS_GARAGE",
+  "displayName": "LIS_LIS_QSFLG_UNIT_HAS_GARAGE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765967,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

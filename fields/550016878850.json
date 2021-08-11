@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSubAgentCompensationExistsFlag field",
+  "systemName": "MIREXSubAgentCompensationExistsFlag_SubAgentFlag",
+  "displayName": "MIREXSubAgentCompensationExistsFlag",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878850,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

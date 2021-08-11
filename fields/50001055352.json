@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentLastTriggerTimestamp field",
+  "systemName": "AgentLastTriggerTimestamp_QSDT_LAST_TRIGGER_TMS",
+  "displayName": "SYS_PER_QSDT_LAST_TRIGGER_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001055352,
+  "availableFlag": 1,
+  "dataTypeId": 50000898060,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

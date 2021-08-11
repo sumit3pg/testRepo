@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLotAreaAcre field",
+  "systemName": "BRIGHTLotAreaAcre_LotSizeAcres",
+  "displayName": "BRIGHTLotAreaAcre",
+  "shortName": null,
+  "standardName": "LotSizeAcres",
+  "id": 200017266767,
+  "availableFlag": 1,
+  "dataTypeId": 10000000137,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

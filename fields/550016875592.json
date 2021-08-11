@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXExteriorFeatures field",
+  "systemName": "MIREXExteriorFeatures_ExteriorFeatures",
+  "displayName": "MIREXExteriorFeatures",
+  "shortName": null,
+  "standardName": "ExteriorFeatures",
+  "id": 550016875592,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002003,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleOfficeURL field",
+  "systemName": "BRIGHTSaleOfficeURL_SocialMediaWebsiteUrlOrId",
+  "displayName": "BRIGHTSaleOfficeURL",
+  "shortName": null,
+  "standardName": "BuyerOfficeURL",
+  "id": 200017264779,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LowerFloorsTotalBedrooms field",
+  "systemName": "LowerFloorsTotalBedrooms_QSL_LOWER_TOTAL_BEDROOMS",
+  "displayName": "LIS_LIS_QSL_LOWER_TOTAL_BEDROOMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005069472,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

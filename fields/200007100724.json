@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListAgentStateLicenseNumber field",
+  "systemName": "CWAListAgentStateLicenseNumber_QSS_LST_GNT_STT_LICENSE_NUMBER",
+  "displayName": "CWA_LIS_QSS_LST_GNT_STT_LICENSE_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007100724,
+  "availableFlag": 1,
+  "dataTypeId": 200004437396,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

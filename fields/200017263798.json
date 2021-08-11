@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSysMediaFileName field",
+  "systemName": "BRIGHTSysMediaFileName_FILE_NAME",
+  "displayName": "BRIGHTSysMediaFileName",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263798,
+  "availableFlag": 1,
+  "dataTypeId": 10000000129,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

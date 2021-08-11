@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleOfficeOfficeID field",
+  "systemName": "BRIGHTSaleOfficeOfficeID_OfficeMlsId",
+  "displayName": "BRIGHTSaleOfficeOfficeID",
+  "shortName": null,
+  "standardName": "BuyerOfficeMlsId",
+  "id": 200017264747,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

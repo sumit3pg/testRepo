@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASerialXXNumberDescription field",
+  "systemName": "CWASerialXXNumberDescription_QSS_SERIAL_X_X_NUMBER_DESC",
+  "displayName": "CWA_LIS_QSS_SERIAL_X_X_NUMBER_DESC",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003988,
+  "availableFlag": 1,
+  "dataTypeId": 200004437396,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

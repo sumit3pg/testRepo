@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PlayingCourts field",
+  "systemName": "PlayingCourts_QMO_PLAYING_COURTS",
+  "displayName": "LIS_LIS_QMO_PLAYING_COURTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706517,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670918,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

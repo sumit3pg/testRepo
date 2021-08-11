@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOpenHouseSourceInput field",
+  "systemName": "CWAOpenHouseSourceInput_QSO_SOURCE_INPUT",
+  "displayName": "CWA_UOHVW_QSO_SOURCE_INPUT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024743,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228478,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

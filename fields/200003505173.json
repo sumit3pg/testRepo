@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SimLisListingKey field",
+  "systemName": "SimLisListingKey_LIS_ID",
+  "displayName": "LIS_SL_LIS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003505173,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SecondTypeOfUnit field",
+  "systemName": "SecondTypeOfUnit_QMO_FLOORPLAN",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_FLOORPLA",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038769014,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038638749,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}
