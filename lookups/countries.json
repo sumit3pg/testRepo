@@ -1,0 +1,38 @@
+{
+  "configType": "LOOKUP",
+  "systemName": "COUNTRIES",
+  "displayName": "Countries",
+  "description": "Contains list of all countries used in BrightMLS",
+  "items": [
+    {
+      "CTRY_ID": 10038029384,
+      "NAME": "UNKNOWN",
+      "ABBREVIATION": "UNK",
+      "STREAMS_TMS": null
+    },
+    {
+      "CTRY_ID": 0,
+      "NAME": "SYSTEM",
+      "ABBREVIATION": "SYS",
+      "STREAMS_TMS": "2009-11-23T05:21:12.372Z"
+    },
+    {
+      "CTRY_ID": 10000002986,
+      "NAME": "UNITED STATES OF AMERICA",
+      "ABBREVIATION": "USA",
+      "STREAMS_TMS": null
+    },
+    {
+      "CTRY_ID": 10000002987,
+      "NAME": "CANADA",
+      "ABBREVIATION": "CAN",
+      "STREAMS_TMS": null
+    },
+    {
+      "CTRY_ID": 85500010429,
+      "NAME": "MEXICO",
+      "ABBREVIATION": "MX",
+      "STREAMS_TMS": "2015-05-05T20:28:34.996Z"
+    }
+  ]
+}

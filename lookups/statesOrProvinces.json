@@ -1,0 +1,560 @@
+{
+  "configType": "LOOKUP",
+  "systemName": "STATES_OR_PROVINCES",
+  "displayName": "States Or Provinces",
+  "description": "Contains list of all States Or Provinces used in BrightMLS",
+  "items": [
+    {
+      "SOP_ID": 50041197671,
+      "CTRY_ID": 10000002986,
+      "NAME": "OUT OF COUNTRY",
+      "ABBREVIATION": "OOC",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10038029385,
+      "CTRY_ID": 10038029384,
+      "NAME": "UNKNOWN",
+      "ABBREVIATION": "UN-UN",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10038029386,
+      "CTRY_ID": 10000002986,
+      "NAME": "UNKNOWN",
+      "ABBREVIATION": "US-UN",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10038029387,
+      "CTRY_ID": 10000002987,
+      "NAME": "UNKNOWN",
+      "ABBREVIATION": "CA-UN",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10070149473,
+      "CTRY_ID": 10000002986,
+      "NAME": "OTHER",
+      "ABBREVIATION": "OT",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 0,
+      "CTRY_ID": 0,
+      "NAME": "SYSTEM",
+      "ABBREVIATION": "SYS",
+      "VISIBLE_FLAG": 0,
+      "STREAMS_TMS": "2009-11-23T05:21:12.765Z"
+    },
+    {
+      "SOP_ID": 10000002988,
+      "CTRY_ID": 10000002986,
+      "NAME": "ALABAMA",
+      "ABBREVIATION": "AL",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002989,
+      "CTRY_ID": 10000002986,
+      "NAME": "ALASKA",
+      "ABBREVIATION": "AK",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002990,
+      "CTRY_ID": 10000002986,
+      "NAME": "ARIZONA",
+      "ABBREVIATION": "AZ",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002991,
+      "CTRY_ID": 10000002986,
+      "NAME": "ARKANSAS",
+      "ABBREVIATION": "AR",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002992,
+      "CTRY_ID": 10000002986,
+      "NAME": "CALIFORNIA",
+      "ABBREVIATION": "CA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002993,
+      "CTRY_ID": 10000002986,
+      "NAME": "COLORADO",
+      "ABBREVIATION": "CO",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002994,
+      "CTRY_ID": 10000002986,
+      "NAME": "CONNECTICUT",
+      "ABBREVIATION": "CT",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002995,
+      "CTRY_ID": 10000002986,
+      "NAME": "DELAWARE",
+      "ABBREVIATION": "DE",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002996,
+      "CTRY_ID": 10000002986,
+      "NAME": "DISTRICT OF COLUMBIA",
+      "ABBREVIATION": "DC",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002997,
+      "CTRY_ID": 10000002986,
+      "NAME": "FLORIDA",
+      "ABBREVIATION": "FL",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002998,
+      "CTRY_ID": 10000002986,
+      "NAME": "GEORGIA",
+      "ABBREVIATION": "GA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000002999,
+      "CTRY_ID": 10000002986,
+      "NAME": "HAWAII",
+      "ABBREVIATION": "HI",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003000,
+      "CTRY_ID": 10000002986,
+      "NAME": "IDAHO",
+      "ABBREVIATION": "ID",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003001,
+      "CTRY_ID": 10000002986,
+      "NAME": "ILLINOIS",
+      "ABBREVIATION": "IL",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003002,
+      "CTRY_ID": 10000002986,
+      "NAME": "INDIANA",
+      "ABBREVIATION": "IN",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003003,
+      "CTRY_ID": 10000002986,
+      "NAME": "IOWA",
+      "ABBREVIATION": "IA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003004,
+      "CTRY_ID": 10000002986,
+      "NAME": "KANSAS",
+      "ABBREVIATION": "KS",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003005,
+      "CTRY_ID": 10000002986,
+      "NAME": "KENTUCKY",
+      "ABBREVIATION": "KY",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003006,
+      "CTRY_ID": 10000002986,
+      "NAME": "LOUISIANA",
+      "ABBREVIATION": "LA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003007,
+      "CTRY_ID": 10000002986,
+      "NAME": "MAINE",
+      "ABBREVIATION": "ME",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003008,
+      "CTRY_ID": 10000002986,
+      "NAME": "MARYLAND",
+      "ABBREVIATION": "MD",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003009,
+      "CTRY_ID": 10000002986,
+      "NAME": "MASSACHUSETTS",
+      "ABBREVIATION": "MA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003010,
+      "CTRY_ID": 10000002986,
+      "NAME": "MICHIGAN",
+      "ABBREVIATION": "MI",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003011,
+      "CTRY_ID": 10000002986,
+      "NAME": "MINNESOTA",
+      "ABBREVIATION": "MN",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003012,
+      "CTRY_ID": 10000002986,
+      "NAME": "MISSISSIPPI",
+      "ABBREVIATION": "MS",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003013,
+      "CTRY_ID": 10000002986,
+      "NAME": "MISSOURI",
+      "ABBREVIATION": "MO",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003014,
+      "CTRY_ID": 10000002986,
+      "NAME": "MONTANA",
+      "ABBREVIATION": "MT",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003015,
+      "CTRY_ID": 10000002986,
+      "NAME": "NEBRASKA",
+      "ABBREVIATION": "NE",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003016,
+      "CTRY_ID": 10000002986,
+      "NAME": "NEVADA",
+      "ABBREVIATION": "NV",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003017,
+      "CTRY_ID": 10000002986,
+      "NAME": "NEW HAMPSHIRE",
+      "ABBREVIATION": "NH",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003018,
+      "CTRY_ID": 10000002986,
+      "NAME": "NEW JERSEY",
+      "ABBREVIATION": "NJ",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003019,
+      "CTRY_ID": 10000002986,
+      "NAME": "NEW MEXICO",
+      "ABBREVIATION": "NM",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003020,
+      "CTRY_ID": 10000002986,
+      "NAME": "NEW YORK",
+      "ABBREVIATION": "NY",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003021,
+      "CTRY_ID": 10000002986,
+      "NAME": "NORTH CAROLINA",
+      "ABBREVIATION": "NC",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003022,
+      "CTRY_ID": 10000002986,
+      "NAME": "NORTH DAKOTA",
+      "ABBREVIATION": "ND",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003023,
+      "CTRY_ID": 10000002986,
+      "NAME": "OHIO",
+      "ABBREVIATION": "OH",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003024,
+      "CTRY_ID": 10000002986,
+      "NAME": "OKLAHOMA",
+      "ABBREVIATION": "OK",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003025,
+      "CTRY_ID": 10000002986,
+      "NAME": "OREGON",
+      "ABBREVIATION": "OR",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003026,
+      "CTRY_ID": 10000002986,
+      "NAME": "PENNSYLVANIA",
+      "ABBREVIATION": "PA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003027,
+      "CTRY_ID": 10000002986,
+      "NAME": "RHODE ISLAND",
+      "ABBREVIATION": "RI",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003028,
+      "CTRY_ID": 10000002986,
+      "NAME": "SOUTH CAROLINA",
+      "ABBREVIATION": "SC",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003029,
+      "CTRY_ID": 10000002986,
+      "NAME": "SOUTH DAKOTA",
+      "ABBREVIATION": "SD",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003030,
+      "CTRY_ID": 10000002986,
+      "NAME": "TENNESSEE",
+      "ABBREVIATION": "TN",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003031,
+      "CTRY_ID": 10000002986,
+      "NAME": "TEXAS",
+      "ABBREVIATION": "TX",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003032,
+      "CTRY_ID": 10000002986,
+      "NAME": "UTAH",
+      "ABBREVIATION": "UT",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003033,
+      "CTRY_ID": 10000002986,
+      "NAME": "VERMONT",
+      "ABBREVIATION": "VT",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003034,
+      "CTRY_ID": 10000002986,
+      "NAME": "VIRGINIA",
+      "ABBREVIATION": "VA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003035,
+      "CTRY_ID": 10000002986,
+      "NAME": "WASHINGTON",
+      "ABBREVIATION": "WA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003036,
+      "CTRY_ID": 10000002986,
+      "NAME": "WEST VIRGINIA",
+      "ABBREVIATION": "WV",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003037,
+      "CTRY_ID": 10000002986,
+      "NAME": "WISCONSIN",
+      "ABBREVIATION": "WI",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003038,
+      "CTRY_ID": 10000002986,
+      "NAME": "WYOMING",
+      "ABBREVIATION": "WY",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003039,
+      "CTRY_ID": 10000002986,
+      "NAME": "ARMED FORCES AMERICAS, EXCEPT CANADA",
+      "ABBREVIATION": "AA",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003040,
+      "CTRY_ID": 10000002986,
+      "NAME": "ARMED FORCES EUROPE, MIDDLE EAST, AND CANADA",
+      "ABBREVIATION": "AE",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003041,
+      "CTRY_ID": 10000002986,
+      "NAME": "ARMED FORCES PACIFIC",
+      "ABBREVIATION": "AP",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003042,
+      "CTRY_ID": 10000002986,
+      "NAME": "AMERICAN SAMOA",
+      "ABBREVIATION": "AS",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003043,
+      "CTRY_ID": 10000002986,
+      "NAME": "FEDERATED STATES OF MICRONESIA",
+      "ABBREVIATION": "FM",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003044,
+      "CTRY_ID": 10000002986,
+      "NAME": "GUAM",
+      "ABBREVIATION": "GU",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003045,
+      "CTRY_ID": 10000002986,
+      "NAME": "MARSHALL ISLANDS",
+      "ABBREVIATION": "MH",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003046,
+      "CTRY_ID": 10000002986,
+      "NAME": "MARIANA ISLANDS",
+      "ABBREVIATION": "MP",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003047,
+      "CTRY_ID": 10000002986,
+      "NAME": "PUERTO RICO",
+      "ABBREVIATION": "PR",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003048,
+      "CTRY_ID": 10000002986,
+      "NAME": "PALAU",
+      "ABBREVIATION": "PW",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 10000003049,
+      "CTRY_ID": 10000002986,
+      "NAME": "VIRGIN ISLANDS",
+      "ABBREVIATION": "VI",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": null
+    },
+    {
+      "SOP_ID": 50048733954,
+      "CTRY_ID": 10000002987,
+      "NAME": "BRITISH COLUMNBIA",
+      "ABBREVIATION": "BC",
+      "VISIBLE_FLAG": 1,
+      "STREAMS_TMS": "2015-05-05T20:28:37.253Z"
+    }
+  ]
+}
