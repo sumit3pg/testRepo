@@ -1,0 +1,2444 @@
+{
+  "items": [
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "DUAL"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "SYSTEM_PRIVILEGE_MAP"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "TABLE_PRIVILEGE_MAP"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "USER_PRIVILEGE_MAP"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "STMT_AUDIT_OPTION_MAP"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "AV_DUAL"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "AUDIT_ACTIONS"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "ALL_UNIFIED_AUDIT_ACTIONS"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "WRR$_REPLAY_CALL_FILTER"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "SCHEDULER_FILEWATCHER_QT"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "HS_BULKLOAD_VIEW_OBJ"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "HS$_PARALLEL_METADATA"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "HS_PARTITION_COL_NAME"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "HS_PARTITION_COL_TYPE"
+    },
+    {
+      "OWNER": "XDB",
+      "TABLE_NAME": "XDB$IMPORT_TT_INFO"
+    },
+    {
+      "OWNER": "XDB",
+      "TABLE_NAME": "XDB$IMPORT_QN_INFO"
+    },
+    {
+      "OWNER": "XDB",
+      "TABLE_NAME": "XDB$IMPORT_NM_INFO"
+    },
+    {
+      "OWNER": "XDB",
+      "TABLE_NAME": "XDB$IMPORT_PT_INFO"
+    },
+    {
+      "OWNER": "XDB",
+      "TABLE_NAME": "XDB_INDEX_DDL_CACHE"
+    },
+    {
+      "OWNER": "CTXSYS",
+      "TABLE_NAME": "DR$OBJECT_ATTRIBUTE"
+    },
+    {
+      "OWNER": "CTXSYS",
+      "TABLE_NAME": "DR$POLICY_TAB"
+    },
+    {
+      "OWNER": "CTXSYS",
+      "TABLE_NAME": "DR$THS"
+    },
+    {
+      "OWNER": "CTXSYS",
+      "TABLE_NAME": "DR$THS_PHRASE"
+    },
+    {
+      "OWNER": "CTXSYS",
+      "TABLE_NAME": "DR$NUMBER_SEQUENCE"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "PLSQL_TRACE_RUNS"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "PLSQL_TRACE_EVENTS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SRSNAMESPACE_TABLE"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_UNITS_OF_MEASURE"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_PRIME_MERIDIANS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_ELLIPSOIDS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_DATUMS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_SYS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_AXIS_NAMES"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_AXES"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_REF_SYS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_OP_METHODS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_OPS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_PREFERRED_OPS_SYSTEM"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_PREFERRED_OPS_USER"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_OP_PATHS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_OP_PARAMS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_OP_PARAM_USE"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_COORD_OP_PARAM_VALS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_CS_SRS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "NTV2_XML_DATA"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_SRIDS_BY_URN"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_SRIDS_BY_URN_PATTERN"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_CRS_GEOGRAPHIC_PLUS_HEIGHT"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_PROJECTIONS_OLD_SNAPSHOT"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_ELLIPSOIDS_OLD_SNAPSHOT"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_DATUMS_OLD_SNAPSHOT"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_INDEX_HISTOGRAM_TABLE"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_TXN_JOURNAL_REG"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_DIST_METADATA_TABLE"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "OGIS_SPATIAL_REFERENCE_SYSTEMS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "OGIS_GEOMETRY_COLUMNS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_XML_SCHEMAS"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_FEATURE_USAGE"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_DATABASES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_ERRORS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_HOSTS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_PROFILE_OPTIONS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_TABLESPACES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_USER_PROFILES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_BATCH_STATUSES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_CODING_LANGUAGES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_COPY_TABLES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_DATA_TYPES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOBS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOB_ARGUMENTS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOB_STATUSES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_KEY_CONTROL"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_PARTITION_INFO"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_PROCESS_CONTROL"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_QUEUE_PROCESSING_ERRORS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_REP_GROUPS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_SEQUENCES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_STREAMS_HEARTBEAT"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_DATA_FILES"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "CSDR_FILE_SYSTEMS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_COPY_COLS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_COPY_DESTINATIONS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOB_MANAGERS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOB_QUEUE"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOB_QUEUE_ARGUMENTS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_BATCH_CONTROL"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_BATCH_DETAILS"
+    },
+    {
+      "OWNER": "BRIGHT_DBA",
+      "TABLE_NAME": "OCS_JOB_EXECUTIONS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_SET_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_SETS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_SET_DEPENDENCIES"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_SET_ROWS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_SET_STATUSES"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_SET_TYPES"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "CHANGE_TYPES"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "ENVIRONMENTS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "RELEASES"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "RELEASE_CHANGE_SETS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "RELEASE_ENVIRONMENTS"
+    },
+    {
+      "OWNER": "LMS_ADMIN",
+      "TABLE_NAME": "RELEASE_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "ACTIVITY_ROLE_RULES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "ACCOUNT_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "ACTIVITY_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "ADDRESS_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "ALGORITHM_COMPONENTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "ALGORITHM_COMPONENT_FIELDS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "APPLICATIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "APPLICATION_VERSIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "AUTHENTICATION_PROVIDERS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "AUTHENTICATION_PROVIDER_DET"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "AUTHENTICATION_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "AVAILABLE_ALGORITHMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "BATCH_RETRY_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "CITY_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "CODING_LANGUAGES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COLUMN_GROUPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COLUMN_GROUP_ATTRIBUTES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COLUMN_GROUP_DISPLAY_LIST"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COLUMN_GROUP_SETS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COMPLIANCE_FINE_SCHEDULES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COMPLIANCE_ISSUE_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COMPLIANCE_ISSUE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COMPLIANCE_ISSUE_TYPE_ATTR"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COMPLIANCE_NOTICE_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "COMPLIANCE_NOTICE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "CONTACT_METHOD_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "CONTACT_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_FORMAT_ALIGNMENTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_FORMAT_MASKS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_INTERPRETATIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_VIEWS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_VIEW_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_VIEW_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DATA_VIEW_RELATIONSHIP_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DELIVERY_METHODS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DELIVERY_METHOD_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DESIGNATIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "DISPLAY_NAMES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "EMAIL_TEMPLATES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "EVENT_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "HIDDEN_LOCALE_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "HIDDEN_LOCALE_PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "IDENTIFIER_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LICENSE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_COUNTIES_OR_REGIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_LOGICAL_OBJECT_VIEWS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_LOGICAL_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_MEDIA_RESTRICTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_PROFILE_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_PROFILE_OPTION_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOCALE_RULE_USAGES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_ATTRIBUTES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_OBJECTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_OBJECT_OBJECT_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_OBJECT_VIEWS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_SCHEMAS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_TABLES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_VIEWS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_VIEW_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_WHERE_CLAUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOGICAL_WHERE_CLAUSE_VALUES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOG_EVENT_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_DEPENDENT_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_DISPLAY_NAMES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_PICKLISTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_RELATIONSHIP_ATTRIBUTES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_TUNING_DIRECTIVES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_TUNING_DIR_PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LOV_TUNING_DIR_RESTRICTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LO_MODIFICATION_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LO_MODIFICATION_TYPE_LIMITS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LO_REPLICATION_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "LO_REPLICATION_TYPE_LIMITS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "MEDIA_PACKAGE_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "MEDIA_PURCHASE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "MEDIA_RESTRICTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "MEDIA_SIZES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "MEDIA_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "META_DATA_INFORMATION"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "MIME_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "NAME_SUFFIXES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "OBJECT_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "OPERATORS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PARTY_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PHONE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PICKLISTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PRESENTATION_STYLES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PROFILE_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "PROFILE_OPTION_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_ARGUMENTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_EXECUTION_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_FLAGS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_USAGES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_USAGE_ARGUMENTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_USAGE_FLAGS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "RULE_USAGE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SALUTATIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SCHEMA_COPY_HISTORY"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SCHEMA_INFORMATION"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SCHEMA_PATCHES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SERVICE_LOGICAL_OBJECT_VIEWS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SERVICE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SESSION_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SPP_CONTROL_GROUPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SPP_DENIAL_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SPP_THRESHOLD_LEVELS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SPP_TRACKING_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "STAGED_OBJECT_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "STREET_DIRECTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "STREET_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSCRIPTION_CLASSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSCRIPTION_SERVICES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSCRIPTION_STATUS_GROUPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSCRIPTION_SVC_STATUS_GROUPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSET_LOCALE_PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSET_PICKLISTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBSET_PICKLIST_ITEMS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SUBS_STATUS_GROUP_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SYSTEM_PARTITIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "SYSTEM_UNIVERSAL_TAGS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "TEMPLATE_ATTACHMENTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "TEMPLATE_FILES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "TIME_INTERVALS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "TRANSACTION_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UID_PARENT_LOGICAL_OBJECTS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UID_PAR_LO_WHERE_CLAUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UID_PAR_LO_WHERE_CLAUSE_VALUES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UI_TEMPLATES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UI_TEMPLATE_CONTROLS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UI_TEMPLATE_CONTROL_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UI_TEMPLATE_GROUPS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UI_TEMPLATE_SECTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNITS_OF_MEASURE"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIT_DESIGNATIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_CACHE_CONTROL"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_CACHE_LOV_INFO"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_CACHE_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_HELP"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_HELP_CATEGORIES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_HELP_RECORDS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UNIVERSAL_HELP_TYPES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "UPDATE_TRANSACTIONS"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "VALIDATION_STATUSES"
+    },
+    {
+      "OWNER": "LMS_CFG",
+      "TABLE_NAME": "VIRTUAL_LOGICAL_OBJECT_VIEWS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "BUILDER_MODELS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "AREAS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "BUILDING_NAMES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "ADDRESSES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "CHECKOUT_INFO"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "COMMUNITIES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "COMPENSATIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "CONTACT_METHODS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "CONTINGENCIES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_MV_DATES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_MV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_MV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_MV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_SV_DATES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_SV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_SV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "D_SV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "FEE_INCOME_EXPENSES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "GEO_ADDRESSES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "GREEN_VERIFICATIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LICENSES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LISTINGS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LISTING_SCHOOLS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LISTING_SUBSCRIPTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LISTING_TRANSACTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LOANS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "LOCALE_SCHOOLS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "MAP_LOCATIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "MEDIA"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "ADDRESSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "AREAS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "BRIGHT_DOM_CDOM_SNAPSHOT"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "BUILDER_MODELS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "BUILDING_NAMES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "CK_LOG"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "CLOSE_STAT_BY_MONTH"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "CLOSE_STAT_BY_YEAR"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "CLOSE_STAT_LAST_X_DAYS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "COMMUNITIES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "COMPENSATIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "CONTACT_METHODS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "CONTINGENCIES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "DOM_PROPERTY_QUEUE"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_MV_DATES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_MV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_MV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_MV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_SV_DATES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_SV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_SV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "D_SV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "FEE_INCOME_EXPENSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "GEO_ADDRESSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "GREEN_VERIFICATIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LICENSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTINGS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTING_SCHOOLS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTING_STATUSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTING_STATUS_HISTORY"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTING_STATUS_LOV_INFO"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTING_SUBSCRIPTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LISTING_TRANSACTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LIST_STAT_BY_MONTH"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LIST_STAT_BY_YEAR"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LIST_STAT_LAST_X_DAYS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LOANS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LOCALE_LISTING_STATUSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LOCALE_SCHOOLS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LOCALE_SUBDIVISIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LSH_SOURCE_DATA"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "LSH_SOURCE_DATA_ERRORS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "MAP_LOCATIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "MDOT_1E0F4$"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "MDRT_1E0F4$"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "MDXT_1E0F4$"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "MEDIA"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "NEW_MEDIA_FILL"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "NOTES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "OPEN_HOUSES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "OTHER_STRUCTURES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PARTIES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PARTY_DESIGNATIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PARTY_ROLE_CONTACT_INFO"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PAYMENT_METHODS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PLAN_TABLE"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PROFESSIONAL_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PROPERTY_HISTORY"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "PROPERTY_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_MV_DATES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_MV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_MV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_MV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_SV_DATES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_SV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_SV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "Q_SV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "ROOMS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "SCHOOLS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "SCHOOL_DISTRICTS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "SHOW_INSTRUCTIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "SIMILAR_LISTINGS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "SIZE_INFORMATION"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "STATUS_DATE_SOURCE_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "STORIES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "SUBDIVISIONS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "TEXT"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "UNITS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "UNIVERSAL_CHANGE_HISTORY"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "UNIVERSAL_HISTORY"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "VALID_PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "VIRTUAL_RECORDS"
+    },
+    {
+      "OWNER": "LMS_LIS",
+      "TABLE_NAME": "VITAL_STATS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "AVAILABLE_TRANSACTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "APPLICATION_ROLES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ADDRESSES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "AGENT_HIERARCHY_DN"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "BATCH_RETRIES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "BATCH_UPDATE_INFORMATION"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "BRIGHT_AGENT_DUPS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "BRIGHT_OFFICE_DUPS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "CITIES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_BATCHES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_ISSUES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_ISSUE_INVOLVEMENTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_ISSUE_QUERIES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_ISSUE_STATUS_HIST"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_NOTICES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COMPLIANCE_RULE_VIOLATIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "CONTACT_METHODS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COUNTIES_OR_REGIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "COUNTRIES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "DOCUMENT_STORE_ACTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "DOCUMENT_STORE_TRACKING"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "DOCUMENT_STORE_TRACK_DETAILS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "DOCUMENT_STORE_TRACK_STATUSES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_MV_DATES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_MV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_MV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_MV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_SV_DATES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_SV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_SV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "D_SV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "EMAIL"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "EMAIL_ATTACHMENTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "EMAIL_FILES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "EMAIL_MESSAGES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "FBS_HISTORY"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "GEO_ADDRESSES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "HIDDEN_LOGICAL_ATTRIBUTES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "HOSTED_EMAILS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "LICENSES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "LOG_EVENTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "LO_DATES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "LO_MODIFICATION_QUEUE"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "LO_REPLICATION_QUEUE"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MDRT_1028429$"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MDXT_1028429$"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MEDIA"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MEDIA_BILLING"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MEDIA_DELETIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MEDIA_OFFERINGS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MEDIA_PACKAGES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "MEDIA_PACKAGE_ITEMS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "NOTES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "NOTIFICATION_METHODS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTIES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTITION_MAP"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_DESIGNATIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_LOCALES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_PERMISSIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_PERMISSION_DEFAULTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_PROFILE_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_PROFILE_OPTION_ITEMS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_RESOURCE_DEFAULTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_ROLE_CONTACT_INFO"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_SUBSCRIPTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PARTY_SUBSCRIPTION_DETAILS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PAYMENT_METHODS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "PGN_BUSINESS_HISTORY"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "QUERY_USAGE_TRACKING"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_MV_DATES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_MV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_MV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_MV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_SV_DATES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_SV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_SV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "Q_SV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ROLE_DMQL_CLAUSES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ROLE_LOGICAL_OBJECT_VIEWS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ROLE_LOGICAL_WHERE_CLAUSES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ROLE_SYSTEM_ACCESS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ROLE_UPDATE_TRANSACTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SAML_TRANSACTION_IDENTIFIERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SAML_TRANSACTION_LOG"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SAVED_ATTRIBUTES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SAVED_ATTRIBUTE_SETS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SAVED_SEARCHES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SAVED_SEARCH_GROUPS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SERVICE_PROVIDERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SPP_TRACKED_EVENTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SPP_TRACKING_CONTROLS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SPP_TRACKING_CONTROL_DETAILS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SPP_TRACKING_CONTROL_ROLES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "STAGED_COLUMNS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "STAGED_MV_DATA"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "STAGED_OBJECTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "STAGED_RULE_VIOLATIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "STATES_OR_PROVINCES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "STREETS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "SYSTEM_MESSAGES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "TEAM_MEMBERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "TEXT"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "TOWNSHIPS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UCH_DELETIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_CACHE"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_CHANGE_HISTORY"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_CRUD_PRIVILEGES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_HISTORY"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_IDENTIFIERS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_TAGS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_ACCOUNTS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_LIMITS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_SESSIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_TRANSACTIONS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_TRANSACTION_DAILY_SUMMARY"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_TRANSACTION_HISTORY"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_TRANSACTION_HISTORY_DET"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "USER_TRANSACTION_HISTORY_LOV"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "VALID_PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "VIRTUAL_RECORDS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "VOLUME_STATISTICS"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "ZIP_CODES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "NOTES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "OPEN_HOUSES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "OTHER_STRUCTURES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PARTIES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PARTY_DESIGNATIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PARTY_ROLE_CONTACT_INFO"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PAYMENT_METHODS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PROFESSIONAL_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "PROPERTY_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_MV_DATES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_MV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_MV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_MV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_SV_DATES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_SV_NUMBERS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_SV_OPTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "Q_SV_STRINGS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "ROOMS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "SHOW_INSTRUCTIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "SIZE_INFORMATION"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "STORIES"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "SUBDIVISIONS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "TEXT"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "UNITS"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "UNIVERSAL_HISTORY"
+    },
+    {
+      "OWNER": "LMS_CWA",
+      "TABLE_NAME": "VIRTUAL_RECORDS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "ADS_JOBS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "ADS_DISCREPANCY_TYPES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "ADS_DISCREPANCIES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "ADS_DISCREPANCY_DETAILS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "JOBS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "JOB_DETAILS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "VALID_PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "META_DATA_INFORMATION"
+    },
+    {
+      "OWNER": "LMS_SYS",
+      "TABLE_NAME": "DOCUMENT_STORE_VALIDATION"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "JOB_TYPES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "PARTY_ROLES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_TABLE_RELATIONSHIPS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SCHEMA_INFORMATION"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "PARTY_TYPES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_COLUMN_TRANSLATIONS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "BLS_QUERY_RESTRICTIONS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "PARTIES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_TABLE_JOIN_KEYS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_LOOKUP_TYPE_META"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_LOOKUP_META"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_SERVICE_FIELDS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_CLASSES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "LOGICAL_TABLES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "DATA_LOADING_STATUSES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "LOGICAL_COLUMNS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SUB_CLASSES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "FIELD_DESTINATIONS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_SYSTEMS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RESOURCE_TYPES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "UNIQUE_PREFIX_FD_NAMES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "IDENTIFIER_TYPES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "DATA_LOADING_COMMANDS"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "FINALHIST$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "MODELGTTRAW$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "WRI$_ADV_ASA_RECO_DATA"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "WRI$_HEATMAP_TOPN_DEP1"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "WRI$_HEATMAP_TOPN_DEP2"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "PLAN_TABLE$"
+    },
+    {
+      "OWNER": "SYSTEM",
+      "TABLE_NAME": "OL$"
+    },
+    {
+      "OWNER": "SYSTEM",
+      "TABLE_NAME": "OL$HINTS"
+    },
+    {
+      "OWNER": "SYSTEM",
+      "TABLE_NAME": "OL$NODES"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$XKTFBUE"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "ODCI_SECOBJ$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "ODCI_WARNINGS$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "ODCI_PMO_ROWIDS$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "XS$VALIDATION_TABLE"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "SPD_SCRATCH_TAB"
+    },
+    {
+      "OWNER": "XDB",
+      "TABLE_NAME": "XDB$XIDX_IMP_T"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "T_RULES_ARGUMENTS"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "T_RULES"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "T_FIELDS"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "T_LOV"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_CS_CONTEXT_INFORMATION"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_ST_TOLERANCE"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_TXN_JOURNAL_GTT"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_TXN_IDX_EXP_UPD_RGN"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_TOPO_TRANSACT_DATA"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_TOPO_RELATION_DATA"
+    },
+    {
+      "OWNER": "MDSYS",
+      "TABLE_NAME": "SDO_TOPO_DATA$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "IMPDP_STATS"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_DATAPUMP_MASTER_12_2"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_DATAPUMP_MASTER_12_0"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_DATAPUMP_MASTER_11_2"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_DATAPUMP_MASTER_11_1_0_7"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_DATAPUMP_MASTER_11_1"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_DATAPUMP_MASTER_10_1"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_LIST_FILTER_TEMP_2"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_LIST_FILTER_TEMP"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "DATA_PUMP_XPL_TABLE$"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$NOEXP_TAB"
+    },
+    {
+      "OWNER": "SYS",
+      "TABLE_NAME": "KU$_SHARD_DOMIDX_NAMEMAP"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "T_LOC"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "CMMS_CONTROL"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "LOGICAL_SCHEMAS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "BULK_LOAD_STATUSES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_TABLE_META"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_DATA_SERVICES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_RESOURCES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_COLUMNS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "PROCESSING_LIMIT_DETAILS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_DATA_SERVICE_CONTROL"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_SERVICE_RETS_CLASS_META"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "USER_ACCOUNTS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "UNIVERSAL_IDENTIFIERS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "PROCESSING_LIMITS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SUB_CLASS_FIELD_DESTINATIONS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SUB_CLASS_KEYS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_RESOURCE_CONTROL"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "CLASS_DESTINATIONS"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_SYSTEM_CONTROL"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_TABLES"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "RETS_CLASS_CONTROL"
+    },
+    {
+      "OWNER": "LMMS_SYS",
+      "TABLE_NAME": "SOURCE_SERVICE_FIELD_TRAN"
+    }
+  ]
+}
