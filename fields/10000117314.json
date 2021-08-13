@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Garage field",
+  "systemName": "Garage_PRK_GARAGE_SPACES",
+  "displayName": "LIS_LIS_PRK_GARAGE_SPACES",
+  "shortName": null,
+  "standardName": "GarageSpaces",
+  "id": 10000117314,
+  "availableFlag": 1,
+  "dataTypeId": 10000000139,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

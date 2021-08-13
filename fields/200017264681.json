@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentStateLicenseNumber field",
+  "systemName": "BRIGHTSaleAgentStateLicenseNumber_BuyerAgentStateLicenseNumber",
+  "displayName": "BRIGHTSaleAgentStateLicenseNumber",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264681,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

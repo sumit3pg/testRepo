@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeBrokerOfRecordID field",
+  "systemName": "BRIGHTOfficeBrokerOfRecordID_PR_ROLE_IDENTIFIER",
+  "displayName": "BRIGHTOfficeBrokerOfRecordID",
+  "shortName": null,
+  "standardName": "OfficeBrokerMlsId",
+  "id": 200017260627,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Bath2Size field",
+  "systemName": "Bath2Size_QSS_SIZE",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BATH_2_1",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765200,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

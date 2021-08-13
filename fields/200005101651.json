@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAMiscellaneousExpense field",
+  "systemName": "CWAMiscellaneousExpense_AMOUNT",
+  "displayName": "CWA_FIE_INCOME_EXPENSE_TYPES_MISCELLANEOS_XPNS_MNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101651,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

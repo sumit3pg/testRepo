@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PublishSalePriceFlag field",
+  "systemName": "PublishSalePriceFlag_QSFLG_PUB_SALE_PRICE_FLAG",
+  "displayName": "LIS_LIS_QSFLG_PUB_SALE_PRICE_FLA",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003240310,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

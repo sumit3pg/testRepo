@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSection field",
+  "systemName": "MIREXSection_Section",
+  "displayName": "MIREXSection",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878298,
+  "availableFlag": 1,
+  "dataTypeId": 205010451288,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

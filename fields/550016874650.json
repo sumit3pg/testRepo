@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBreakfastRoom1Length field",
+  "systemName": "MIREXBreakfastRoom1Length_BreakfastRoom1Length",
+  "displayName": "MIREXBreakfastRoom1Length",
+  "shortName": null,
+  "standardName": "RoomBreakfastRoom1Length",
+  "id": 550016874650,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

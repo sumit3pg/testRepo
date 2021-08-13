@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTMapURL field",
+  "systemName": "BRIGHTMapURL_MapURL",
+  "displayName": "BRIGHTMapURL",
+  "shortName": null,
+  "standardName": "MapURL",
+  "id": 200017267061,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

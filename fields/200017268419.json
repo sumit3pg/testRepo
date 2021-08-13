@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTaxLocalHistoricalDesignationName field",
+  "systemName": "BRIGHTTaxLocalHistoricalDesignationName_TaxLocalHistoricalDesignationName",
+  "displayName": "BRIGHTTaxLocalHistoricalDesignationName",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268419,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PartyPermPermissionType field",
+  "systemName": "PartyPermPermissionType_PERMISSION_TYPE",
+  "displayName": "SYS_PP_PERMISSION_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004306649,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004305319,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

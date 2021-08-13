@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OpenHouseKey field",
+  "systemName": "OpenHouseKey_OH_OH_ID",
+  "displayName": "LIS_UOHVW_OH_OH_ID",
+  "shortName": null,
+  "standardName": "OpenHouseKey",
+  "id": 50000023696,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

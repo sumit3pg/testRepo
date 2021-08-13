@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListingStatus field",
+  "systemName": "MIREXListingStatus_ListingStatus",
+  "displayName": "MIREXListingStatus",
+  "shortName": null,
+  "standardName": "StandardStatus",
+  "id": 550016877140,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000077646,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

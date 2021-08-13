@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCarport1ExistsFlag field",
+  "systemName": "BRIGHTCarport1ExistsFlag_CarportYN",
+  "displayName": "BRIGHTCarport1ExistsFlag",
+  "shortName": null,
+  "standardName": "CarportYN",
+  "id": 200017264828,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

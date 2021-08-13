@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a EstimatedSqftRange field",
+  "systemName": "EstimatedSqftRange_QMO_ESTIMATED_SQFT_RANGE",
+  "displayName": "LIS_LIS_QMO_ESTIMATED_SQFT_RANGE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765993,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639614,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

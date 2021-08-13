@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a POICharValue field",
+  "systemName": "POICharValue_CHAR_VALUE",
+  "displayName": "CFG_POI_CHAR_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004653424,
+  "availableFlag": 1,
+  "dataTypeId": 10000000162,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

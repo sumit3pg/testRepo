@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CAM field",
+  "systemName": "CAM_AMOUNT",
+  "displayName": "LIS_FIE_INCOME_EXPENSE_TYPES_COM",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000116951,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

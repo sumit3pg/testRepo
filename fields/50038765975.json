@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a StoriesInBuilding field",
+  "systemName": "StoriesInBuilding_QMO_STORIES_IN_BUILDING",
+  "displayName": "LIS_LIS_QMO_STORIES_IN_BUILDING",
+  "shortName": null,
+  "standardName": "Levels",
+  "id": 50038765975,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640046,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

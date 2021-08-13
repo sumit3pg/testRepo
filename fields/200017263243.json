@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentFullName field",
+  "systemName": "BRIGHTAgentFullName_MemberFullName",
+  "displayName": "BRIGHTAgentFullName",
+  "shortName": null,
+  "standardName": "MemberFullName",
+  "id": 200017263243,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

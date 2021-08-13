@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentMiddleName field",
+  "systemName": "AgentMiddleName_PTY_MIDDLE_NAMES",
+  "displayName": "SYS_PER_PTY_MIDDLE_NAMES",
+  "shortName": null,
+  "standardName": "MemberMiddleName",
+  "id": 10000074142,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

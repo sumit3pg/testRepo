@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAInformationSourceUnfinishedBelowGrade field",
+  "systemName": "CWAInformationSourceUnfinishedBelowGrade_QSO_INF_SR_BEL_GRD_AREA_UFNSHD",
+  "displayName": "CWA_LIS_QSO_INF_SR_BEL_GRD_AREA_UFNSHD",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004017,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 50038640907,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

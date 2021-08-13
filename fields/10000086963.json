@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentOfficePhoneExt field",
+  "systemName": "ListAgentOfficePhoneExt_CM_PHONE_EXTENSION",
+  "displayName": "SYS_LAGPCPVW1_PHONE_TYPES_OFFICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000086963,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOtherStructuralFeatures field",
+  "systemName": "BRIGHTOtherStructuralFeatures_BarnFeatures",
+  "displayName": "BRIGHTOtherStructuralFeatures",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264348,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670916,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

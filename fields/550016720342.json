@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentHomePhone field",
+  "systemName": "WIREXAgentHomePhone_AgentHomePhone",
+  "displayName": "WIREXAgentHomePhone",
+  "shortName": null,
+  "standardName": "MemberHomePhone",
+  "id": 550016720342,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

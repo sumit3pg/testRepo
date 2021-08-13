@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Possession field",
+  "systemName": "Possession_QMO_POSSESSION",
+  "displayName": "LIS_LIS_QMO_POSSESSION",
+  "shortName": null,
+  "standardName": "Possession",
+  "id": 10000117132,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002417,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

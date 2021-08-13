@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UpperFloorsTotalFullBaths field",
+  "systemName": "UpperFloorsTotalFullBaths_QSL_UPPER_TOTAL_FULL_BATHS",
+  "displayName": "LIS_LIS_QSL_UPPER_TOTAL_FULL_BAT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005069471,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

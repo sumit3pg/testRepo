@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltAgentFullName field",
+  "systemName": "BRIGHTAltAgentFullName_MemberFullName",
+  "displayName": "BRIGHTAltAgentFullName",
+  "shortName": null,
+  "standardName": "CoListAgentFullName",
+  "id": 200017265106,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

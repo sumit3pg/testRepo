@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenEnergyOwnership field",
+  "systemName": "GreenEnergyOwnership_QMO_GREEN_ENERGY_OWNERSHIP",
+  "displayName": "LIS_LIS_QMO_GREEN_ENERGY_OWNERSH",
+  "shortName": null,
+  "standardName": null,
+  "id": 205023486795,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 205023486796,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

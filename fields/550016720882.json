@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentZip4 field",
+  "systemName": "WIREXAgentZip4_AgentZip4",
+  "displayName": "WIREXAgentZip4",
+  "shortName": null,
+  "standardName": "MemberPostalCodePlus4",
+  "id": 550016720882,
+  "availableFlag": 1,
+  "dataTypeId": 10000000170,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

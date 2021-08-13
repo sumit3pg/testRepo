@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ShowingContactEndDate field",
+  "systemName": "ShowingContactEndDate_END_DATE",
+  "displayName": "LIS_OCCPR1_END_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000095134,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

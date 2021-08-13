@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ConfidentialRemarks field",
+  "systemName": "ConfidentialRemarks_TEXT_CONFIDENTIAL_REMARKS",
+  "displayName": "LIS_LIS_TEXT_CONFIDENTIAL_REMARK",
+  "shortName": null,
+  "standardName": "PrivateRemarks",
+  "id": 50000911907,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

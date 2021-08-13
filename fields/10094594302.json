@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeMailingStreetName field",
+  "systemName": "OfficeMailingStreetName_ADDR_DN_STR_NAME",
+  "displayName": "SYS_OCAVW_ADDRESS_TYPES_MAILING_",
+  "shortName": null,
+  "standardName": null,
+  "id": 10094594302,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

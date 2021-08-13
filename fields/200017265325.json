@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTContractStatusChangeDate field",
+  "systemName": "BRIGHTContractStatusChangeDate_ContractStatusChangeDate",
+  "displayName": "BRIGHTContractStatusChangeDate",
+  "shortName": null,
+  "standardName": "ContractStatusChangeDate",
+  "id": 200017265325,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

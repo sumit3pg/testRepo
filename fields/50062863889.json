@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropRel1Phone field",
+  "systemName": "PropRel1Phone_CM_PHONE_NUMBER",
+  "displayName": "LIS_PRPPCPVW1_PHONE_TYPES_OFFICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062863889,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

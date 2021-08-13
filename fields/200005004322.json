@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAZoningDescription field",
+  "systemName": "CWAZoningDescription_QSS_ZONING_DESCRIPTION",
+  "displayName": "CWA_LIS_QSS_ZONING_DESCRIPTION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004322,
+  "availableFlag": 1,
+  "dataTypeId": 200004437396,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

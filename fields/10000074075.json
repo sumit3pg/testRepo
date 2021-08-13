@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeName field",
+  "systemName": "OfficeName_PTY_NAME",
+  "displayName": "SYS_ORG_PTY_NAME",
+  "shortName": null,
+  "standardName": "OfficeName",
+  "id": 10000074075,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAClearSpanCeilingHeight field",
+  "systemName": "CWAClearSpanCeilingHeight_QMO_CLEAR_SPAN_CEILING_HEIGHT",
+  "displayName": "CWA_LIS_QMO_CLEAR_SPAN_CEILING_HEIGHT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003910,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001740,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

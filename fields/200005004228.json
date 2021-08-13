@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAltAgentSalutationDesc field",
+  "systemName": "CWAAltAgentSalutationDesc_QSS_SALUTATION_DESCRIPTION",
+  "displayName": "SYS_CWLAGPER2_QSS_SALUTATION_DESCRIPTION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004228,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

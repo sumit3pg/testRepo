@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DomProperty field",
+  "systemName": "DomProperty_DOM_PROPERTY",
+  "displayName": "DomProperty",
+  "shortName": null,
+  "standardName": "CumulativeDaysOnMarket",
+  "id": 10049076078,
+  "availableFlag": 1,
+  "dataTypeId": 200004272321,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

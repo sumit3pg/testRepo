@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATotalOpenHouses field",
+  "systemName": "CWATotalOpenHouses_FC_ACTIVE_OPEN_HOUSE_COUNT",
+  "displayName": "CWA_LIS_FC_ACTIVE_OPEN_HOUSE_COUNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003759,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

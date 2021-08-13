@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleOfficeOfficePhone field",
+  "systemName": "BRIGHTSaleOfficeOfficePhone_OfficePhone",
+  "displayName": "BRIGHTSaleOfficeOfficePhone",
+  "shortName": null,
+  "standardName": "BuyerOfficePhone",
+  "id": 200017264757,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

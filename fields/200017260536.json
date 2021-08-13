@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeDateAdded field",
+  "systemName": "BRIGHTOfficeDateAdded_CREATED_TMS",
+  "displayName": "BRIGHTOfficeDateAdded",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260536,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SprinklerExistsFlag field",
+  "systemName": "SprinklerExistsFlag_QSFLG_HAS_SPRINKLER",
+  "displayName": "LIS_LIS_QSFLG_HAS_SPRINKLER",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765944,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

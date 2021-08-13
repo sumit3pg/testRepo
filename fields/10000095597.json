@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LivingRoomLength field",
+  "systemName": "LivingRoomLength_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_LIVING_R",
+  "shortName": null,
+  "standardName": "LivingRoomLength",
+  "id": 10000095597,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

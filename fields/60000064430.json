@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenVerificationBody field",
+  "systemName": "GreenVerificationBody_BODY",
+  "displayName": "LIS_GV_BODY",
+  "shortName": null,
+  "standardName": "GreenVerificationBody",
+  "id": 60000064430,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 60000064431,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

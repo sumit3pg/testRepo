@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeWWW field",
+  "systemName": "OfficeWWW_CM_STRING_TEXT",
+  "displayName": "SYS_OCSVW_CONTACT_TYPES_WEBSITE_",
+  "shortName": null,
+  "standardName": "SocialMediaWebsiteUrlOrId",
+  "id": 10000074015,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAWaterLast12Months field",
+  "systemName": "CWAWaterLast12Months_QSF_LAST_TWELVE_MONTHS",
+  "displayName": "CWA_FI_NCM_XPNS_TYPS_TLTS___WTR_QSF_LST_TWLV_MNTHS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004381,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

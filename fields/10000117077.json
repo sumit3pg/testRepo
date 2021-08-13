@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalUnits field",
+  "systemName": "TotalUnits_STR_UNITS",
+  "displayName": "LIS_LIS_STR_UNITS",
+  "shortName": null,
+  "standardName": "NumberOfUnitsTotal",
+  "id": 10000117077,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentURL field",
+  "systemName": "BRIGHTSaleAgentURL_SocialMediaWebsiteUrlOrId",
+  "displayName": "BRIGHTSaleAgentURL",
+  "shortName": null,
+  "standardName": "BuyerAgentURL",
+  "id": 200017264686,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

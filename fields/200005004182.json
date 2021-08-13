@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleOfficeDistance field",
+  "systemName": "CWASaleOfficeDistance_QSF_DISTANCE_TO_SALE_OFFICE",
+  "displayName": "CWA_LIS_QSF_DISTANCE_TO_SALE_OFFICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004182,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

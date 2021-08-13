@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaURLFull field",
+  "systemName": "MIREXPropMediaURLFull_FC_URL_FULL",
+  "displayName": "MIREXPropMediaURLFull",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016881438,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

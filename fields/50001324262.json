@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BranchOfficeCode field",
+  "systemName": "BranchOfficeCode_QSS_BRANCH_OFFICE_CODE",
+  "displayName": "SYS_ORG_QSS_BRANCH_OFFICE_CODE",
+  "shortName": null,
+  "standardName": "MainOfficeMlsId",
+  "id": 50001324262,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

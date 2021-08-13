@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTGreenEnergyGeneration field",
+  "systemName": "BRIGHTGreenEnergyGeneration_GreenEnergyGeneration",
+  "displayName": "BRIGHTGreenEnergyGeneration",
+  "shortName": null,
+  "standardName": "GreenEnergyGeneration",
+  "id": 200017265931,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734640,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

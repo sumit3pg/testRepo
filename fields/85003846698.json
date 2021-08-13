@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ResetCDOMFlag field",
+  "systemName": "ResetCDOMFlag_MAIN_RESET_DOM_PROPERTY_FLAG",
+  "displayName": "LIS_LIS_MAIN_RESET_DOM_PROPERTY_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 85003846698,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

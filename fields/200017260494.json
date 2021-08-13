@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeBrokerOfficeKey field",
+  "systemName": "BRIGHTOfficeBrokerOfficeKey_PR_BROFF_PTY_ID",
+  "displayName": "BRIGHTOfficeBrokerOfficeKey",
+  "shortName": null,
+  "standardName": "MainOfficeKey",
+  "id": 200017260494,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentLastName field",
+  "systemName": "ListAgentLastName_PTY_LAST_NAME",
+  "displayName": "SYS_LAGPER1_PTY_LAST_NAME",
+  "shortName": null,
+  "standardName": "ListAgentLastName",
+  "id": 10000088344,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

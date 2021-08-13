@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SourceUnbrandedVirtualTour field",
+  "systemName": "SourceUnbrandedVirtualTour_TEXT_SOURCE_UNBRANDED_VTOUR",
+  "displayName": "LIS_LIS_DSS_SOURCE_UNBRANDED_VTO",
+  "shortName": null,
+  "standardName": "VirtualTourURLUnbranded",
+  "id": 50057949000,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

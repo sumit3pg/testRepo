@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTInternetServices field",
+  "systemName": "BRIGHTInternetServices_InternetServices",
+  "displayName": "BRIGHTInternetServices",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266160,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200016889536,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

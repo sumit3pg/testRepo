@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RecRm1Area field",
+  "systemName": "RecRm1Area_AREA_TOTAL",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_RECREATI",
+  "shortName": null,
+  "standardName": "RoomRecRm1Area",
+  "id": 85011876758,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

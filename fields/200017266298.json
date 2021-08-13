@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLeaseLinkURL field",
+  "systemName": "BRIGHTLeaseLinkURL_LeaseLinkURL",
+  "displayName": "BRIGHTLeaseLinkURL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266298,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

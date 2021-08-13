@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitOccupiedFlag field",
+  "systemName": "CWAPropUnitOccupiedFlag_QSFLG_OCCUPIED",
+  "displayName": "CWA_UUNIT_QSFLG_OCCUPIED",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077127,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

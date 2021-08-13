@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAltOfficeFax field",
+  "systemName": "MIREXAltOfficeFax_OfficeFax",
+  "displayName": "MIREXAltOfficeFax",
+  "shortName": null,
+  "standardName": "CoListOfficeFax",
+  "id": 550016874902,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

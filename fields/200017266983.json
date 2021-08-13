@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListingAreaMinor field",
+  "systemName": "BRIGHTListingAreaMinor_MLSAreaMinor",
+  "displayName": "BRIGHTListingAreaMinor",
+  "shortName": null,
+  "standardName": "MLSAreaMinor",
+  "id": 200017266983,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872896,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

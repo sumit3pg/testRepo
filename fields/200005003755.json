@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATotalTours field",
+  "systemName": "CWATotalTours_FC_VTOUR_COUNT",
+  "displayName": "CWA_LIS_FC_VTOUR_COUNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003755,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

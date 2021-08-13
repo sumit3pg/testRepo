@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitSecurityDeposit field",
+  "systemName": "CWAPropUnitSecurityDeposit_QSF_SECURITY_DEPOSIT",
+  "displayName": "CWA_UUNIT_QSF_SECURITY_DEPOSIT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077133,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

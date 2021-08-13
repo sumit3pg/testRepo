@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaModificationTimestamp field",
+  "systemName": "MIREXPropMediaModificationTimestamp_MODIFIED_TMS",
+  "displayName": "MIREXPropMediaModificationTimestamp",
+  "shortName": null,
+  "standardName": "ModificationTimestamp",
+  "id": 550016881372,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

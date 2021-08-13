@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropertyManagmentCompany field",
+  "systemName": "CWAPropertyManagmentCompany_PTY_NAME",
+  "displayName": "CWA_PMGORG1_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003805,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

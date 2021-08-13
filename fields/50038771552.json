@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit8GarageSpaces field",
+  "systemName": "Unit8GarageSpaces_GARAGE_SPACES",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_8_G",
+  "shortName": null,
+  "standardName": "UnitType8GarageSpaces",
+  "id": 50038771552,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

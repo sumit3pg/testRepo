@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUpperFloorsTotalHalfBaths field",
+  "systemName": "BRIGHTUpperFloorsTotalHalfBaths_UpperLevelsTotalHalfBaths",
+  "displayName": "BRIGHTUpperFloorsTotalHalfBaths",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268893,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

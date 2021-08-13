@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltOfficePrimaryAssociationLkp field",
+  "systemName": "AltOfficePrimaryAssociationLkp_QSO_PRIMARY_ASSOCIATION",
+  "displayName": "SYS_LAGORG2_QSO_PRIMARY_ASSOCIAT",
+  "shortName": null,
+  "standardName": "CoListOfficeAOR",
+  "id": 85011872926,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004730491,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaPermissions field",
+  "systemName": "PropMediaPermissions_QMO_PROP_MEDIA_PERMISSION",
+  "displayName": "LIS_MEDVW_QMO_PROP_MEDIA_PERMISS",
+  "shortName": null,
+  "standardName": "Permission",
+  "id": 85046979056,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85046979057,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

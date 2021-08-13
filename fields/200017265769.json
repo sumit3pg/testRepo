@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFederalFloodIns field",
+  "systemName": "BRIGHTFederalFloodIns_FederalFloodInsurance",
+  "displayName": "BRIGHTFederalFloodIns",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265769,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002875,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeBoxNumber field",
+  "systemName": "BRIGHTOfficeBoxNumber_OfficeBoxNumber",
+  "displayName": "BRIGHTOfficeBoxNumber",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260578,
+  "availableFlag": 1,
+  "dataTypeId": 10000000117,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

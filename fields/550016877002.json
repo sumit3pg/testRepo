@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListOfficeOfficePhone field",
+  "systemName": "MIREXListOfficeOfficePhone_OfficeOfficePhone",
+  "displayName": "MIREXListOfficeOfficePhone",
+  "shortName": null,
+  "standardName": "ListOfficePhone",
+  "id": 550016877002,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

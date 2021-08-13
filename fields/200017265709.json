@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTExpirationDate field",
+  "systemName": "BRIGHTExpirationDate_ExpirationDate",
+  "displayName": "BRIGHTExpirationDate",
+  "shortName": null,
+  "standardName": "ExpirationDate",
+  "id": 200017265709,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

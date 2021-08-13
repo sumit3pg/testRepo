@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentOfficeKey field",
+  "systemName": "AltSaleAgentOfficeKey_PARENT_PTY_ID",
+  "displayName": "SYS_SAGPR2_PARENT_PTY_ID",
+  "shortName": null,
+  "standardName": "CoBuyerOfficeKey",
+  "id": 50040706854,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

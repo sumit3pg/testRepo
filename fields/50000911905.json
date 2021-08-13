@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CompanyRemarks field",
+  "systemName": "CompanyRemarks_TEXT_COMPANY_REMARKS",
+  "displayName": "LIS_LIS_TEXT_COMPANY_REMARKS",
+  "shortName": null,
+  "standardName": "PrivateOfficeRemarks",
+  "id": 50000911905,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PercentHomesteadExemptFlag field",
+  "systemName": "PercentHomesteadExemptFlag_QSFLG_PCNT_HMSTD_EXMPT_FLAG",
+  "displayName": "LIS_LIS_QSFLG_PCNT_HMSTD_EXMPT_F",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003240309,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

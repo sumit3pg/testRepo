@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SittingRoom1Width field",
+  "systemName": "SittingRoom1Width_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_SITTING_",
+  "shortName": null,
+  "standardName": "RoomSittingRoom1Width",
+  "id": 10000097952,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

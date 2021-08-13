@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a POINumValue field",
+  "systemName": "POINumValue_NUM_VALUE",
+  "displayName": "CFG_POI_NUM_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004653423,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

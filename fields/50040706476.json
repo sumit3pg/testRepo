@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CreditReportRequiredFlag field",
+  "systemName": "CreditReportRequiredFlag_QSFLG_CREDIT_REPORT_REQUIRED",
+  "displayName": "LIS_LIS_QSFLG_CREDIT_REPORT_REQU",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706476,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

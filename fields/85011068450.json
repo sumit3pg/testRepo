@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IncrementalDomProperty field",
+  "systemName": "IncrementalDomProperty_MAIN_INCREMENTAL_DOM_PROPERTY",
+  "displayName": "LIS_LIS_MAIN_INCREMENTAL_DOM_PRO",
+  "shortName": null,
+  "standardName": null,
+  "id": 85011068450,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeBrokerOfficeName field",
+  "systemName": "OfficeBrokerOfficeName_PTY_BROFF_NAME",
+  "displayName": "SYS_BORPRVW_PTY_BROFF_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004267270,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

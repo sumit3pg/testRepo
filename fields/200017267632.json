@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPetsAllowedFlag field",
+  "systemName": "BRIGHTPetsAllowedFlag_PetsAllowedYN",
+  "displayName": "BRIGHTPetsAllowedFlag",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267632,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

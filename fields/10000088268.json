@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListOfficeFullOfficeName field",
+  "systemName": "ListOfficeFullOfficeName_PTY_NAME",
+  "displayName": "SYS_LAGORG1_PTY_NAME",
+  "shortName": null,
+  "standardName": "ListOfficeName",
+  "id": 10000088268,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

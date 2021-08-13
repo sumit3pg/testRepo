@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaModificationByPartyID field",
+  "systemName": "PropMediaModificationByPartyID_IDENTIFIER",
+  "displayName": "SYS_LMUPTY_IDENTIFIER",
+  "shortName": null,
+  "standardName": "ChangedByMemberID",
+  "id": 85053413637,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

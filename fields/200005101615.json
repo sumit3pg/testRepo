@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFinancingTypes field",
+  "systemName": "CWAFinancingTypes_QMO_FINANCING_TYPE",
+  "displayName": "CWA_LIS_QMO_FINANCING_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101615,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897835,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

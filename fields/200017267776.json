@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropertyCondition field",
+  "systemName": "BRIGHTPropertyCondition_PropertyCondition",
+  "displayName": "BRIGHTPropertyCondition",
+  "shortName": null,
+  "standardName": "PropertyCondition",
+  "id": 200017267776,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002494,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

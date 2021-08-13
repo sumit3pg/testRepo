@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentTeamKey field",
+  "systemName": "SaleAgentTeamKey_PARENT_PTY_ID",
+  "displayName": "SYS_SAGTMLPR1_PARENT_PTY_ID",
+  "shortName": null,
+  "standardName": "BuyerTeamKey",
+  "id": 550016525662,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

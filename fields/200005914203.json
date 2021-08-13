@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABelowGradeAreaTotalSource field",
+  "systemName": "CWABelowGradeAreaTotalSource_QS_BLW_GRADE_AREA_TOTAL_SOURCE",
+  "displayName": "CWA_LIS_QS_BLW_GRADE_AREA_TOTAL_SOURCE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005914203,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040227010,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

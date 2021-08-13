@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Metering field",
+  "systemName": "Metering_QMO_METERING",
+  "displayName": "LIS_LIS_QMO_METERING",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117127,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002343,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

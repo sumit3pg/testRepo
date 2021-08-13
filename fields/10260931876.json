@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SystemName field",
+  "systemName": "SystemName_NAME",
+  "displayName": "CFG_LA_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 10260931876,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPhysicalDockSlipConveysFlag field",
+  "systemName": "CWAPhysicalDockSlipConveysFlag_QSFLG_DOCK_SLIP_FLAG",
+  "displayName": "CWA_LIS_QSFLG_DOCK_SLIP_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005252862,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

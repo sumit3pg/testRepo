@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALisMediaList field",
+  "systemName": "CWALisMediaList_QMEO_MED",
+  "displayName": "CWA_LIS_QMEO_MED",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004348,
+  "availableFlag": 1,
+  "dataTypeId": 200004437375,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069203,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

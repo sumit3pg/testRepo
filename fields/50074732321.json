@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentSubscriptions field",
+  "systemName": "AgentSubscriptions_QMO_AGENT_SUBSCRIPTIONS",
+  "displayName": "SYS_PER_QMO_AGENT_SUBSCRIPTIONS",
+  "shortName": null,
+  "standardName": "SyndicateTo",
+  "id": 50074732321,
+  "availableFlag": 1,
+  "dataTypeId": 10000070531,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50074732327,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoadingDock1SizeDescription field",
+  "systemName": "LoadingDock1SizeDescription_UNSTRUCTURED_SIZE",
+  "displayName": "LIS_SI_SIZE_TYPES_LOADING_DOCK_1",
+  "shortName": null,
+  "standardName": null,
+  "id": 50074593858,
+  "availableFlag": 1,
+  "dataTypeId": 10000000116,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

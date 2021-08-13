@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit4OtherRoom1Level field",
+  "systemName": "Unit4OtherRoom1Level_LEVEL_TYPE",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_4_O",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038764190,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

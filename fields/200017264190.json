@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCommunityManagement field",
+  "systemName": "BRIGHTCommunityManagement_AssociationManagementType",
+  "displayName": "BRIGHTCommunityManagement",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264190,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002135,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

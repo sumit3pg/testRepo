@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTIncorporatedCityName field",
+  "systemName": "BRIGHTIncorporatedCityName_IncorporatedCityName",
+  "displayName": "BRIGHTIncorporatedCityName",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266117,
+  "availableFlag": 1,
+  "dataTypeId": 205010451289,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

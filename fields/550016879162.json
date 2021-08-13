@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit1BedroomMaster1Level field",
+  "systemName": "MIREXUnit1BedroomMaster1Level_Unit1Bedroom1Level",
+  "displayName": "MIREXUnit1BedroomMaster1Level",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879162,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

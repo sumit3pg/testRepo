@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentTeamLeadAgentName field",
+  "systemName": "AltSaleAgentTeamLeadAgentName_PTY_NAME",
+  "displayName": "SYS_SAGTMLPER2_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016954832,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

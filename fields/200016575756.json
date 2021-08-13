@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LeaseLinkURL field",
+  "systemName": "LeaseLinkURL_TEXT_LEASE_LINK_URL",
+  "displayName": "LIS_LIS_TEXT_LEASE_LINK_URL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016575756,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

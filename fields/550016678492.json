@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSysPrModificationTimestamp field",
+  "systemName": "MIREXSysPrModificationTimestamp_MODIFIED_TMS",
+  "displayName": "MIREXSysPrModificationTimestamp",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016678492,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

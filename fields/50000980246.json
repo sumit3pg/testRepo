@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListOfficeIDXExclude field",
+  "systemName": "ListOfficeIDXExclude_QSFLG_IDX_EXCLUDE",
+  "displayName": "SYS_LAGORG1_QSFLG_IDX_EXCLUDE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000980246,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

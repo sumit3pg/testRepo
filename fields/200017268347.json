@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSubSystemLocale field",
+  "systemName": "BRIGHTSubSystemLocale_SubSystemLocale",
+  "displayName": "BRIGHTSubSystemLocale",
+  "shortName": null,
+  "standardName": "OriginatingSystemName",
+  "id": 200017268347,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50060609962,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

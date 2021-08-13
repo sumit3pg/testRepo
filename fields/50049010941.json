@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a HOAPaymentFreqs2 field",
+  "systemName": "HOAPaymentFreqs2_QMO_PAYMENT_FREQUENCY_TYPE",
+  "displayName": "LIS_FIE_INCOME_XPNS_TYPS_H_F_2_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50049010941,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001056,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

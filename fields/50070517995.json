@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Serial4NumberDescription field",
+  "systemName": "Serial4NumberDescription_QSS_SERIAL4_NUMBER_DESCRIPTION",
+  "displayName": "LIS_LIS_QSS_SERIAL4_NUMBER_DESCR",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070517995,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

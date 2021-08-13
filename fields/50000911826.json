@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FireplaceFeatures field",
+  "systemName": "FireplaceFeatures_QMO_FIREPLACE_FEATURES",
+  "displayName": "LIS_LIS_QMO_FIREPLACE_FEATURES",
+  "shortName": null,
+  "standardName": "FireplaceFeatures",
+  "id": 50000911826,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897846,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

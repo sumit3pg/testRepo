@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleOfficeFullOfficeName field",
+  "systemName": "SaleOfficeFullOfficeName_PTY_NAME",
+  "displayName": "SYS_SAGORG1_PTY_NAME",
+  "shortName": null,
+  "standardName": "BuyerOfficeName",
+  "id": 10000088276,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

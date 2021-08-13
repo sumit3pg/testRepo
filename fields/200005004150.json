@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATransferDevelopmentRights field",
+  "systemName": "CWATransferDevelopmentRights_QSO_TRANSFR_DEVELOPMENT_RIGHTS",
+  "displayName": "CWA_LIS_QSO_TRANSFR_DEVELOPMENT_RIGHTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004150,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004231645,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

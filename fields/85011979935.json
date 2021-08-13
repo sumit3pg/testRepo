@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AutoSellFlag field",
+  "systemName": "AutoSellFlag_QSFLG_AUTO_SELL",
+  "displayName": "LIS_LIS_QSFLG_AUTO_SELL",
+  "shortName": null,
+  "standardName": null,
+  "id": 85011979935,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

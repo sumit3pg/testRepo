@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTConsiderLeaseFlag field",
+  "systemName": "BRIGHTConsiderLeaseFlag_LeaseConsideredYN",
+  "displayName": "BRIGHTConsiderLeaseFlag",
+  "shortName": null,
+  "standardName": "LeaseConsideredYN",
+  "id": 200017266280,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

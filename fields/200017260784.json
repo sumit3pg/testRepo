@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBrokerID field",
+  "systemName": "BRIGHTBrokerID_OfficeSourceRecordKey",
+  "displayName": "BRIGHTBrokerID",
+  "shortName": null,
+  "standardName": "OriginatingSystemOfficeKey",
+  "id": 200017260784,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

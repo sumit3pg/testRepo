@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXLongitude field",
+  "systemName": "MIREXLongitude_Longitude",
+  "displayName": "MIREXLongitude",
+  "shortName": null,
+  "standardName": "Longitude",
+  "id": 550016877260,
+  "availableFlag": 1,
+  "dataTypeId": 10000000144,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

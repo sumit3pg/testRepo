@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAROOMLISKey field",
+  "systemName": "CWAROOMLISKey_LIS_ID",
+  "displayName": "CWA_LOROOM_LIS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005022513,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

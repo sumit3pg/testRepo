@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBldgNameName field",
+  "systemName": "BRIGHTBldgNameName_NAME",
+  "displayName": "BRIGHTBldgNameName",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016779206,
+  "availableFlag": 1,
+  "dataTypeId": 205010451289,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

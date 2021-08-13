@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WaterfrontFlag field",
+  "systemName": "WaterfrontFlag_QSFLG_WATERFRONT_FLAG",
+  "displayName": "LIS_LIS_QSFLG_WATERFRONT_FLAG",
+  "shortName": null,
+  "standardName": "WaterfrontYN",
+  "id": 205011564739,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCableTVExpense field",
+  "systemName": "BRIGHTCableTVExpense_CableTvExpense",
+  "displayName": "BRIGHTCableTVExpense",
+  "shortName": null,
+  "standardName": "CableTvExpense",
+  "id": 200017264791,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

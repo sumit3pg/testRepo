@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAcresPasture field",
+  "systemName": "CWAAcresPasture_QSF_PASTURE_ACRES",
+  "displayName": "CWA_LIS_QSF_PASTURE_ACRES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004056,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

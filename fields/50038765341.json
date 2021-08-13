@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1LivingGreatRoomDescription field",
+  "systemName": "Unit1LivingGreatRoomDescription_QMO_UNIT_FEATURES",
+  "displayName": "LIS_ROOM_SUB_RM_TYPS_NT_1_LVNG_G",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765341,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038643744,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

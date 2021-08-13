@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSysPrParentPartyKey field",
+  "systemName": "MIREXSysPrParentPartyKey_PARENT_PTY_ID",
+  "displayName": "MIREXSysPrParentPartyKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016678654,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

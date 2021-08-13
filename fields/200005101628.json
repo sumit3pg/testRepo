@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALowerFloor1TotalBaths field",
+  "systemName": "CWALowerFloor1TotalBaths_BATHS_TOTAL",
+  "displayName": "CWA_STORY_STORY_TYPES_LOWER_1_1_BATHS_TOTAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101628,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

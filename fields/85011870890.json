@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentTollFreePhone field",
+  "systemName": "SaleAgentTollFreePhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_SAGPCPVW1_PHONE_TYPES_TOLL_F",
+  "shortName": null,
+  "standardName": "BuyerAgentTollFreePhone",
+  "id": 85011870890,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

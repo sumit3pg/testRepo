@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPoolFeatures field",
+  "systemName": "BRIGHTPoolFeatures_PoolFeatures",
+  "displayName": "BRIGHTPoolFeatures",
+  "shortName": null,
+  "standardName": "PoolFeatures",
+  "id": 200017267674,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50047488331,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

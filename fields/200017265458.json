@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDirectionFaces field",
+  "systemName": "BRIGHTDirectionFaces_DirectionFaces",
+  "displayName": "BRIGHTDirectionFaces",
+  "shortName": null,
+  "standardName": "DirectionFaces",
+  "id": 200017265458,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670905,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

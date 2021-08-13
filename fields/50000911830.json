@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LeaseType field",
+  "systemName": "LeaseType_QMO_LEASE_TYPE",
+  "displayName": "LIS_LIS_QMO_LEASE_TYPE",
+  "shortName": null,
+  "standardName": "ExistingLeaseType",
+  "id": 50000911830,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897904,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXGrossSQFT field",
+  "systemName": "MIREXGrossSQFT_GrossSQFT",
+  "displayName": "MIREXGrossSQFT",
+  "shortName": null,
+  "standardName": "BuildingAreaTotal",
+  "id": 550016875908,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

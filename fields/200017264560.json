@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCommission field",
+  "systemName": "BRIGHTCommission_BuyerAgencyCompensation",
+  "displayName": "BRIGHTCommission",
+  "shortName": null,
+  "standardName": "BuyerAgencyCompensation",
+  "id": 200017264560,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

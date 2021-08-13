@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PpdSubscriberType field",
+  "systemName": "PpdSubscriberType_SUBSCRIBER_TYPE",
+  "displayName": "SYS_PPD_SUBSCRIBER_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005009941,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 50000953734,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

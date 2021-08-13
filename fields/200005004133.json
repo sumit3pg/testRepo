@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFarmLandAreaUnits field",
+  "systemName": "CWAFarmLandAreaUnits_QSO_FARM_LAND_AREA_UNITS",
+  "displayName": "CWA_LIS_QSO_FARM_LAND_AREA_UNITS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004133,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

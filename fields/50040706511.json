@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ParkingFeatures field",
+  "systemName": "ParkingFeatures_QMO_PARKING_FEATURES",
+  "displayName": "LIS_LIS_QMO_PARKING_FEATURES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706511,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670917,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

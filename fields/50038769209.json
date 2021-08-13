@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit7Description field",
+  "systemName": "Unit7Description_QMO_DESCRIPTION",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_7_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038769209,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038643757,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Bath3Size field",
+  "systemName": "Bath3Size_QSS_SIZE",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BATH_3_1",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765201,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

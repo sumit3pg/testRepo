@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentKey field",
+  "systemName": "WIREXAgentKey_AgentKey",
+  "displayName": "WIREXAgentKey",
+  "shortName": null,
+  "standardName": "MemberKey",
+  "id": 550016720366,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTModelName field",
+  "systemName": "BRIGHTModelName_BuilderModel",
+  "displayName": "BRIGHTModelName",
+  "shortName": null,
+  "standardName": "BuilderModel",
+  "id": 200017264475,
+  "availableFlag": 1,
+  "dataTypeId": 85046622506,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

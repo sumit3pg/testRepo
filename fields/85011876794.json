@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BedroomFirst1Features field",
+  "systemName": "BedroomFirst1Features_QMO_FEATURES",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BEDROOM_",
+  "shortName": null,
+  "standardName": "RoomBedroomFirst1Features",
+  "id": 85011876794,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011876769,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

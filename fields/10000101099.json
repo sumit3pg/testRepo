@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Subdivision field",
+  "systemName": "Subdivision_NAME",
+  "displayName": "LIS_SUBD_NAME",
+  "shortName": null,
+  "standardName": "SubdivisionName",
+  "id": 10000101099,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

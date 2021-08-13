@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltSaleAgentFax field",
+  "systemName": "AltSaleAgentFax_CM_PHONE_NUMBER",
+  "displayName": "SYS_SAGPCPVW2_PHONE_TYPES_FAX_1_",
+  "shortName": null,
+  "standardName": "CoBuyerAgentFax",
+  "id": 85011870929,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

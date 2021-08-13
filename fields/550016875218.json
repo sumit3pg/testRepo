@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXShowingContact2Name field",
+  "systemName": "MIREXShowingContact2Name_ContactName",
+  "displayName": "MIREXShowingContact2Name",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875218,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

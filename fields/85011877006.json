@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FamilyRoomDimenstions field",
+  "systemName": "FamilyRoomDimenstions_QSS_DIMENSIONS",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_FAMILY_R",
+  "shortName": null,
+  "standardName": "RoomFamilyRoomDimensions",
+  "id": 85011877006,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

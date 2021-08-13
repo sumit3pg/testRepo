@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOpenParkingFlag field",
+  "systemName": "BRIGHTOpenParkingFlag_OpenParkingYN",
+  "displayName": "BRIGHTOpenParkingFlag",
+  "shortName": null,
+  "standardName": "OpenParkingYN",
+  "id": 200017267443,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

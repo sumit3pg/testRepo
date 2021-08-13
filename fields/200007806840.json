@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalDriveInDoors field",
+  "systemName": "TotalDriveInDoors_QSL_TOTAL_DRIVE_IN_DOORS",
+  "displayName": "LIS_LIS_QSL_TOTAL_DRIVE_IN_DOORS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007806840,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

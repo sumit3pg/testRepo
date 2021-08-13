@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PODataType field",
+  "systemName": "PODataType_DT_ID",
+  "displayName": "CFG_PO_DT_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004653427,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000069197,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

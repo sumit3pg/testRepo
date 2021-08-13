@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SoldPricePerSqFt field",
+  "systemName": "SoldPricePerSqFt_QSF_SOLD_PRICE_PER_SQUARE_FOOT",
+  "displayName": "LIS_LIS_QSF_SOLD_PRICE_PER_SQUAR",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040960971,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

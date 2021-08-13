@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1FamilyRoomLength field",
+  "systemName": "Unit1FamilyRoomLength_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_1_F",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062647889,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

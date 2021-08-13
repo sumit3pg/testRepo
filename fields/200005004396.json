@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFuelExpense field",
+  "systemName": "CWAFuelExpense_AMOUNT",
+  "displayName": "CWA_FIE_INCOME_EXPENSE_TYPES_FUEL_EXPENSE_AMOUNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004396,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

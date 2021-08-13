@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFinalLeaseType field",
+  "systemName": "BRIGHTFinalLeaseType_FinalLeaseType",
+  "displayName": "BRIGHTFinalLeaseType",
+  "shortName": null,
+  "standardName": "FinalLeaseType",
+  "id": 200017265805,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897904,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

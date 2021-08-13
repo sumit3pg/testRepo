@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentState field",
+  "systemName": "SaleAgentState_ADDR_SOP_ID",
+  "displayName": "SYS_SAGPCAVW1_ADDRESS_TYPES_HOME",
+  "shortName": null,
+  "standardName": "BuyerAgentState",
+  "id": 10000085663,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002983,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

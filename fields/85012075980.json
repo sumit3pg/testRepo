@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoContRemovedDate field",
+  "systemName": "LoContRemovedDate_REMOVED_DATE",
+  "displayName": "LIS_LOCONT_REMOVED_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 85012075980,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

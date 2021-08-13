@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1OtherRoom2Width field",
+  "systemName": "Unit1OtherRoom2Width_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_1_O",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006782507,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

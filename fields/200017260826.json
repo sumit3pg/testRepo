@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeStreetName field",
+  "systemName": "BRIGHTOfficeStreetName_OfficeStreetName",
+  "displayName": "BRIGHTOfficeStreetName",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260826,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

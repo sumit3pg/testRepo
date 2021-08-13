@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalFurnaces field",
+  "systemName": "TotalFurnaces_QSL_TOTAL_FURNACES",
+  "displayName": "LIS_LIS_QSL_TOTAL_FURNACES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765977,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

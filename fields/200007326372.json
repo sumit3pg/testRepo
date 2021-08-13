@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisBuilderModel field",
+  "systemName": "LisBuilderModel_NAME",
+  "displayName": "LIS_LBM_RELATED_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007326372,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

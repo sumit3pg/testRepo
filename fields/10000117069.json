@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Fireplaces field",
+  "systemName": "Fireplaces_STR_FIREPLACES",
+  "displayName": "LIS_LIS_STR_FIREPLACES",
+  "shortName": null,
+  "standardName": "FireplacesTotal",
+  "id": 10000117069,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

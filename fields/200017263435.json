@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentSourceAgentID field",
+  "systemName": "BRIGHTAgentSourceAgentID_MemberSourceRecordID",
+  "displayName": "BRIGHTAgentSourceAgentID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263435,
+  "availableFlag": 1,
+  "dataTypeId": 85046622506,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DaysOnComingSoon field",
+  "systemName": "DaysOnComingSoon_FC_DAYS_ON_COMING_SOON",
+  "displayName": "LIS_LIS_FC_DAYS_ON_COMING_SOON",
+  "shortName": null,
+  "standardName": null,
+  "id": 60000016755,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

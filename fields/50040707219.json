@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ShowingPhone field",
+  "systemName": "ShowingPhone_CM_PHONE_NUMBER",
+  "displayName": "LIS_OCCPCPVW1_PHONE_TYPES_PHONE_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040707219,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

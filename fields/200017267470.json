@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOtherEquipment field",
+  "systemName": "BRIGHTOtherEquipment_OtherEquipment",
+  "displayName": "BRIGHTOtherEquipment",
+  "shortName": null,
+  "standardName": "OtherEquipment",
+  "id": 200017267470,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872888,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

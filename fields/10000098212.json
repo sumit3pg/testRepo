@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SittingRoom1Level field",
+  "systemName": "SittingRoom1Level_LEVEL_TYPE",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_SITTING_",
+  "shortName": null,
+  "standardName": "RoomSittingRoom1Level",
+  "id": 10000098212,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropUnitMonthlyRent field",
+  "systemName": "BRIGHTPropUnitMonthlyRent_UnitTypeMonthlyRent",
+  "displayName": "BRIGHTPropUnitMonthlyRent",
+  "shortName": null,
+  "standardName": "UnitTypeActualRent",
+  "id": 200017271789,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

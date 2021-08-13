@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentNameSuffix field",
+  "systemName": "BRIGHTAgentNameSuffix_MemberNameSuffix",
+  "displayName": "BRIGHTAgentNameSuffix",
+  "shortName": null,
+  "standardName": "MemberNameSuffix",
+  "id": 200017263315,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069205,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

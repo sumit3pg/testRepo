@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltAgentFax field",
+  "systemName": "BRIGHTAltAgentFax_MemberFax",
+  "displayName": "BRIGHTAltAgentFax",
+  "shortName": null,
+  "standardName": "CoListAgentFax",
+  "id": 200017265096,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

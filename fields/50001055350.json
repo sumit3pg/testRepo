@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentStatusDate field",
+  "systemName": "AgentStatusDate_QSD_STATUS_DATE",
+  "displayName": "SYS_PER_QSD_STATUS_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001055350,
+  "availableFlag": 1,
+  "dataTypeId": 10000070533,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

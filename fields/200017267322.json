@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTNumberOfPads field",
+  "systemName": "BRIGHTNumberOfPads_NumberOfPads",
+  "displayName": "BRIGHTNumberOfPads",
+  "shortName": null,
+  "standardName": "NumberOfPads",
+  "id": 200017267322,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

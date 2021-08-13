@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisAltSaleOfficeOfficePhoneDisplay field",
+  "systemName": "LisAltSaleOfficeOfficePhoneDisplay_CM_STRING_TEXT",
+  "displayName": "LIS_SAGOCPVW2_PHONE_TYPES_OFFICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062865147,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

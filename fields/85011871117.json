@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToSchoolBusStop field",
+  "systemName": "DistanceToSchoolBusStop_QSS_DIST_TO_SCHOOL_BUS_STOP",
+  "displayName": "LIS_LIS_QSS_DIST_TO_SCHOOL_BUS_S",
+  "shortName": null,
+  "standardName": "DistanceFromSchoolBus",
+  "id": 85011871117,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

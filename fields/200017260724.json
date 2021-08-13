@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeNumViolations field",
+  "systemName": "BRIGHTOfficeNumViolations_OfficeNumViolations",
+  "displayName": "BRIGHTOfficeNumViolations",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260724,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

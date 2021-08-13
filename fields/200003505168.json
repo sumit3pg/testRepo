@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SimLisGroupValue field",
+  "systemName": "SimLisGroupValue_GROUP_VALUE",
+  "displayName": "LIS_SL_GROUP_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003505168,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

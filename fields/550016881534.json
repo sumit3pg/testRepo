@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaExtSysErrorMessage field",
+  "systemName": "MIREXPropMediaExtSysErrorMessage_EXT_SYS_ERROR_MESSAGE",
+  "displayName": "MIREXPropMediaExtSysErrorMessage",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016881534,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

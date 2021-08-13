@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXHandicap field",
+  "systemName": "MIREXHandicap_Accessibility",
+  "displayName": "MIREXHandicap",
+  "shortName": null,
+  "standardName": "AccessibilityFeatures",
+  "id": 550016871948,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002170,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

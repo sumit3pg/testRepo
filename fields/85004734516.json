@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentRole field",
+  "systemName": "AgentRole_QSO_AGENT_ROLE",
+  "displayName": "SYS_PER_QSO_AGENT_ROLE",
+  "shortName": null,
+  "standardName": "MemberMlsSecurityClass",
+  "id": 85004734516,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734518,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

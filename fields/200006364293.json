@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BldgNameURL field",
+  "systemName": "BldgNameURL_URL",
+  "displayName": "LIS_BN_URL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006364293,
+  "availableFlag": 1,
+  "dataTypeId": 10000000153,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

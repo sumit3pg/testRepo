@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBathsHalf field",
+  "systemName": "MIREXBathsHalf_BathsHalf",
+  "displayName": "MIREXBathsHalf",
+  "shortName": null,
+  "standardName": "BathroomsHalf",
+  "id": 550016874334,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

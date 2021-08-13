@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaModificationByPartyKey field",
+  "systemName": "PropMediaModificationByPartyKey_MODIFIED_BY_PTY_ID",
+  "displayName": "SYS_LMEDUI_MODIFIED_BY_PTY_ID",
+  "shortName": null,
+  "standardName": "ChangedByMemberKey",
+  "id": 50071707973,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

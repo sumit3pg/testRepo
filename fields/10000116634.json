@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a State field",
+  "systemName": "State_SOP_ID",
+  "displayName": "LIS_ADDR_ADDRESS_TYPES_PROPERTY_",
+  "shortName": null,
+  "standardName": "StateOrProvince",
+  "id": 10000116634,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002983,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

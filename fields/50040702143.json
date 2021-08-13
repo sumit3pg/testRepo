@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisSaleOfficeFullOfficeName field",
+  "systemName": "LisSaleOfficeFullOfficeName_PTY_NAME",
+  "displayName": "LIS_SAGORG1_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040702143,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTopographyDescription field",
+  "systemName": "BRIGHTTopographyDescription_Topography",
+  "displayName": "BRIGHTTopographyDescription",
+  "shortName": null,
+  "standardName": "Topography",
+  "id": 200017268539,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

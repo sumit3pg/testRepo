@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALeasableArea field",
+  "systemName": "CWALeasableArea_AREA_TOTAL",
+  "displayName": "CWA_SI_SIZE_TYPES_LEASABLE_1_AREA_TOTAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004011,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a NumCarParkingSpaces field",
+  "systemName": "NumCarParkingSpaces_QSL_NUM_CAR_PARKING_SPACES",
+  "displayName": "LIS_LIS_QSL_NUM_CAR_PARKING_SPAC",
+  "shortName": null,
+  "standardName": null,
+  "id": 200009135730,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

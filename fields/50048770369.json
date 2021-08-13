@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ApproxWarehouseSqFt field",
+  "systemName": "ApproxWarehouseSqFt_AREA_TOTAL",
+  "displayName": "LIS_SI_SIZE_TYPES_WAREHOUSE_1_AR",
+  "shortName": null,
+  "standardName": null,
+  "id": 50048770369,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABathsHalf field",
+  "systemName": "CWABathsHalf_STR_BATHS_HALF",
+  "displayName": "CWA_LIS_STR_BATHS_HALF",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003941,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

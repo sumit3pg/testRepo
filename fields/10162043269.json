@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltOfficeFullOfficeName field",
+  "systemName": "AltOfficeFullOfficeName_PTY_NAME",
+  "displayName": "SYS_LAGORG2_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 10162043269,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LPONumValue field",
+  "systemName": "LPONumValue_NUM_VALUE",
+  "displayName": "CFG_LPO_NUM_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004744591,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

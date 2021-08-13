@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeCompanyOfficeID field",
+  "systemName": "OfficeCompanyOfficeID_QSS_COMPANY_OFFICE_ID",
+  "displayName": "SYS_ORG_QSS_COMPANY_OFFICE_ID",
+  "shortName": null,
+  "standardName": "MainOfficeKey",
+  "id": 50001324263,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAltSaleAgentFirstName field",
+  "systemName": "MIREXAltSaleAgentFirstName_AgentFirstName",
+  "displayName": "MIREXAltSaleAgentFirstName",
+  "shortName": null,
+  "standardName": "CoBuyerAgentFirstName",
+  "id": 550016875028,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

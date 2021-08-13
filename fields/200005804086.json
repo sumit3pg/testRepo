@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALeasableAreaAnnualTax field",
+  "systemName": "CWALeasableAreaAnnualTax_QSF_LEASABLE_AREA_ANNUAL_TAX",
+  "displayName": "CWA_LIS_QSF_LEASABLE_AREA_ANNUAL_TAX",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005804086,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

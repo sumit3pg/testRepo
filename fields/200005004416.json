@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAnnualLeasePricePerSqFt field",
+  "systemName": "CWAAnnualLeasePricePerSqFt_QSF_ANNL_LEASE_PRICE_PR_SQ_FT",
+  "displayName": "CWA_LIS_QSF_ANNL_LEASE_PRICE_PR_SQ_FT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004416,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

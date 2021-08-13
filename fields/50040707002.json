@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MapPage field",
+  "systemName": "MapPage_PAGE",
+  "displayName": "LIS_MAP_MAP_TYPES_MAP_PAGE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040707002,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

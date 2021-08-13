@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit2OtherRoom1Name field",
+  "systemName": "Unit2OtherRoom1Name_QSS_NAME",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_2_O",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765882,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

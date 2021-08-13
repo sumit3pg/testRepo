@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxStreetDirPrefix field",
+  "systemName": "TaxStreetDirPrefix_STR_PRE_STDR_ID",
+  "displayName": "PUB_OCAVW_ADDRESS_TYPES_PROPERTY",
+  "shortName": null,
+  "standardName": "TaxStreetDirPrefix",
+  "id": 10000122197,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069220,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

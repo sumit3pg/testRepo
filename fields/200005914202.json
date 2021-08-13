@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAreaTotalSource field",
+  "systemName": "CWAAreaTotalSource_QSO_AREA_TOTAL_SOURCE",
+  "displayName": "CWA_LIS_QSO_AREA_TOTAL_SOURCE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005914202,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640907,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

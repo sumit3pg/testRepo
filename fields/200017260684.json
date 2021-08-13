@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeLatitude field",
+  "systemName": "BRIGHTOfficeLatitude_OfficeLatitude",
+  "displayName": "BRIGHTOfficeLatitude",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260684,
+  "availableFlag": 1,
+  "dataTypeId": 10000000144,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

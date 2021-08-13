@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFarmFeatures field",
+  "systemName": "BRIGHTFarmFeatures_FarmFeatures",
+  "displayName": "BRIGHTFarmFeatures",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265733,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038639645,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

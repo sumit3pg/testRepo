@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAInfoSourceFinishedBelowGrade field",
+  "systemName": "CWAInfoSourceFinishedBelowGrade_QSO_INFO_SRC_FIN_BELOW_GRD",
+  "displayName": "CWA_LIS_QSO_INFO_SRC_FIN_BELOW_GRD",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004015,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040227010,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

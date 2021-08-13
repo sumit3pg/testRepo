@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Handicap field",
+  "systemName": "Handicap_QMO_HANDICAP",
+  "displayName": "LIS_LIS_QMO_HANDICAP",
+  "shortName": null,
+  "standardName": "AccessibilityFeatures",
+  "id": 10000117116,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002170,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

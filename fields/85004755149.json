@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a StagedObjectDescription field",
+  "systemName": "StagedObjectDescription_DESCRIPTION",
+  "displayName": "SYS_STO_DESCRIPTION",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004755149,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

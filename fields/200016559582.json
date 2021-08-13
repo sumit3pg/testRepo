@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AllowOnlineApplicationYN field",
+  "systemName": "AllowOnlineApplicationYN_QSFLG_LLW_NLNE_APPLICATION_Y_N",
+  "displayName": "LIS_LIS_QSFLG_LLW_NLNE_APPLICATI",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016559582,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

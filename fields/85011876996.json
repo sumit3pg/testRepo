@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DiningRoomDimenstions field",
+  "systemName": "DiningRoomDimenstions_QSS_DIMENSIONS",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_DINING_R",
+  "shortName": null,
+  "standardName": "RoomDiningRoomDimensions",
+  "id": 85011876996,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

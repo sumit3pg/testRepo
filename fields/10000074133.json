@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentFullName field",
+  "systemName": "AgentFullName_PTY_NAME",
+  "displayName": "SYS_PER_PTY_NAME",
+  "shortName": null,
+  "standardName": "MemberFullName",
+  "id": 10000074133,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

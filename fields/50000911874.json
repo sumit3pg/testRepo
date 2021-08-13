@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ProspectsExcluded field",
+  "systemName": "ProspectsExcluded_QSFLG_PROSPECTS_EXCLUDED",
+  "displayName": "LIS_LIS_QSFLG_PROSPECTS_EXCLUDED",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911874,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

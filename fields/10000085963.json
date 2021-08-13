@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentStreetNumber field",
+  "systemName": "SaleAgentStreetNumber_ADDR_HOUSE_NUMBER",
+  "displayName": "SYS_SAGPCAVW1_ADDRESS_TYPES_HOME",
+  "shortName": null,
+  "standardName": "BuyerAgentStreetNumber",
+  "id": 10000085963,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

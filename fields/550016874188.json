@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBackToActiveDate field",
+  "systemName": "MIREXBackToActiveDate_BackToActiveDate",
+  "displayName": "MIREXBackToActiveDate",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016874188,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

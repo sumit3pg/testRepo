@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeRoleList field",
+  "systemName": "BRIGHTOfficeRoleList_OfficeRoleList",
+  "displayName": "BRIGHTOfficeRoleList",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260760,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentFax field",
+  "systemName": "AltAgentFax_CM_PHONE_NUMBER",
+  "displayName": "SYS_LAGPCPVW2_PHONE_TYPES_FAX_1_",
+  "shortName": null,
+  "standardName": "CoListAgentFax",
+  "id": 10162046498,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

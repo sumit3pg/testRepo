@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a StreetSuffixModifier field",
+  "systemName": "StreetSuffixModifier_QSS_STREETSUFFIX_MOD",
+  "displayName": "LIS_LIS_QSS_STREETSUFFIX_MOD",
+  "shortName": null,
+  "standardName": "StreetSuffixModifier",
+  "id": 85004734636,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

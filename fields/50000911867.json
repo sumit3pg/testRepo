@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Fireplace field",
+  "systemName": "Fireplace_QSFLG_FIREPLACE",
+  "displayName": "LIS_LIS_QSFLG_FIREPLACE",
+  "shortName": null,
+  "standardName": "FireplaceYN",
+  "id": 50000911867,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

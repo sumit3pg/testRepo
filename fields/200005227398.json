@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropHistPartyKey field",
+  "systemName": "CWAPropHistPartyKey_PTY_ID",
+  "displayName": "CWA_UHVW_PTY_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005227398,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

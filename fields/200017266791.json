@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTInformationSourceLot field",
+  "systemName": "BRIGHTInformationSourceLot_LotSizeSource",
+  "displayName": "BRIGHTInformationSourceLot",
+  "shortName": null,
+  "standardName": "LotSizeSource",
+  "id": 200017266791,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640920,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

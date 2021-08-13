@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListOfficeState field",
+  "systemName": "ListOfficeState_ADDR_SOP_ID",
+  "displayName": "SYS_LAGOCAVW1_ADDRESS_TYPES_OFFI",
+  "shortName": null,
+  "standardName": "ListOfficeState",
+  "id": 10000082338,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002983,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

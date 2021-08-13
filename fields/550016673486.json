@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXOfficeOfficePhone2 field",
+  "systemName": "MIREXOfficeOfficePhone2_OfficeOfficePhone2",
+  "displayName": "MIREXOfficeOfficePhone2",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016673486,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

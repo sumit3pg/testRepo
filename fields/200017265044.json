@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltSaleAgentOfficeKey field",
+  "systemName": "BRIGHTAltSaleAgentOfficeKey_CoBuyerOfficeKey",
+  "displayName": "BRIGHTAltSaleAgentOfficeKey",
+  "shortName": null,
+  "standardName": "CoBuyerOfficeKey",
+  "id": 200017265044,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

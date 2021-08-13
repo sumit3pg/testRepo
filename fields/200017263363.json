@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentZip4 field",
+  "systemName": "BRIGHTAgentZip4_MemberPostalCodePlus4",
+  "displayName": "BRIGHTAgentZip4",
+  "shortName": null,
+  "standardName": "MemberPostalCodePlus4",
+  "id": 200017263363,
+  "availableFlag": 1,
+  "dataTypeId": 10000000170,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

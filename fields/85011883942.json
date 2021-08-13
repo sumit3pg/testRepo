@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherRm3LengthWidthUnits field",
+  "systemName": "OtherRm3LengthWidthUnits_QSO_LEN_WID_UNITS",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_OTHER_RO",
+  "shortName": null,
+  "standardName": "RoomOtherRm3LengthWidthUnits",
+  "id": 85011883942,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

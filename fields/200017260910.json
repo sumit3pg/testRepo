@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeTwitter field",
+  "systemName": "BRIGHTOfficeTwitter_SocialMediaTwitterUrlOrId",
+  "displayName": "BRIGHTOfficeTwitter",
+  "shortName": null,
+  "standardName": "SocialMediaTwitterUrlOrId",
+  "id": 200017260910,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

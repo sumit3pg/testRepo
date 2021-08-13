@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFrontFootFee field",
+  "systemName": "BRIGHTFrontFootFee_FrontFootFee",
+  "displayName": "BRIGHTFrontFootFee",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265847,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

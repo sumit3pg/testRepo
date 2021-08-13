@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLeaseType field",
+  "systemName": "BRIGHTLeaseType_ExistingLeaseType",
+  "displayName": "BRIGHTLeaseType",
+  "shortName": null,
+  "standardName": "ExistingLeaseType",
+  "id": 200017265696,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897904,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

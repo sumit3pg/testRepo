@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a VirtualTourFileName4 field",
+  "systemName": "VirtualTourFileName4_MED_FILE_NAME",
+  "displayName": "LIS_QMEDVW_MEDIA_TYPES_VIRTUAL_T",
+  "shortName": null,
+  "standardName": null,
+  "id": 20102246429,
+  "availableFlag": 1,
+  "dataTypeId": 10000000129,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

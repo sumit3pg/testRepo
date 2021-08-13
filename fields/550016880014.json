@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit4Bedroom2Length field",
+  "systemName": "MIREXUnit4Bedroom2Length_Unit4Bedroom2Length",
+  "displayName": "MIREXUnit4Bedroom2Length",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016880014,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

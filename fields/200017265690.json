@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTExclusionRemarks field",
+  "systemName": "BRIGHTExclusionRemarks_Exclusions",
+  "displayName": "BRIGHTExclusionRemarks",
+  "shortName": null,
+  "standardName": "Exclusions",
+  "id": 200017265690,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

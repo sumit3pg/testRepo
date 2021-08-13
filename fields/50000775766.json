@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MinSqFt2StoryDwelling field",
+  "systemName": "MinSqFt2StoryDwelling_QSF_MIN_SQ_2_STORY_DWELLING",
+  "displayName": "LIS_LIS_QSF_MIN_SQ_2_STORY_DWELL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000775766,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTContiguousSquareFeetAvailableYN field",
+  "systemName": "BRIGHTContiguousSquareFeetAvailableYN_ContiguousSquareFeetAvailableYN",
+  "displayName": "BRIGHTContiguousSquareFeetAvailableYN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265307,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}
