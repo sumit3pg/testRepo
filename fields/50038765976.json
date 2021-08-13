@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalDryers field",
+  "systemName": "TotalDryers_QSL_TOTAL_DRYERS",
+  "displayName": "LIS_LIS_QSL_TOTAL_DRYERS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765976,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

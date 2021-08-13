@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaPrimaryObjectFlag field",
+  "systemName": "BRIGHTPropMediaPrimaryObjectFlag_PRIMARY_OBJECT_FLAG",
+  "displayName": "BRIGHTPropMediaPrimaryObjectFlag",
+  "shortName": null,
+  "standardName": "PreferredPhotoYN",
+  "id": 200017269844,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

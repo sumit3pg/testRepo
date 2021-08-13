@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAuctionStartDate field",
+  "systemName": "BRIGHTAuctionStartDate_AuctionStartDate",
+  "displayName": "BRIGHTAuctionStartDate",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264298,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAcresPasture field",
+  "systemName": "BRIGHTAcresPasture_PastureArea",
+  "displayName": "BRIGHTAcresPasture",
+  "shortName": null,
+  "standardName": "PastureArea",
+  "id": 200017267584,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

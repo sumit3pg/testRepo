@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCrossStreet field",
+  "systemName": "BRIGHTCrossStreet_CrossStreet",
+  "displayName": "BRIGHTCrossStreet",
+  "shortName": null,
+  "standardName": "CrossStreet",
+  "id": 200017265385,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

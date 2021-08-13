@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAssociationName2 field",
+  "systemName": "CWAAssociationName2_QSS_ASSOCIATION_NAME_2",
+  "displayName": "CWA_LIS_QSS_ASSOCIATION_NAME_2",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003826,
+  "availableFlag": 1,
+  "dataTypeId": 200004437396,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

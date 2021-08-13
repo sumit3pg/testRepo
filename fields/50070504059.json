@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Assessments field",
+  "systemName": "Assessments_QMO_ASSESSMENTS",
+  "displayName": "LIS_LIS_QMO_ASSESSMENTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504059,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070502727,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

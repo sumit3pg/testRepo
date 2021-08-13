@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UnitWasherDryerHookupYN field",
+  "systemName": "UnitWasherDryerHookupYN_QSFLG_NT_WSHR_DRYER_HOOKUP_Y_N",
+  "displayName": "LIS_LIS_QSFLG_NT_WSHR_DRYER_HOOK",
+  "shortName": null,
+  "standardName": null,
+  "id": 550017032016,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

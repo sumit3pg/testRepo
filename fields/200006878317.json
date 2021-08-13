@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAShortSale field",
+  "systemName": "CWAShortSale_QSO_SHORT_SALE",
+  "displayName": "CWA_LIS_QSO_SHORT_SALE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006878317,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50072386935,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

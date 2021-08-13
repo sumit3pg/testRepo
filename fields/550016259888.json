@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleAgentTeamLeadAgentKey field",
+  "systemName": "CWASaleAgentTeamLeadAgentKey_PTY_ID",
+  "displayName": "SYS_CWSAGTMLPR1_PTY_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016259888,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

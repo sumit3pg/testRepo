@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchoolTaxPaymentFreq field",
+  "systemName": "SchoolTaxPaymentFreq_PAYMENT_FREQUENCY_TYPE",
+  "displayName": "LIS_FIE_INCOME_EXPNS_TYPS_SCHL_T",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005263447,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001056,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

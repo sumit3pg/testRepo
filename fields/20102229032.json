@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxNationalHistoricalDesignationURL field",
+  "systemName": "TaxNationalHistoricalDesignationURL_URL",
+  "displayName": "PUB_HD_TAX_HISTORIC_DESIGNATION_",
+  "shortName": null,
+  "standardName": null,
+  "id": 20102229032,
+  "availableFlag": 1,
+  "dataTypeId": 10310052282,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSaleAgentOfficeKey field",
+  "systemName": "MIREXSaleAgentOfficeKey_SaleAgentOfficeKey",
+  "displayName": "MIREXSaleAgentOfficeKey",
+  "shortName": null,
+  "standardName": "BuyerOfficeKey",
+  "id": 550016878122,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

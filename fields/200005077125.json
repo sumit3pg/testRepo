@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitRooms field",
+  "systemName": "CWAPropUnitRooms_NUM_ROOMS",
+  "displayName": "CWA_UUNIT_NUM_ROOMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077125,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

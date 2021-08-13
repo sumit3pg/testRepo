@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OpenHouseList field",
+  "systemName": "OpenHouseList_QMEO_OHVW",
+  "displayName": "LIS_LIS_QMEO_OHVW",
+  "shortName": null,
+  "standardName": null,
+  "id": 10267066852,
+  "availableFlag": 1,
+  "dataTypeId": 10267066747,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001047,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

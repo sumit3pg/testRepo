@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RawDomProperty field",
+  "systemName": "RawDomProperty_DOM_PROPERTY",
+  "displayName": "LIS_LT_DOM_PROPERTY",
+  "shortName": null,
+  "standardName": null,
+  "id": 10292151322,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

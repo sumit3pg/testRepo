@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListBrokerProvidesAllServices field",
+  "systemName": "ListBrokerProvidesAllServices_QSFLG_BRKR_PROVIDES_ALL_SRVCS",
+  "displayName": "LIS_LIS_QSFLG_BRKR_PROVIDES_ALL_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820038,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

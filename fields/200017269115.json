@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTZoningCode field",
+  "systemName": "BRIGHTZoningCode_Zoning",
+  "displayName": "BRIGHTZoningCode",
+  "shortName": null,
+  "standardName": "Zoning",
+  "id": 200017269115,
+  "availableFlag": 1,
+  "dataTypeId": 10000000126,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

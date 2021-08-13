@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UnitsInDevelopment field",
+  "systemName": "UnitsInDevelopment_QSL_UNITS_IN_DEVELOPMENT",
+  "displayName": "LIS_LIS_QSL_UNITS_IN_DEVELOPMENT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911889,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit5Includes field",
+  "systemName": "Unit5Includes_QMO_FEATURES",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_5_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038767565,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640242,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

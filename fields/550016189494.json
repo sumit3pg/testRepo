@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPartyPermGranteePartyKey field",
+  "systemName": "BRIGHTPartyPermGranteePartyKey_GRANTEE_PTY_ID",
+  "displayName": "BRIGHTPartyPermGranteePartyKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016189494,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

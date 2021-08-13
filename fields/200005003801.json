@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAClosePrice field",
+  "systemName": "CWAClosePrice_TRANS_CLOSE_LIST_PRICE",
+  "displayName": "CWA_LIS_TRANS_CLOSE_LIST_PRICE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003801,
+  "availableFlag": 1,
+  "dataTypeId": 10000000146,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

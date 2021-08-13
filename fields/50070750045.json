@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BankOwnedFlag field",
+  "systemName": "BankOwnedFlag_QSFLG_BANK_OWNED_FLAG",
+  "displayName": "LIS_LIS_QSFLG_BANK_OWNED_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070750045,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

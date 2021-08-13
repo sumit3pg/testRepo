@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CopiedFromKeys field",
+  "systemName": "CopiedFromKeys_QSS_COPIED_FROM_I_DS",
+  "displayName": "LIS_LIS_QSS_COPIED_FROM_I_DS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016852907,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

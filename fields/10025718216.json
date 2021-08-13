@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysHistItemNumber field",
+  "systemName": "SysHistItemNumber_ITEM_NUMBER",
+  "displayName": "SYS_UHVW_ITEM_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 10025718216,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

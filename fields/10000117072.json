@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ModelName field",
+  "systemName": "ModelName_STR_MODEL_NAME",
+  "displayName": "LIS_LIS_STR_MODEL_NAME",
+  "shortName": null,
+  "standardName": "BuilderModel",
+  "id": 10000117072,
+  "availableFlag": 1,
+  "dataTypeId": 85046622506,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

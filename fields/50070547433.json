@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuildingPermitFlag field",
+  "systemName": "BuildingPermitFlag_QSFLG_BUILDING_PERMIT_FLAG",
+  "displayName": "LIS_LIS_QSFLG_BUILDING_PERMIT_FL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070547433,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

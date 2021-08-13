@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxBoxNumber field",
+  "systemName": "TaxBoxNumber_ADDR_BOX_NUMBER",
+  "displayName": "PUB_OCAVW_ADDRESS_TYPES_PROPERTY",
+  "shortName": null,
+  "standardName": "TaxBoxNumber",
+  "id": 10000122737,
+  "availableFlag": 1,
+  "dataTypeId": 10000000117,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

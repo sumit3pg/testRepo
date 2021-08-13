@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXCommunityFeeIncludes field",
+  "systemName": "MIREXCommunityFeeIncludes_CommunityFeeIncludes",
+  "displayName": "MIREXCommunityFeeIncludes",
+  "shortName": null,
+  "standardName": "AssociationFeeIncludes",
+  "id": 550016875182,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002104,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

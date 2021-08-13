@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBathsHalf field",
+  "systemName": "BRIGHTBathsHalf_BathroomsHalf",
+  "displayName": "BRIGHTBathsHalf",
+  "shortName": null,
+  "standardName": "BathroomsHalf",
+  "id": 200017264390,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

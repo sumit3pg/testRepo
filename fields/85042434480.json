@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentTimestampLastLoggedIn field",
+  "systemName": "AgentTimestampLastLoggedIn_QSDT_AGENT_LAST_LOGGED_IN_TMS",
+  "displayName": "SYS_PER_QSDT_AGENT_LAST_LOGGED_I",
+  "shortName": null,
+  "standardName": "LastLoginTimestamp",
+  "id": 85042434480,
+  "availableFlag": 1,
+  "dataTypeId": 50000898060,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

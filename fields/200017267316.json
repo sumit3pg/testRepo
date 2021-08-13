@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTruckDoorTotal field",
+  "systemName": "BRIGHTTruckDoorTotal_NumberOfOverheadDoors",
+  "displayName": "BRIGHTTruckDoorTotal",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267316,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

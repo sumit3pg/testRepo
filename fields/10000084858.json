@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleOfficeStreetNumber field",
+  "systemName": "SaleOfficeStreetNumber_ADDR_HOUSE_NUMBER",
+  "displayName": "SYS_SAGOCAVW1_ADDRESS_TYPES_OFFI",
+  "shortName": null,
+  "standardName": "BuyerOfficeStreetNumber",
+  "id": 10000084858,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

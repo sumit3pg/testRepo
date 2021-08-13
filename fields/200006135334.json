@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FarmLandPreservationYN field",
+  "systemName": "FarmLandPreservationYN_QSFLG_FRM_LND_PRESERVATION_Y_N",
+  "displayName": "LIS_LIS_QSFLG_FRM_LND_PRESERVATI",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006135334,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

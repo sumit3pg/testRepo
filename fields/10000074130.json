@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentKey field",
+  "systemName": "AgentKey_PTY_PTY_ID",
+  "displayName": "SYS_PER_PTY_PTY_ID",
+  "shortName": null,
+  "standardName": "MemberKey",
+  "id": 10000074130,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

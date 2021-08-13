@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentStateLicenseNumber field",
+  "systemName": "AltAgentStateLicenseNumber_QSS_LT_GNT_STTE_LICENSE_NUMBER",
+  "displayName": "LIS_LIS_QSS_LT_GNT_STTE_LICENSE_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200012804597,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

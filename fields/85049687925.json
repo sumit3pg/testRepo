@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentOfficePhoneExtNum field",
+  "systemName": "SaleAgentOfficePhoneExtNum_CM_PHONE_EXTENSION_NUM",
+  "displayName": "SYS_SAGPCPVW1_PHONE_TYPES_OFFICE",
+  "shortName": null,
+  "standardName": "BuyerAgentOfficePhoneExt",
+  "id": 85049687925,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

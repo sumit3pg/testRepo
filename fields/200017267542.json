@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTParkManagerName field",
+  "systemName": "BRIGHTParkManagerName_ParkManagerName",
+  "displayName": "BRIGHTParkManagerName",
+  "shortName": null,
+  "standardName": "ParkManagerName",
+  "id": 200017267542,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

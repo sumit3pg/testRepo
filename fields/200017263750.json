@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSysMediaDisplayOrder field",
+  "systemName": "BRIGHTSysMediaDisplayOrder_DISPLAY_ORDER",
+  "displayName": "BRIGHTSysMediaDisplayOrder",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263750,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

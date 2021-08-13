@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoRoomExistsFlag field",
+  "systemName": "LoRoomExistsFlag_EXISTS_FLAG",
+  "displayName": "LIS_LOROOM_EXISTS_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 100000066564,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

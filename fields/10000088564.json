@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a StreetDirPrefix field",
+  "systemName": "StreetDirPrefix_PRE_STDR_ID",
+  "displayName": "SYS_STR_PRE_STDR_ID",
+  "shortName": null,
+  "standardName": "StreetDirPrefix",
+  "id": 10000088564,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069220,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

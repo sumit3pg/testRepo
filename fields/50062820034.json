@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a EnvironmentConditionFlag field",
+  "systemName": "EnvironmentConditionFlag_QSFLG_ENVIRONMENT_COND_FLAG",
+  "displayName": "LIS_LIS_QSFLG_ENVIRONMENT_COND_F",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820034,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

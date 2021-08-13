@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DuplicateSurvivingListingKey field",
+  "systemName": "DuplicateSurvivingListingKey_QSL_DUP_SURVIVING_LIS_ID",
+  "displayName": "LIS_LIS_QSL_DUP_SURVIVING_LIS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005425558,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

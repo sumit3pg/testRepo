@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CopyrightNotice field",
+  "systemName": "CopyrightNotice_MAIN_COPYRIGHT_NOTICE",
+  "displayName": "CopyrightNotice",
+  "shortName": null,
+  "standardName": "CopyrightNotice",
+  "id": 10049076044,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBasementType field",
+  "systemName": "BRIGHTBasementType_Basement",
+  "displayName": "BRIGHTBasementType",
+  "shortName": null,
+  "standardName": "Basement",
+  "id": 200017264360,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001726,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

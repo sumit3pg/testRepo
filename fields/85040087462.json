@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OperatingExpenseIncludes field",
+  "systemName": "OperatingExpenseIncludes_QMO_OPER_EXP_INCLUDES",
+  "displayName": "LIS_LIS_QMO_OPER_EXP_INCLUDES",
+  "shortName": null,
+  "standardName": "OperatingExpenseIncludes",
+  "id": 85040087462,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85040087489,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

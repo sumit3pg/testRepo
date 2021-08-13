@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListAgentPrimaryAssociationLkp field",
+  "systemName": "BRIGHTListAgentPrimaryAssociationLkp_ListAgentAOR",
+  "displayName": "BRIGHTListAgentPrimaryAssociationLkp",
+  "shortName": null,
+  "standardName": "ListAgentAOR",
+  "id": 200017266377,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004730358,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

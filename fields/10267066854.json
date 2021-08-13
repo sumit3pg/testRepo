@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ProfessionalRelationshipList field",
+  "systemName": "ProfessionalRelationshipList_QMEO_PROFREL",
+  "displayName": "LIS_LIS_QMEO_PROFREL",
+  "shortName": null,
+  "standardName": null,
+  "id": 10267066854,
+  "availableFlag": 1,
+  "dataTypeId": 10267066748,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001061,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OwnerName field",
+  "systemName": "OwnerName_PTY_NAME",
+  "displayName": "LIS_OWNPER1_PTY_NAME",
+  "shortName": null,
+  "standardName": "OwnerName",
+  "id": 10000116539,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

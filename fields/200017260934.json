@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSyndicateAgentOption field",
+  "systemName": "BRIGHTSyndicateAgentOption_SyndicateAgentOption",
+  "displayName": "BRIGHTSyndicateAgentOption",
+  "shortName": null,
+  "standardName": "SyndicateAgentOption",
+  "id": 200017260934,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200003242130,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

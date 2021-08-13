@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXVirtualTourFileName2 field",
+  "systemName": "MIREXVirtualTourFileName2_VirtualTourURL2",
+  "displayName": "MIREXVirtualTourFileName2",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016880950,
+  "availableFlag": 1,
+  "dataTypeId": 10000000129,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropertyManagerYN field",
+  "systemName": "CWAPropertyManagerYN_QSFLG_PROPERTY_MANAGER_Y_N",
+  "displayName": "CWA_LIS_QSFLG_PROPERTY_MANAGER_Y_N",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006694586,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

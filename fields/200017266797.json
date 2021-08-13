@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLotSizeSqFt field",
+  "systemName": "BRIGHTLotSizeSqFt_LotSizeSquareFeet",
+  "displayName": "BRIGHTLotSizeSqFt",
+  "shortName": null,
+  "standardName": "LotSizeSquareFeet",
+  "id": 200017266797,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

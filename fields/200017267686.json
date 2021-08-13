@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPossession field",
+  "systemName": "BRIGHTPossession_Possession",
+  "displayName": "BRIGHTPossession",
+  "shortName": null,
+  "standardName": "Possession",
+  "id": 200017267686,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002417,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

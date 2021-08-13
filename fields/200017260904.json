@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeLinkedin field",
+  "systemName": "BRIGHTOfficeLinkedin_SocialMediaLinkedInUrlOrId",
+  "displayName": "BRIGHTOfficeLinkedin",
+  "shortName": null,
+  "standardName": "SocialMediaLinkedInUrlOrId",
+  "id": 200017260904,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

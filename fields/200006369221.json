@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoSubdivisionRelatedSubdivisionKey field",
+  "systemName": "LoSubdivisionRelatedSubdivisionKey_RELATED_SUBD_ID",
+  "displayName": "LIS_LOSUBD_RELATED_SUBD_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006369221,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

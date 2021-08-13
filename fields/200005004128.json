@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALotSizeSqFt field",
+  "systemName": "CWALotSizeSqFt_QSF_LOT_SIZE_SQ_FT",
+  "displayName": "CWA_LIS_QSF_LOT_SIZE_SQ_FT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004128,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit3LivingRoomLevel field",
+  "systemName": "MIREXUnit3LivingRoomLevel_Unit3LivingRoomLevel",
+  "displayName": "MIREXUnit3LivingRoomLevel",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879930,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

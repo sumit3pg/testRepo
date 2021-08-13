@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeMailingZip4 field",
+  "systemName": "WIREXOfficeMailingZip4_OfficeMailingZip4",
+  "displayName": "WIREXOfficeMailingZip4",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693028,
+  "availableFlag": 1,
+  "dataTypeId": 10000000170,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

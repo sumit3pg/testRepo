@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACity field",
+  "systemName": "CWACity_CTY_ID",
+  "displayName": "CWA_ADDR_ADDRESS_TYPES_PROPERTY_CTY_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101617,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

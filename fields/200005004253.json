@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAVariableRateComp field",
+  "systemName": "CWAVariableRateComp_MAIN_VAR_RATE_COMP_FLAG",
+  "displayName": "CWA_LIS_MAIN_VAR_RATE_COMP_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004253,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

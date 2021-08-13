@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UpperFloor1LaundryRoom field",
+  "systemName": "UpperFloor1LaundryRoom_QSFLG_HAS_LAUNDRY_ROOM",
+  "displayName": "LIS_STORY_STORY_TYPES_UPPER_1_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038771835,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LPOKey field",
+  "systemName": "LPOKey_LPO_ID",
+  "displayName": "CFG_LPO_LPO_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004744587,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

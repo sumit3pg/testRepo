@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSaleAgentEmail field",
+  "systemName": "MIREXSaleAgentEmail_AgentEmail",
+  "displayName": "MIREXSaleAgentEmail",
+  "shortName": null,
+  "standardName": "BuyerAgentEmail",
+  "id": 550016878068,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

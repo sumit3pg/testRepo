@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXElementarySchool field",
+  "systemName": "MIREXElementarySchool_ElementarySchool",
+  "displayName": "MIREXElementarySchool",
+  "shortName": null,
+  "standardName": "ElementarySchool",
+  "id": 550016875520,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXDaysOnMarket field",
+  "systemName": "MIREXDaysOnMarket_DaysOnMarket",
+  "displayName": "MIREXDaysOnMarket",
+  "shortName": null,
+  "standardName": "DaysOnMarket",
+  "id": 550016875386,
+  "availableFlag": 1,
+  "dataTypeId": 200004272321,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

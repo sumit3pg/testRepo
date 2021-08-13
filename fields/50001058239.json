@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BasicDaysOnMarket field",
+  "systemName": "BasicDaysOnMarket_FC_BASIC_DOM_LISTING",
+  "displayName": "LIS_LIS_FC_BASIC_DOM_LISTING",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001058239,
+  "availableFlag": 1,
+  "dataTypeId": 200004272321,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

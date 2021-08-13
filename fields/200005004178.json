@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleAgentOfficeKey field",
+  "systemName": "CWASaleAgentOfficeKey_PARENT_PTY_ID",
+  "displayName": "SYS_CWSAGPR1_PARENT_PTY_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004178,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

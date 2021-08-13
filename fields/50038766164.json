@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit4Baths field",
+  "systemName": "Unit4Baths_BATHS_FULL",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_4_B",
+  "shortName": null,
+  "standardName": "UnitType4BathsTotal",
+  "id": 50038766164,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

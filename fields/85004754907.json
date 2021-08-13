@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LPOIDateValue field",
+  "systemName": "LPOIDateValue_DATE_VALUE",
+  "displayName": "CFG_LPOI_DATE_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004754907,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

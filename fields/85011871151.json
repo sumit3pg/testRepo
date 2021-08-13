@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a YearBuiltDetails field",
+  "systemName": "YearBuiltDetails_QSS_YEAR_BUILT_DETAILS",
+  "displayName": "LIS_LIS_QSS_YEAR_BUILT_DETAILS",
+  "shortName": null,
+  "standardName": "YearBuiltDetails",
+  "id": 85011871151,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

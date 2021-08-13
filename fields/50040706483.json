@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CreditReportPaidBy field",
+  "systemName": "CreditReportPaidBy_QMO_CREDIT_REPORT_PAID_BY",
+  "displayName": "LIS_LIS_QMO_CREDIT_REPORT_PAID_B",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040706483,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670898,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

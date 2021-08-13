@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListingAreaMinor field",
+  "systemName": "CWAListingAreaMinor_QSO_LISTING_AREA_MINOR",
+  "displayName": "CWA_LIS_QSO_LISTING_AREA_MINOR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003853,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872896,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

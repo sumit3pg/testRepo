@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RecRm1AreaUnits field",
+  "systemName": "RecRm1AreaUnits_QSO_AREA_TOTAL_UNITS",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_RECREATN",
+  "shortName": null,
+  "standardName": "RoomRecRm1AreaUnits",
+  "id": 85011883878,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

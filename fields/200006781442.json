@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1DiningAreaWidth field",
+  "systemName": "Unit1DiningAreaWidth_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_1_D",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006781442,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

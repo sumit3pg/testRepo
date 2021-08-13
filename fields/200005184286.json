@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchoolDistrictModificationTimestamp field",
+  "systemName": "SchoolDistrictModificationTimestamp_MODIFIED_TMS",
+  "displayName": "SYS_SCHDUI_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005184286,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

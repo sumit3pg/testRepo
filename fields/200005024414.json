@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaDescription field",
+  "systemName": "CWAPropMediaDescription_MED_DESCRIPTION",
+  "displayName": "CWA_MEDVW_MED_DESCRIPTION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024414,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

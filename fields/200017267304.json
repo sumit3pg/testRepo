@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTNumberOfCommunitySlips field",
+  "systemName": "BRIGHTNumberOfCommunitySlips_NumberOfCommunitySlips",
+  "displayName": "BRIGHTNumberOfCommunitySlips",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267304,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

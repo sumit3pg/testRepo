@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DockTypeAndFeatures field",
+  "systemName": "DockTypeAndFeatures_QMO_DOCK_TYPE_AND_FEATURES",
+  "displayName": "LIS_LIS_QMO_DOCK_TYPE_AND_FEATUR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006033273,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001403,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

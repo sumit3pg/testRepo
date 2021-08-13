@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a InfoSourceFinishedBelowGrade field",
+  "systemName": "InfoSourceFinishedBelowGrade_QSO_INFO_SRC_FIN_BELOW_GRD",
+  "displayName": "LIS_LIS_QSO_INFO_SRC_FIN_BELOW_G",
+  "shortName": null,
+  "standardName": "BelowGradeFinishedAreaSource",
+  "id": 200003240311,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040227010,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

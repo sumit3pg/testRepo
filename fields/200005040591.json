@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLSumModifiedTms field",
+  "systemName": "BRIGHTLSumModifiedTms_UI_MODIFIED_TMS",
+  "displayName": "CWA_BLSUVW_UI_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005040591,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

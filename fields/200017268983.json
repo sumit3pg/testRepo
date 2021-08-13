@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTWaterUseTypes field",
+  "systemName": "BRIGHTWaterUseTypes_WaterAccessFeatures",
+  "displayName": "BRIGHTWaterUseTypes",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268983,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85033301852,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

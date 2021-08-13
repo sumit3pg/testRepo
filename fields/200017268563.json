@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTotalDriveInDoors field",
+  "systemName": "BRIGHTTotalDriveInDoors_TotalDriveInDoors",
+  "displayName": "BRIGHTTotalDriveInDoors",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268563,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

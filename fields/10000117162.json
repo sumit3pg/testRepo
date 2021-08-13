@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Water field",
+  "systemName": "Water_QMO_WATER",
+  "displayName": "LIS_LIS_QMO_WATER",
+  "shortName": null,
+  "standardName": "WaterSource",
+  "id": 10000117162,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002839,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

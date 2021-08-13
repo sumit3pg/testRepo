@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ConstructionCompletedFlag field",
+  "systemName": "ConstructionCompletedFlag_QSFLG_CONSTRUCTION_COMPLETED",
+  "displayName": "LIS_LIS_QSFLG_CONSTRUCTION_COMPL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766044,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

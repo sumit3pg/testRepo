@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHorseYN field",
+  "systemName": "BRIGHTHorseYN_HorseYN",
+  "displayName": "BRIGHTHorseYN",
+  "shortName": null,
+  "standardName": "HorseYN",
+  "id": 200017266075,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

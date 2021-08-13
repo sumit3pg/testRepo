@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaURLMedium field",
+  "systemName": "BRIGHTPropMediaURLMedium_FC_URL_MEDIUM",
+  "displayName": "BRIGHTPropMediaURLMedium",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017269644,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

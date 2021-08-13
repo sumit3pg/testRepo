@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAExpirationDate field",
+  "systemName": "CWAExpirationDate_MAIN_EXPIRATION_DATE",
+  "displayName": "CWA_LIS_MAIN_EXPIRATION_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003715,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

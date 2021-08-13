@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FinancialInformationReportDateDescription field",
+  "systemName": "FinancialInformationReportDateDescription_QSS_FIN_INFO_REPRT_DATE_DESC",
+  "displayName": "LIS_LIS_QSS_FIN_INFO_REPRT_DATE_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070547429,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

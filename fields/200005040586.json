@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLSumTotalTours field",
+  "systemName": "BRIGHTLSumTotalTours_TOTAL_VIRTUAL_TOURS",
+  "displayName": "CWA_BLSUVW_TOTAL_VIRTUAL_TOURS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005040586,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

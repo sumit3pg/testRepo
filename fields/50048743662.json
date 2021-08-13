@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BedroomMaster1Area field",
+  "systemName": "BedroomMaster1Area_AREA_TOTAL",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BEDROOM_",
+  "shortName": null,
+  "standardName": "RoomBedroomMaster1Area",
+  "id": 50048743662,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

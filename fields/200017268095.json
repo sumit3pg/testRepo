@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTShowDays field",
+  "systemName": "BRIGHTShowDays_ShowingDays",
+  "displayName": "BRIGHTShowDays",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268095,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002648,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

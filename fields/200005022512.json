@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoRoomLength field",
+  "systemName": "CWALoRoomLength_LENGTH",
+  "displayName": "CWA_LOROOM_LENGTH",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005022512,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

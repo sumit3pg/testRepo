@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATotalPhotos field",
+  "systemName": "CWATotalPhotos_FC_PHOTO_COUNT",
+  "displayName": "CWA_LIS_FC_PHOTO_COUNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004346,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

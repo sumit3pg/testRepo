@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UpperFloor3HalfBaths field",
+  "systemName": "UpperFloor3HalfBaths_BATHS_HALF",
+  "displayName": "LIS_STORY_STORY_TYPES_UPPER_3_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000100567,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

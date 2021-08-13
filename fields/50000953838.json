@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentAccessType field",
+  "systemName": "AgentAccessType_QSO_ACCESS_TYPE",
+  "displayName": "SYS_PER_QSO_ACCESS_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000953838,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000953734,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

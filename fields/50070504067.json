@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DistanceToSchools field",
+  "systemName": "DistanceToSchools_QSS_DISTANCE_TO_SCHOOLS",
+  "displayName": "LIS_LIS_QSS_DISTANCE_TO_SCHOOLS",
+  "shortName": null,
+  "standardName": "DistanceToSchools",
+  "id": 50070504067,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

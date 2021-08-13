@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListAgentSourceAgentID field",
+  "systemName": "MIREXListAgentSourceAgentID_AgentLicenseID",
+  "displayName": "MIREXListAgentSourceAgentID",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016876848,
+  "availableFlag": 1,
+  "dataTypeId": 85046622506,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

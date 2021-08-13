@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListingPrimaryAssociationLkp field",
+  "systemName": "BRIGHTListingPrimaryAssociationLkp_ListAOR",
+  "displayName": "BRIGHTListingPrimaryAssociationLkp",
+  "shortName": null,
+  "standardName": "ListAOR",
+  "id": 200017266371,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011872930,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

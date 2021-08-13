@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAttachedGarageFlag field",
+  "systemName": "CWAAttachedGarageFlag_QSFLG_ATTACHED_GARAGE_FLAG",
+  "displayName": "CWA_LIS_QSFLG_ATTACHED_GARAGE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003996,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

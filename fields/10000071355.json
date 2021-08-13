@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeValidationStatus field",
+  "systemName": "OfficeValidationStatus_ADDR_VS_ID",
+  "displayName": "SYS_OCAVW_ADDRESS_TYPES_OFFICE_1",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000071355,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000069214,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

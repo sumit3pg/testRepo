@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentNumViolations field",
+  "systemName": "BRIGHTAgentNumViolations_MemberNumViolations",
+  "displayName": "BRIGHTAgentNumViolations",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263333,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

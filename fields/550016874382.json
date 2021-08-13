@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUpperFloor2HalfBaths field",
+  "systemName": "MIREXUpperFloor2HalfBaths_BathsHalfLevel3",
+  "displayName": "MIREXUpperFloor2HalfBaths",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016874382,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

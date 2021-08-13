@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentSourceModificationTimestamp field",
+  "systemName": "WIREXAgentSourceModificationTimestamp_AgentSourceModificationTimestamp",
+  "displayName": "WIREXAgentSourceModificationTimestamp",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016720714,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

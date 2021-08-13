@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTContingentDate field",
+  "systemName": "BRIGHTContingentDate_ContingentDate",
+  "displayName": "BRIGHTContingentDate",
+  "shortName": null,
+  "standardName": "ContingentDate",
+  "id": 200017265319,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

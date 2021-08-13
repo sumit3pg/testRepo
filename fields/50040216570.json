@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentPreferredPhone field",
+  "systemName": "SaleAgentPreferredPhone_CM_PHONE_NUMBER",
+  "displayName": "SYS_SAGPCPVW1_PHONE_TYPES_PREFER",
+  "shortName": null,
+  "standardName": "BuyerAgentPreferredPhone",
+  "id": 50040216570,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

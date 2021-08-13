@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAInternetServices field",
+  "systemName": "CWAInternetServices_QMO_INTERNET_SERVICES",
+  "displayName": "CWA_LIS_QMO_INTERNET_SERVICES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200016890194,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200016889536,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

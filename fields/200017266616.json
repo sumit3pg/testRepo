@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListingContractDate field",
+  "systemName": "BRIGHTListingContractDate_ListingContractDate",
+  "displayName": "BRIGHTListingContractDate",
+  "shortName": null,
+  "standardName": "ListingContractDate",
+  "id": 200017266616,
+  "availableFlag": 1,
+  "dataTypeId": 10000000120,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTVacancyFactor field",
+  "systemName": "BRIGHTVacancyFactor_VacancyAllowanceRate",
+  "displayName": "BRIGHTVacancyFactor",
+  "shortName": null,
+  "standardName": "VacancyAllowanceRate",
+  "id": 200017268935,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

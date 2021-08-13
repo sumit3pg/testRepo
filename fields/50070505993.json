@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeSubscriptions field",
+  "systemName": "OfficeSubscriptions_QMO_OFFICE_SUBSCRIPTIONS",
+  "displayName": "SYS_ORG_QMO_OFFICE_SUBSCRIPTIONS",
+  "shortName": null,
+  "standardName": "SyndicateTo",
+  "id": 50070505993,
+  "availableFlag": 1,
+  "dataTypeId": 10000070531,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070505926,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

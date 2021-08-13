@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAssociationRecreationFee field",
+  "systemName": "CWAAssociationRecreationFee_QSF_ASSOCIATION_RECREATION_FEE",
+  "displayName": "CWA_LIS_QSF_ASSOCIATION_RECREATION_FEE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006135588,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

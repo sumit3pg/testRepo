@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentPreferredLastName field",
+  "systemName": "BRIGHTAgentPreferredLastName_MemberPreferredLastName",
+  "displayName": "BRIGHTAgentPreferredLastName",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017263375,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

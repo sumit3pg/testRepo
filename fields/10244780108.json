@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMimeType field",
+  "systemName": "PropMimeType_MED_MT_ID",
+  "displayName": "LIS_MEDVW_MED_MT_ID",
+  "shortName": null,
+  "standardName": "MediaType",
+  "id": 10244780108,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000069204,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

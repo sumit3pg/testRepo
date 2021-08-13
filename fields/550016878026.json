@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXRoads field",
+  "systemName": "MIREXRoads_Roads",
+  "displayName": "MIREXRoads",
+  "shortName": null,
+  "standardName": "RoadSurfaceType",
+  "id": 550016878026,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002563,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

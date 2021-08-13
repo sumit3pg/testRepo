@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LPOIItemNumber field",
+  "systemName": "LPOIItemNumber_ITEM_NUMBER",
+  "displayName": "CFG_LPOI_ITEM_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004754903,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

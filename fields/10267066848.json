@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListingSubscriptionClassList field",
+  "systemName": "ListingSubscriptionClassList_QMEO_LSUBSCVW",
+  "displayName": "LIS_LIS_QMEO_LSUBSCVW",
+  "shortName": null,
+  "standardName": "SyndicateTo",
+  "id": 10267066848,
+  "availableFlag": 1,
+  "dataTypeId": 10267066744,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10025709817,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

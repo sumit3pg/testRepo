@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUpperFloor1TotalBaths field",
+  "systemName": "CWAUpperFloor1TotalBaths_BATHS_TOTAL",
+  "displayName": "CWA_STORY_STORY_TYPES_UPPER_1_1_BATHS_TOTAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101631,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

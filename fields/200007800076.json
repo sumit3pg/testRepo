@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABuildingClassification field",
+  "systemName": "CWABuildingClassification_QSO_BUILDING_CLASSIFICATION",
+  "displayName": "CWA_LIS_QSO_BUILDING_CLASSIFICATION",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007800076,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200007797258,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

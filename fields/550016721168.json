@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficePager field",
+  "systemName": "WIREXOfficePager_OfficePager",
+  "displayName": "WIREXOfficePager",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016721168,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASubAgentCompensationSelection field",
+  "systemName": "CWASubAgentCompensationSelection_QSO_SELECTION",
+  "displayName": "CWA_COMP_COMPENSATION_TYPS_SB_GNT_CMPNSTN_QS_SLCTN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005146580,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200005120303,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

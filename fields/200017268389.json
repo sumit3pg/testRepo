@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTotalTaxes field",
+  "systemName": "BRIGHTTotalTaxes_TaxAnnualAmount",
+  "displayName": "BRIGHTTotalTaxes",
+  "shortName": null,
+  "standardName": "TaxAnnualAmount",
+  "id": 200017268389,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

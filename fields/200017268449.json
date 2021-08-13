@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTaxNationalHistoricalDesignationURL field",
+  "systemName": "BRIGHTTaxNationalHistoricalDesignationURL_TaxNationalHistoricalDesignationURL",
+  "displayName": "BRIGHTTaxNationalHistoricalDesignationURL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268449,
+  "availableFlag": 1,
+  "dataTypeId": 10310052282,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

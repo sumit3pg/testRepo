@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UtilitiesAvailableFlag field",
+  "systemName": "UtilitiesAvailableFlag_QSFLG_UTILITIES_AVAILABLE",
+  "displayName": "LIS_LIS_QSFLG_UTILITIES_AVAILABL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766041,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

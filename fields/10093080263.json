@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxID field",
+  "systemName": "TaxID_TAX_RECORD_ID",
+  "displayName": "PUB_PUB_TAX_RECORD_ID",
+  "shortName": null,
+  "standardName": "TaxID",
+  "id": 10093080263,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

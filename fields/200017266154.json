@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTIDXListing field",
+  "systemName": "BRIGHTIDXListing_InternetEntireListingDisplayYN",
+  "displayName": "BRIGHTIDXListing",
+  "shortName": null,
+  "standardName": "InternetEntireListingDisplayYN",
+  "id": 200017266154,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

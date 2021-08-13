@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenLocation field",
+  "systemName": "GreenLocation_QMO_GREEN_LOCATION",
+  "displayName": "LIS_LIS_QMO_GREEN_LOCATION",
+  "shortName": null,
+  "standardName": "GreenLocation",
+  "id": 85004734653,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734654,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

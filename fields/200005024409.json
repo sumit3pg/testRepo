@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaVendorName field",
+  "systemName": "CWAPropMediaVendorName_PTY_NAME",
+  "displayName": "SYS_CWMEDV_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024409,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

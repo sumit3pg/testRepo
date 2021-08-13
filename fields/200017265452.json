@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDevelopmentStatus field",
+  "systemName": "BRIGHTDevelopmentStatus_DevelopmentStatus",
+  "displayName": "BRIGHTDevelopmentStatus",
+  "shortName": null,
+  "standardName": "DevelopmentStatus",
+  "id": 200017265452,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001870,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

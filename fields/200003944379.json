@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a NumberOfCommunityDocks field",
+  "systemName": "NumberOfCommunityDocks_QSL_NUM_COMM_DOCKS",
+  "displayName": "LIS_LIS_QSL_NUM_COMM_DOCKS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003944379,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

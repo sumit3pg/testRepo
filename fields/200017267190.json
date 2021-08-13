@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropertyNetOperatingIncome field",
+  "systemName": "BRIGHTPropertyNetOperatingIncome_NetOperatingIncome",
+  "displayName": "BRIGHTPropertyNetOperatingIncome",
+  "shortName": null,
+  "standardName": "NetOperatingIncome",
+  "id": 200017267190,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

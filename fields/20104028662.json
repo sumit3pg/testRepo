@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MinAcres field",
+  "systemName": "MinAcres_QSF_MIN_ACRES",
+  "displayName": "LIS_LIS_QSF_MIN_ACRES",
+  "shortName": null,
+  "standardName": null,
+  "id": 20104028662,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

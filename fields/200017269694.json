@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaFileName field",
+  "systemName": "BRIGHTPropMediaFileName_FILE_NAME",
+  "displayName": "BRIGHTPropMediaFileName",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017269694,
+  "availableFlag": 1,
+  "dataTypeId": 10000000129,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

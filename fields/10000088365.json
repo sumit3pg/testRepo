@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentFirstName field",
+  "systemName": "SaleAgentFirstName_PTY_FIRST_NAME",
+  "displayName": "SYS_SAGPER1_PTY_FIRST_NAME",
+  "shortName": null,
+  "standardName": "BuyerAgentFirstName",
+  "id": 10000088365,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

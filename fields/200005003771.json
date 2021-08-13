@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAuctionEndDate field",
+  "systemName": "CWAAuctionEndDate_QSDT_AUCTN_END_DATE",
+  "displayName": "CWA_LIS_QSDT_AUCTN_END_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003771,
+  "availableFlag": 1,
+  "dataTypeId": 200004437388,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

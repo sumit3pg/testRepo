@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleOfficeEmail field",
+  "systemName": "BRIGHTSaleOfficeEmail_OfficeEmail",
+  "displayName": "BRIGHTSaleOfficeEmail",
+  "shortName": null,
+  "standardName": "BuyerOfficeEmail",
+  "id": 200017264731,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

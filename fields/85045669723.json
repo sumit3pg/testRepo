@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a NonMemberSaleOfficeID field",
+  "systemName": "NonMemberSaleOfficeID_QSS_NM_SALE_OFFICE_ID",
+  "displayName": "LIS_LIS_QSS_NM_SALE_OFFICE_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 85045669723,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

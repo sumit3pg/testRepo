@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAltAgentOfficeKey field",
+  "systemName": "MIREXAltAgentOfficeKey_CoListAgentOfficeKey",
+  "displayName": "MIREXAltAgentOfficeKey",
+  "shortName": null,
+  "standardName": "CoListOfficeKey",
+  "id": 550016874870,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

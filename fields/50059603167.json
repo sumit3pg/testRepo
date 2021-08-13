@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IndustrialSqFt field",
+  "systemName": "IndustrialSqFt_AREA_TOTAL",
+  "displayName": "LIS_SI_SIZE_TYPES_INDUSTRIAL_1_A",
+  "shortName": null,
+  "standardName": null,
+  "id": 50059603167,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleIncludes field",
+  "systemName": "SaleIncludes_QMO_SALE_INCLUDES",
+  "displayName": "LIS_LIS_QMO_SALE_INCLUDES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911840,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897989,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

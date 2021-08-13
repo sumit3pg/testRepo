@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CommunityAmenities field",
+  "systemName": "CommunityAmenities_QMO_HOA_CONDO_COOP_COMMUNITY_A",
+  "displayName": "LIS_LIS_QMO_HOA_CONDO_COOP_COMMU",
+  "shortName": null,
+  "standardName": "AssociationAmenities",
+  "id": 10000117112,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002061,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

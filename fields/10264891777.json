@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalPhotos field",
+  "systemName": "TotalPhotos_FC_PHOTO_COUNT",
+  "displayName": "TotalPhotos",
+  "shortName": null,
+  "standardName": "PhotosCount",
+  "id": 10264891777,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

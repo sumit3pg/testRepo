@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DomPropertyActiveFlag field",
+  "systemName": "DomPropertyActiveFlag_ACTIVE_FLAG",
+  "displayName": "LIS_LT_ACTIVE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 10292151324,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAgentWWW field",
+  "systemName": "MIREXAgentWWW_AgentWWW",
+  "displayName": "MIREXAgentWWW",
+  "shortName": null,
+  "standardName": "SocialMediaWebsiteUrlOrId",
+  "id": 550016711320,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

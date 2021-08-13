@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATotalRestrooms field",
+  "systemName": "CWATotalRestrooms_QSL_TOTAL_RESTROOMS",
+  "displayName": "CWA_LIS_QSL_TOTAL_RESTROOMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003959,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

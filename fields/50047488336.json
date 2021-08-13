@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PoolFeatures field",
+  "systemName": "PoolFeatures_QMO_POOL_FEATURES",
+  "displayName": "LIS_LIS_QMO_POOL_FEATURES",
+  "shortName": null,
+  "standardName": "PoolFeatures",
+  "id": 50047488336,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50047488331,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

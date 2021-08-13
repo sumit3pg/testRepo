@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Tenancy field",
+  "systemName": "Tenancy_QMO_TENANCY",
+  "displayName": "LIS_LIS_QMO_TENANCY",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117153,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002745,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

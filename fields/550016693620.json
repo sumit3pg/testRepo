@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXSysPrRoleKey field",
+  "systemName": "WIREXSysPrRoleKey_ROLE_PTY_ID",
+  "displayName": "WIREXSysPrRoleKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693620,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

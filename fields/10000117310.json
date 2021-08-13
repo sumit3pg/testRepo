@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotAreaAcre field",
+  "systemName": "LotAreaAcre_LOT_ACREAGE",
+  "displayName": "LIS_LIS_LOT_ACREAGE",
+  "shortName": null,
+  "standardName": "LotSizeAcres",
+  "id": 10000117310,
+  "availableFlag": 1,
+  "dataTypeId": 10000000137,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaListingServiceName field",
+  "systemName": "PropMediaListingServiceName_QSS_LISTING_SERVICE_NAME",
+  "displayName": "LIS_MEDVW_QSS_LISTING_SERVICE_NA",
+  "shortName": null,
+  "standardName": null,
+  "id": 85046978035,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

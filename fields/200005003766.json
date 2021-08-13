@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAProbateFlag field",
+  "systemName": "CWAProbateFlag_QSFLG_PROBATE_FLAG",
+  "displayName": "CWA_LIS_QSFLG_PROBATE_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003766,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

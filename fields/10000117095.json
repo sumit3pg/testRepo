@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CommIndustrialMisc field",
+  "systemName": "CommIndustrialMisc_QMO_COM_IND_MISC",
+  "displayName": "LIS_LIS_QMO_COM_IND_MISC",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117095,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001748,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

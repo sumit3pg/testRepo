@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PpdVisibleToUiFlag field",
+  "systemName": "PpdVisibleToUiFlag_VISIBLE_TO_UI_FLAG",
+  "displayName": "SYS_PPD_VISIBLE_TO_UI_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005009944,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

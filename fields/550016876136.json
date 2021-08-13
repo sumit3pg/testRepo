@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXIncomeProjection field",
+  "systemName": "MIREXIncomeProjection_IncomeProjection",
+  "displayName": "MIREXIncomeProjection",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016876136,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200003240314,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

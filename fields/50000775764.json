@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MarshAcres field",
+  "systemName": "MarshAcres_QSF_MARSH_ACRES",
+  "displayName": "LIS_LIS_QSF_MARSH_ACRES",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000775764,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

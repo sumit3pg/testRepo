@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeBrokerOfRecordID field",
+  "systemName": "OfficeBrokerOfRecordID_PR_ROLE_IDENTIFIER",
+  "displayName": "SYS_BORPRVW_PR_ROLE_IDENTIFIER",
+  "shortName": null,
+  "standardName": "OfficeBrokerMlsId",
+  "id": 85004020476,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

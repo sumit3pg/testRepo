@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXOfficeEmail field",
+  "systemName": "MIREXOfficeEmail_OfficeEmail",
+  "displayName": "MIREXOfficeEmail",
+  "shortName": null,
+  "standardName": "OfficeEmail",
+  "id": 550016673374,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

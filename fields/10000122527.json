@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxStreetName field",
+  "systemName": "TaxStreetName_ADDR_DN_STR_NAME",
+  "displayName": "PUB_OCAVW_ADDRESS_TYPES_PROPERTY",
+  "shortName": null,
+  "standardName": "TaxStreetName",
+  "id": 10000122527,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

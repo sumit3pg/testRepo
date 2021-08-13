@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTMobileLength field",
+  "systemName": "BRIGHTMobileLength_MobileLength",
+  "displayName": "BRIGHTMobileLength",
+  "shortName": null,
+  "standardName": "MobileLength",
+  "id": 200017267115,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

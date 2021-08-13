@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Foyer1Width field",
+  "systemName": "Foyer1Width_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_FOYER_1_",
+  "shortName": null,
+  "standardName": "RoomFoyer1Width",
+  "id": 10000098032,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

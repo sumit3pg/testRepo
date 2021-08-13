@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLowerFloor6Baths field",
+  "systemName": "BRIGHTLowerFloor6Baths_LowerLevel6FullBaths",
+  "displayName": "BRIGHTLowerFloor6Baths",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266935,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

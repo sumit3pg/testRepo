@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltOfficeState field",
+  "systemName": "AltOfficeState_ADDR_SOP_ID",
+  "displayName": "SYS_LAGOCAVW2_ADDRESS_TYPES_OFFI",
+  "shortName": null,
+  "standardName": null,
+  "id": 10162043657,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002983,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

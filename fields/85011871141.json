@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit9DescriptionStr field",
+  "systemName": "Unit9DescriptionStr_QSS_DESCRIPTION",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_9_Q",
+  "shortName": null,
+  "standardName": "UnitType9Description",
+  "id": 85011871141,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAMinLease field",
+  "systemName": "CWAMinLease_RENT_MIN_LEASE_MONTHS",
+  "displayName": "CWA_LIS_RENT_MIN_LEASE_MONTHS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007720439,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

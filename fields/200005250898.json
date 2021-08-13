@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAccessToPoolFlag field",
+  "systemName": "CWAAccessToPoolFlag_QSFLG_ACCESS_TO_POOL_FLAG",
+  "displayName": "CWA_LIS_QSFLG_ACCESS_TO_POOL_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005250898,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

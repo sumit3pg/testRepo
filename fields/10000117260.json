@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotNumber field",
+  "systemName": "LotNumber_PUB_LOT",
+  "displayName": "LIS_LIS_PUB_LOT",
+  "shortName": null,
+  "standardName": "TaxLot",
+  "id": 10000117260,
+  "availableFlag": 1,
+  "dataTypeId": 10000000143,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AdditionalIncomeSources field",
+  "systemName": "AdditionalIncomeSources_QMO_ADDITIONAL_INCOME_SOURCES",
+  "displayName": "LIS_LIS_QMO_ADDITIONAL_INCOME_SO",
+  "shortName": null,
+  "standardName": "IncomeIncludes",
+  "id": 10000117088,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001627,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

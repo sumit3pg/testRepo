@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXGroundRentExistsFlag field",
+  "systemName": "MIREXGroundRentExistsFlag_BaseLotRent",
+  "displayName": "MIREXGroundRentExistsFlag",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016874200,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeMailingPostalCode field",
+  "systemName": "WIREXOfficeMailingPostalCode_OfficeMailingPostalCode",
+  "displayName": "WIREXOfficeMailingPostalCode",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016692980,
+  "availableFlag": 1,
+  "dataTypeId": 10000000169,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LandLeaseTermInYears field",
+  "systemName": "LandLeaseTermInYears_TERM_IN_YEARS",
+  "displayName": "LIS_FIE_INCOME_EXPENSE_TYPES_LAN",
+  "shortName": null,
+  "standardName": null,
+  "id": 85011872131,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

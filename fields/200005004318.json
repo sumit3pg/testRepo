@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASourceTaxKey field",
+  "systemName": "CWASourceTaxKey_QSL_SOURCE_TAX_KEY",
+  "displayName": "CWA_LIS_QSL_SOURCE_TAX_KEY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004318,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AssociationRecreationFeeYN field",
+  "systemName": "AssociationRecreationFeeYN_QSFLG_SSCTN_RECREATION_FEE_Y_N",
+  "displayName": "LIS_LIS_QSFLG_SSCTN_RECREATION_F",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006135298,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

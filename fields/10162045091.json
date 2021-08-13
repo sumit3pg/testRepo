@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentFirstName field",
+  "systemName": "AltAgentFirstName_PTY_FIRST_NAME",
+  "displayName": "SYS_LAGPER2_PTY_FIRST_NAME",
+  "shortName": null,
+  "standardName": "CoListAgentFirstName",
+  "id": 10162045091,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListingKey field",
+  "systemName": "MIREXListingKey_ListingKey",
+  "displayName": "MIREXListingKey",
+  "shortName": null,
+  "standardName": "ListingKey",
+  "id": 550016877116,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

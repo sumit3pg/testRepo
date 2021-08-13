@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UnparsedAddressStr field",
+  "systemName": "UnparsedAddressStr_QSS_UNPARSED_ADDRESS_STR",
+  "displayName": "LIS_LIS_QSS_UNPARSED_ADDRESS_STR",
+  "shortName": null,
+  "standardName": "UnparsedAddress",
+  "id": 85011871148,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

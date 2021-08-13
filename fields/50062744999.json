@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropRel2EndDate field",
+  "systemName": "PropRel2EndDate_END_DATE",
+  "displayName": "LIS_PRPPR2_END_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062744999,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

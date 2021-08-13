@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitMonthlyRent field",
+  "systemName": "CWAPropUnitMonthlyRent_RENT_AMOUNT",
+  "displayName": "CWA_UUNIT_RENT_AMOUNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077126,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

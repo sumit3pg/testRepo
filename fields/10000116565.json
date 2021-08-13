@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LeaseExpiration field",
+  "systemName": "LeaseExpiration_QSD_LEASE_EXP_DATE_OCCUPANT_1",
+  "displayName": "LIS_OCCPER1_QSD_LEASE_EXP_DATE_O",
+  "shortName": null,
+  "standardName": "LeaseExpiration",
+  "id": 10000116565,
+  "availableFlag": 1,
+  "dataTypeId": 10000081635,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

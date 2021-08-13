@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LSumModifiedTms field",
+  "systemName": "LSumModifiedTms_UI_MODIFIED_TMS",
+  "displayName": "LIS_LSUVW_UI_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 85024001764,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

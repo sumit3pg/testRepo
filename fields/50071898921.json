@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a HoldDate field",
+  "systemName": "HoldDate_QSD_HOLD_DATE",
+  "displayName": "LIS_LIS_QSD_HOLD_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50071898921,
+  "availableFlag": 1,
+  "dataTypeId": 10000081635,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

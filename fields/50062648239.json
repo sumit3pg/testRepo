@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit6LivingRoomWidth field",
+  "systemName": "Unit6LivingRoomWidth_WIDTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_6_L",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062648239,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

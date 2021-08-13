@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotDimDepth field",
+  "systemName": "LotDimDepth_QSL_LOT_DIMENSTIONS_DEPTH",
+  "displayName": "LIS_LIS_QSL_LOT_DIMENSTIONS_DEPT",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117189,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

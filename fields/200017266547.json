@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListOfficeName field",
+  "systemName": "BRIGHTListOfficeName_OfficeTradingAs",
+  "displayName": "BRIGHTListOfficeName",
+  "shortName": null,
+  "standardName": "ListOfficeName",
+  "id": 200017266547,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

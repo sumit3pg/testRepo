@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFarmLandAreaUnits field",
+  "systemName": "BRIGHTFarmLandAreaUnits_FarmLandAreaUnits",
+  "displayName": "BRIGHTFarmLandAreaUnits",
+  "shortName": null,
+  "standardName": "FarmLandAreaUnits",
+  "id": 200017265745,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011871712,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTTableSchemaKey field",
+  "systemName": "BRIGHTTableSchemaKey_LS_ID",
+  "displayName": "BRIGHTTableSchemaKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016841036,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PresentLoans field",
+  "systemName": "PresentLoans_QSF_PRESENT_LOANS",
+  "displayName": "LIS_LIS_QSF_PRESENT_LOANS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504086,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

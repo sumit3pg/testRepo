@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAdvertisingRemarks field",
+  "systemName": "BRIGHTAdvertisingRemarks_SyndicationRemarks",
+  "displayName": "BRIGHTAdvertisingRemarks",
+  "shortName": null,
+  "standardName": "SyndicationRemarks",
+  "id": 200017268377,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

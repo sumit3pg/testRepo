@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AnnualGrossExpense field",
+  "systemName": "AnnualGrossExpense_AMOUNT",
+  "displayName": "LIS_FIE_INCOME_EXPENSE_TYPES_ANN",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911774,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

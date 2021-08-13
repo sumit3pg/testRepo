@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXIDXConsumerCommentYN field",
+  "systemName": "MIREXIDXConsumerCommentYN_InternetConsumerCommentYN",
+  "displayName": "MIREXIDXConsumerCommentYN",
+  "shortName": null,
+  "standardName": "InternetConsumerCommentYN",
+  "id": 550016876184,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

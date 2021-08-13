@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTContractInfo field",
+  "systemName": "BRIGHTContractInfo_ListingTerms",
+  "displayName": "BRIGHTContractInfo",
+  "shortName": null,
+  "standardName": "ListingTerms",
+  "id": 200017266682,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001801,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

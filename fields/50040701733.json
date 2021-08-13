@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisAltAgentDirectPhoneExt field",
+  "systemName": "LisAltAgentDirectPhoneExt_CM_PHONE_EXTENSION",
+  "displayName": "LIS_LAGPCPVW2_PHONE_TYPES_DIRECT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040701733,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

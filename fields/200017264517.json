@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLisBuildingName field",
+  "systemName": "BRIGHTLisBuildingName_BuildingName",
+  "displayName": "BRIGHTLisBuildingName",
+  "shortName": null,
+  "standardName": "BuildingName",
+  "id": 200017264517,
+  "availableFlag": 1,
+  "dataTypeId": 205010451289,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

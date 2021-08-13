@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAThreeBedroomUnits field",
+  "systemName": "CWAThreeBedroomUnits_QSL_N_UNITS_THREE_BEDROOM",
+  "displayName": "CWA_LIS_QSL_N_UNITS_THREE_BEDROOM",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003743,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

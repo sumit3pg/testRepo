@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentReinstatementDate field",
+  "systemName": "AgentReinstatementDate_QSD_REINSTATEMENT_DATE",
+  "displayName": "SYS_PER_QSD_REINSTATEMENT_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000786410,
+  "availableFlag": 1,
+  "dataTypeId": 10000070533,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

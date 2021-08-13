@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTGreenVerificationScore field",
+  "systemName": "BRIGHTGreenVerificationScore_GreenVerificationScore",
+  "displayName": "BRIGHTGreenVerificationScore",
+  "shortName": null,
+  "standardName": "GreenVerificationMetric",
+  "id": 200017271624,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

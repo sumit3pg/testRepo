@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUpperFloorsTotalBedrooms field",
+  "systemName": "BRIGHTUpperFloorsTotalBedrooms_UpperLevelsTotalBedrooms",
+  "displayName": "BRIGHTUpperFloorsTotalBedrooms",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268881,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

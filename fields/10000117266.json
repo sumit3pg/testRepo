@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ZoningCode field",
+  "systemName": "ZoningCode_PUB_ZONING_CODE",
+  "displayName": "LIS_LIS_PUB_ZONING_CODE",
+  "shortName": null,
+  "standardName": "Zoning",
+  "id": 10000117266,
+  "availableFlag": 1,
+  "dataTypeId": 10000000126,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

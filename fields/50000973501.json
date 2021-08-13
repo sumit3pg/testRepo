@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeOfficePhoneDescription field",
+  "systemName": "OfficeOfficePhoneDescription_DSS_DESCRIPTION",
+  "displayName": "SYS_OCPVW_PHONE_TYPES_OFFICE_1_D",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000973501,
+  "availableFlag": 1,
+  "dataTypeId": 10000070527,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LandValuePercent field",
+  "systemName": "LandValuePercent_QSF_LAND_VALUE_PERCENT",
+  "displayName": "LIS_LIS_QSF_LAND_VALUE_PERCENT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504080,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

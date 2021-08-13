@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysPrCurrent field",
+  "systemName": "SysPrCurrent_CURRENT_FLAG",
+  "displayName": "SYS_PR_CURRENT_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000077585,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

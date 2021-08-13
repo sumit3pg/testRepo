@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTStoryList field",
+  "systemName": "BRIGHTStoryList_StoryList",
+  "displayName": "BRIGHTStoryList",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268245,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001137,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

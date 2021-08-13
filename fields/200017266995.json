@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTMainFloorBedrooms field",
+  "systemName": "BRIGHTMainFloorBedrooms_MainLevelBedrooms",
+  "displayName": "BRIGHTMainFloorBedrooms",
+  "shortName": null,
+  "standardName": "MainLevelBedrooms",
+  "id": 200017266995,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

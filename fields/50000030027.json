@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentFullRoleList field",
+  "systemName": "AgentFullRoleList_FC_FULL_ROLE_LIST",
+  "displayName": "AgentFullRoleList",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000030027,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeBrokerOfficeID field",
+  "systemName": "OfficeBrokerOfficeID_PTY_BROFF_IDENTIFIER",
+  "displayName": "SYS_BORPRVW_PTY_BROFF_IDENTIFIER",
+  "shortName": null,
+  "standardName": "MainOfficeMlsId",
+  "id": 200004084355,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

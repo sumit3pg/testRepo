@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListAgentVoiceMail field",
+  "systemName": "CWAListAgentVoiceMail_CM_PHONE_NUMBER",
+  "displayName": "SYS_CWLAGPCPVW1_PHONE_TYPES_VOICE_ML_1_CM_PHN_NMBR",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003864,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

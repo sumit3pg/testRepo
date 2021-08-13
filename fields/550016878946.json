@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSunRoomWidth field",
+  "systemName": "MIREXSunRoomWidth_SunRoomWidth",
+  "displayName": "MIREXSunRoomWidth",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878946,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

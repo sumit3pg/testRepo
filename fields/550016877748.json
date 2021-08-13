@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXOtherRm2Width field",
+  "systemName": "MIREXOtherRm2Width_OtherRm2Width",
+  "displayName": "MIREXOtherRm2Width",
+  "shortName": null,
+  "standardName": "RoomOtherRm2Width",
+  "id": 550016877748,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

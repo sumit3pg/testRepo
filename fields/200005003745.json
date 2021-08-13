@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALISKey field",
+  "systemName": "CWALISKey_LIS_ID",
+  "displayName": "CWA_LIS_LIS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003745,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

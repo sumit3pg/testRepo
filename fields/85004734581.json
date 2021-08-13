@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentAddEditSelfYN field",
+  "systemName": "AgentAddEditSelfYN_QSFLG_AGENT_ADD_EDIT_SELF",
+  "displayName": "SYS_PER_QSFLG_AGENT_ADD_EDIT_SEL",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004734581,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

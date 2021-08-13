@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ClientApplicationEditedFlag field",
+  "systemName": "ClientApplicationEditedFlag_QSFLG_CLI_APPLICATION_EDITED",
+  "displayName": "LIS_LIS_QSFLG_CLI_APPLICATION_ED",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005425560,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

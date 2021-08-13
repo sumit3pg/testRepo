@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABuildings field",
+  "systemName": "CWABuildings_QSL_NUMBER_OF_BUILDINGS",
+  "displayName": "CWA_LIS_QSL_NUMBER_OF_BUILDINGS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004054,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

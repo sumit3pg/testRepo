@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUpperFloor1TotalBaths field",
+  "systemName": "BRIGHTUpperFloor1TotalBaths_UpperLevel1TotalBaths",
+  "displayName": "BRIGHTUpperFloor1TotalBaths",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268749,
+  "availableFlag": 1,
+  "dataTypeId": 10000000138,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

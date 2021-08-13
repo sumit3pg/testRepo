@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisListAgentEmail field",
+  "systemName": "LisListAgentEmail_CM_STRING_TEXT",
+  "displayName": "LIS_LAGPCSVW1_CONTACT_TYPES_EMAI",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040701309,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

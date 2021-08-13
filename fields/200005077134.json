@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropUnitContiguousSpaceFlag field",
+  "systemName": "CWAPropUnitContiguousSpaceFlag_QSFLG_CONTIGUOUS_SPACE",
+  "displayName": "CWA_UUNIT_QSFLG_CONTIGUOUS_SPACE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005077134,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

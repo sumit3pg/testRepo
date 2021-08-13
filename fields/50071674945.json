@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaPixelLength field",
+  "systemName": "PropMediaPixelLength_MED_PIXEL_LENGTH",
+  "displayName": "LIS_MEDVW_MED_PIXEL_LENGTH",
+  "shortName": null,
+  "standardName": "ImageHeight",
+  "id": 50071674945,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BasementType field",
+  "systemName": "BasementType_QMO_BASEMENT_TYPE",
+  "displayName": "LIS_LIS_QMO_BASEMENT_TYPE",
+  "shortName": null,
+  "standardName": "Basement",
+  "id": 10000117092,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001726,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

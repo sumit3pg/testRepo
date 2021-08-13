@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBathsFull field",
+  "systemName": "MIREXBathsFull_BathsFull",
+  "displayName": "MIREXBathsFull",
+  "shortName": null,
+  "standardName": "BathroomsFull",
+  "id": 550016874274,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

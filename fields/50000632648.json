@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CityZipCodeCityName field",
+  "systemName": "CityZipCodeCityName_NAME",
+  "displayName": "SYS_ZCCTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000632648,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

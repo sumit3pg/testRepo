@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit3Bedroom3Length field",
+  "systemName": "MIREXUnit3Bedroom3Length_Unit3Bedroom3Length",
+  "displayName": "MIREXUnit3Bedroom3Length",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879774,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

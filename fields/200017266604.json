@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListingLowPrice field",
+  "systemName": "BRIGHTListingLowPrice_ListPriceLow",
+  "displayName": "BRIGHTListingLowPrice",
+  "shortName": null,
+  "standardName": "ListPriceLow",
+  "id": 200017266604,
+  "availableFlag": 1,
+  "dataTypeId": 10000000146,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

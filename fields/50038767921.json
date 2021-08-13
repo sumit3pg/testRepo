@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1RenewalOption field",
+  "systemName": "Unit1RenewalOption_QSFLG_HAS_RENEWAL_OPTION",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_1_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038767921,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

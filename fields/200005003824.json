@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACondoFlag field",
+  "systemName": "CWACondoFlag_QSFLG_IS_CONDO",
+  "displayName": "CWA_LIS_QSFLG_IS_CONDO",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003824,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

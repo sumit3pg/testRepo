@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXListAgentURL field",
+  "systemName": "MIREXListAgentURL_AgentWWW",
+  "displayName": "MIREXListAgentURL",
+  "shortName": null,
+  "standardName": "ListAgentURL",
+  "id": 550016876880,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

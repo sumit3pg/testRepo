@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALISCheckOutStatusId field",
+  "systemName": "CWALISCheckOutStatusId_CHECK_OUT_STATUS_ID",
+  "displayName": "CWA_LIS_CHECK_OUT_STATUS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005014021,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 85005254536,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

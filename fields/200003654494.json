@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CtyCountyState field",
+  "systemName": "CtyCountyState_SOP_ID",
+  "displayName": "SYS_CCOR_SOP_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003654494,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000002983,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

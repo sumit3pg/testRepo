@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1AnnualBaseRent field",
+  "systemName": "Unit1AnnualBaseRent_QSF_ANNUAL_BASE_RENT",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_1_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038770283,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

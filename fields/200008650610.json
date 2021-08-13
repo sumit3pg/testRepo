@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUpperFloor4Bedrooms field",
+  "systemName": "CWAUpperFloor4Bedrooms_BEDROOMS",
+  "displayName": "CWA_STORY_STORY_TYPES_UPPER_4_1_BEDROOMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008650610,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

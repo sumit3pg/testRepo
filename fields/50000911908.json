@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a InclusionRemarks field",
+  "systemName": "InclusionRemarks_TEXT_INCLUSION_REMARKS",
+  "displayName": "LIS_LIS_TEXT_INCLUSION_REMARKS",
+  "shortName": null,
+  "standardName": "Inclusions",
+  "id": 50000911908,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}
