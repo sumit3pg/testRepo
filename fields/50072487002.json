@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SourceRoomList field",
+  "systemName": "SourceRoomList_QMO_SRC_ROOM_LIST",
+  "displayName": "LIS_LIS_QMO_SRC_ROOM_LIST",
+  "shortName": null,
+  "standardName": null,
+  "id": 50072487002,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50072487003,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

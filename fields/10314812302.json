@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentDesignations field",
+  "systemName": "AgentDesignations_FC_DESIGNATION_LIST",
+  "displayName": "AgentDesignations",
+  "shortName": null,
+  "standardName": null,
+  "id": 10314812302,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

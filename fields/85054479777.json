@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PsubKey field",
+  "systemName": "PsubKey_PS_ID",
+  "displayName": "SYS_PS_PS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 85054479777,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

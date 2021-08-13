@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoSubdivisionModificationTimestamp field",
+  "systemName": "LoSubdivisionModificationTimestamp_MODIFIED_TMS",
+  "displayName": "SYS_SDUI_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005184315,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

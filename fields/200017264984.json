@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAltSaleAgentOfficePhone field",
+  "systemName": "BRIGHTAltSaleAgentOfficePhone_MemberOfficePhone",
+  "displayName": "BRIGHTAltSaleAgentOfficePhone",
+  "shortName": null,
+  "standardName": "CoBuyerAgentOfficePhone",
+  "id": 200017264984,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentLanguages field",
+  "systemName": "AgentLanguages_QMO_LANGUAGES",
+  "displayName": "SYS_PER_QMO_LANGUAGES",
+  "shortName": null,
+  "standardName": "MemberLanguages",
+  "id": 85011979959,
+  "availableFlag": 1,
+  "dataTypeId": 10000070531,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011979942,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

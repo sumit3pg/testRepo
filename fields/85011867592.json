@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AttachedGarageFlag field",
+  "systemName": "AttachedGarageFlag_QSFLG_ATTACHED_GARAGE_FLAG",
+  "displayName": "LIS_LIS_QSFLG_ATTACHED_GARAGE_FL",
+  "shortName": null,
+  "standardName": "AttachedGarageYN",
+  "id": 85011867592,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

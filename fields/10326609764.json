@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchoolName field",
+  "systemName": "SchoolName_NAME",
+  "displayName": "LIS_SCH_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 10326609764,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

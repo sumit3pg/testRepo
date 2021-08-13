@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IncomeExpensesYear field",
+  "systemName": "IncomeExpensesYear_QSL_YEAR_REPORTED",
+  "displayName": "LIS_FI_NCM_XPNS_TYPS_NNL_GRSS_P_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038772149,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

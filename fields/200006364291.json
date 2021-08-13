@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BldgNameName field",
+  "systemName": "BldgNameName_NAME",
+  "displayName": "LIS_BN_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006364291,
+  "availableFlag": 1,
+  "dataTypeId": 205010451289,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

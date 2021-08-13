@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropHistOriginalColumnValue field",
+  "systemName": "CWAPropHistOriginalColumnValue_ORIGINAL_VALUE",
+  "displayName": "CWA_UHVW_ORIGINAL_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005227401,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALongitude field",
+  "systemName": "CWALongitude_LONGITUDE",
+  "displayName": "CWA_ADDR_ADDRESS_TYPES_PROPERTY_LONGITUDE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003856,
+  "availableFlag": 1,
+  "dataTypeId": 10000000144,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

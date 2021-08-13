@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTYearBuiltSource field",
+  "systemName": "BRIGHTYearBuiltSource_YearBuiltSource",
+  "displayName": "BRIGHTYearBuiltSource",
+  "shortName": null,
+  "standardName": "YearBuiltSource",
+  "id": 200017269103,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85040087483,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

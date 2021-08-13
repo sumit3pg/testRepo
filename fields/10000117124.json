@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotDescription field",
+  "systemName": "LotDescription_QMO_LOT_DESCRIPTION",
+  "displayName": "LIS_LIS_QMO_LOT_DESCRIPTION",
+  "shortName": null,
+  "standardName": "LotFeatures",
+  "id": 10000117124,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002292,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

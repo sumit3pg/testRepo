@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SecondMasterBed1LengthWidthSource field",
+  "systemName": "SecondMasterBed1LengthWidthSource_QSO_LEN_WID_MES_SRC",
+  "displayName": "LIS_ROOM_SUB_RM_TYPS_BDRM_MSTR_2",
+  "shortName": null,
+  "standardName": "RoomSecondMasterBed1LengthWidthSource",
+  "id": 85011883921,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640907,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

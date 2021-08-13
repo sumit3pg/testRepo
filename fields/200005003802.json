@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAManagementPhone field",
+  "systemName": "CWAManagementPhone_CM_PHONE_NUMBER",
+  "displayName": "CWA_PMGOCPVW1_PHONE_TYPES_OFFICE_1_CM_PHONE_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003802,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LotSizeSqFt field",
+  "systemName": "LotSizeSqFt_QSF_LOT_SIZE_SQ_FT",
+  "displayName": "LIS_LIS_QSF_LOT_SIZE_SQ_FT",
+  "shortName": null,
+  "standardName": "LotSizeSquareFeet",
+  "id": 85011871628,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

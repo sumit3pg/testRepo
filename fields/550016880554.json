@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit6BedroomMaster1Width field",
+  "systemName": "MIREXUnit6BedroomMaster1Width_Unit6Bedroom1Width",
+  "displayName": "MIREXUnit6BedroomMaster1Width",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016880554,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

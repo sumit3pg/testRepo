@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAStoryList field",
+  "systemName": "CWAStoryList_QMEO_STORY",
+  "displayName": "CWA_LIS_QMEO_STORY",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003948,
+  "availableFlag": 1,
+  "dataTypeId": 200004437381,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001137,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

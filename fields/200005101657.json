@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWARoomList field",
+  "systemName": "CWARoomList_QMEO_ROOM",
+  "displayName": "CWA_LIS_QMEO_ROOM",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101657,
+  "availableFlag": 1,
+  "dataTypeId": 200004437380,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001080,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

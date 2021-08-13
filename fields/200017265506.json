@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDockSlipConveyanceMulti field",
+  "systemName": "BRIGHTDockSlipConveyanceMulti_DockSlipConveyanceMulti",
+  "displayName": "BRIGHTDockSlipConveyanceMulti",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265506,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85033301940,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

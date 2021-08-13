@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentTeamName field",
+  "systemName": "AltAgentTeamName_PTY_NAME",
+  "displayName": "SYS_LAGTM2_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016954836,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

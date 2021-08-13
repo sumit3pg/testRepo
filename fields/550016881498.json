@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaCaption field",
+  "systemName": "MIREXPropMediaCaption_CAPTION",
+  "displayName": "MIREXPropMediaCaption",
+  "shortName": null,
+  "standardName": "ShortDescription",
+  "id": 550016881498,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

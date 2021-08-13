@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXShowingInstructions field",
+  "systemName": "MIREXShowingInstructions_ShowingInstructions",
+  "displayName": "MIREXShowingInstructions",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878478,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002657,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

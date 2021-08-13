@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLowerFloor3Bedrooms field",
+  "systemName": "BRIGHTLowerFloor3Bedrooms_LowerLevel3Bedrooms",
+  "displayName": "BRIGHTLowerFloor3Bedrooms",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017266857,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

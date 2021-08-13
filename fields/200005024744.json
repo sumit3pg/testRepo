@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOpenHouseSourceTransport field",
+  "systemName": "CWAOpenHouseSourceTransport_QSO_SOURCE_TRANSPORT",
+  "displayName": "CWA_UOHVW_QSO_SOURCE_TRANSPORT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024744,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228527,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

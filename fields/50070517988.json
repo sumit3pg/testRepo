@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MobileHomeToRemainFlag field",
+  "systemName": "MobileHomeToRemainFlag_QSFLG_MOBILE_HOME_TO_REMN_FLAG",
+  "displayName": "LIS_LIS_QSFLG_MOBILE_HOME_TO_REM",
+  "shortName": null,
+  "standardName": "MobileHomeRemainsYN",
+  "id": 50070517988,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

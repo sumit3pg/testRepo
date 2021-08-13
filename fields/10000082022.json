@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ModificationTimestamp field",
+  "systemName": "ModificationTimestamp_LO_MODIFIED_TMS",
+  "displayName": "SYS_LIS_UID_LO_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": "ModificationTimestamp",
+  "id": 10000082022,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

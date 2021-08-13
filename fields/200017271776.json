@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropUnitLevelType field",
+  "systemName": "BRIGHTPropUnitLevelType_UnitTypeLevel",
+  "displayName": "BRIGHTPropUnitLevelType",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017271776,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

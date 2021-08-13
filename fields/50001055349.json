@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentSlogan field",
+  "systemName": "AgentSlogan_QSS_SLOGAN",
+  "displayName": "SYS_PER_QSS_SLOGAN",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001055349,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

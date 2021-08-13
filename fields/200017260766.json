@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeSourceBusinessPartner field",
+  "systemName": "BRIGHTOfficeSourceBusinessPartner_OfficeSourceBusinessPartner",
+  "displayName": "BRIGHTOfficeSourceBusinessPartner",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260766,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228477,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

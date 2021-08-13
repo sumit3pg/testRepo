@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXDocuments field",
+  "systemName": "MIREXDocuments_Documents",
+  "displayName": "MIREXDocuments",
+  "shortName": null,
+  "standardName": "DocumentsAvailable",
+  "id": 550016875508,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001944,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

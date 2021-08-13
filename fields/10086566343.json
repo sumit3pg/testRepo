@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuildingType field",
+  "systemName": "BuildingType_QMO_BUILDING_TYPE",
+  "displayName": "BuildingType",
+  "shortName": null,
+  "standardName": null,
+  "id": 10086566343,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 50038639481,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

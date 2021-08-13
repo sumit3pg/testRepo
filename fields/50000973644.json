@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeLicenseNumber field",
+  "systemName": "OfficeLicenseNumber_QSS_LICENSE_NUMBER",
+  "displayName": "SYS_ORG_QSS_LICENSE_NUMBER",
+  "shortName": null,
+  "standardName": "OfficeCorporateLicense",
+  "id": 50000973644,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

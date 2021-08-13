@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LicenseeInterest field",
+  "systemName": "LicenseeInterest_QSFLG_LICENSEE_HAS_INTEREST",
+  "displayName": "LIS_LIS_QSFLG_LICENSEE_HAS_INTER",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765996,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

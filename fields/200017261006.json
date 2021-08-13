@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSysPrParentID field",
+  "systemName": "BRIGHTSysPrParentID_IDENTIFIER",
+  "displayName": "BRIGHTSysPrParentID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017261006,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

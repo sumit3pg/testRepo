@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeSystemLocale field",
+  "systemName": "OfficeSystemLocale_PTY_SYS_LOC_ID",
+  "displayName": "SYS_ORG_PTY_SYS_LOC_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000969244,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50044328982,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

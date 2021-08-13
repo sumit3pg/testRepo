@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OperatingExpense field",
+  "systemName": "OperatingExpense_AMOUNT",
+  "displayName": "LIS_FIE_INCOME_EXPENSE_TYPES_OPE",
+  "shortName": null,
+  "standardName": "OperatingExpense",
+  "id": 50070546373,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

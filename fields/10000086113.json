@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentPostalCode field",
+  "systemName": "SaleAgentPostalCode_ADDR_ZIP",
+  "displayName": "SYS_SAGPCAVW1_ADDRESS_TYPES_HOME",
+  "shortName": null,
+  "standardName": "BuyerAgentPostalCode",
+  "id": 10000086113,
+  "availableFlag": 1,
+  "dataTypeId": 10000000169,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisSaleAgentFaxDisplay field",
+  "systemName": "LisSaleAgentFaxDisplay_CM_STRING_TEXT",
+  "displayName": "LIS_SAGPCPVW1_PHONE_TYPES_FAX_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062865150,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

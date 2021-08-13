@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALISChangeTimestamp field",
+  "systemName": "CWALISChangeTimestamp_CHANGE_TMS",
+  "displayName": "CWA_LIS_CHANGE_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005014015,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

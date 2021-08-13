@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PrimaryObjectMaxVideoTimestamp field",
+  "systemName": "PrimaryObjectMaxVideoTimestamp_MAX_VIDEO_TMS",
+  "displayName": "SYS_LD_MAX_VIDEO_TMS",
+  "shortName": null,
+  "standardName": "VideosChangeTimestamp",
+  "id": 85011852544,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

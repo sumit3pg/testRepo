@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit5Occupied field",
+  "systemName": "Unit5Occupied_QSFLG_OCCUPIED",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_5_Q",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038771769,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

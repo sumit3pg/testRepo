@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTFurnished field",
+  "systemName": "BRIGHTFurnished_Furnished",
+  "displayName": "BRIGHTFurnished",
+  "shortName": null,
+  "standardName": "Furnished",
+  "id": 200017265883,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002878,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

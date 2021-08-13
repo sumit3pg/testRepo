@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHeatingFlag field",
+  "systemName": "BRIGHTHeatingFlag_HeatingYN",
+  "displayName": "BRIGHTHeatingFlag",
+  "shortName": null,
+  "standardName": "HeatingYN",
+  "id": 200017266033,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

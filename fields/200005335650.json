@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentPreviewFlag field",
+  "systemName": "AgentPreviewFlag_QSFLG_PREVIEW_FLAG",
+  "displayName": "SYS_PER_QSFLG_PREVIEW_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005335650,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

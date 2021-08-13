@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LoRoomDisplayOrder field",
+  "systemName": "LoRoomDisplayOrder_DISPLAY_ORDER",
+  "displayName": "LIS_LOROOM_DISPLAY_ORDER",
+  "shortName": null,
+  "standardName": null,
+  "id": 85030889451,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

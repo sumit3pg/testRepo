@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeAddressAdditionalInfo field",
+  "systemName": "OfficeAddressAdditionalInfo_ADDR_ADDITIONAL_DISPLAY_NAME",
+  "displayName": "SYS_OCAVW_ADDRESS_TYPES_OFFIC_1_",
+  "shortName": null,
+  "standardName": "OfficeAddress2",
+  "id": 10000071535,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

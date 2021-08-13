@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuyerAgencyCompensationSelection field",
+  "systemName": "BuyerAgencyCompensationSelection_QSO_SELECTION",
+  "displayName": "LIS_COMP_COMPENSATION_TYPES_BUYE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005120322,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200005120303,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

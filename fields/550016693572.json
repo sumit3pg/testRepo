@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXSysPrLastName field",
+  "systemName": "WIREXSysPrLastName_DN_LAST_NAME",
+  "displayName": "WIREXSysPrLastName",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693572,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

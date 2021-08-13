@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAltAgentLastName field",
+  "systemName": "MIREXAltAgentLastName_AgentLastName",
+  "displayName": "MIREXAltAgentLastName",
+  "shortName": null,
+  "standardName": "CoListAgentLastName",
+  "id": 550016874848,
+  "availableFlag": 1,
+  "dataTypeId": 10094160270,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

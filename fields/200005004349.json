@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPhotoKey field",
+  "systemName": "CWAPhotoKey_MED_EXTERNAL_SYSTEM_ID",
+  "displayName": "CWA_QMEDVW_MEDIA_TYPS_XTRR_(MN)_1_MD_XTRNL_SYSTM_D",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004349,
+  "availableFlag": 1,
+  "dataTypeId": 10000000116,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

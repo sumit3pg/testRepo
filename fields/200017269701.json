@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropMediaPixelLength field",
+  "systemName": "BRIGHTPropMediaPixelLength_PIXEL_LENGTH",
+  "displayName": "BRIGHTPropMediaPixelLength",
+  "shortName": null,
+  "standardName": "ImageHeight",
+  "id": 200017269701,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

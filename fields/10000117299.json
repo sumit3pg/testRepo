@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListPrice field",
+  "systemName": "ListPrice_MAIN_LIST_PRICE",
+  "displayName": "LIS_LIS_MAIN_LIST_PRICE",
+  "shortName": null,
+  "standardName": "ListPrice",
+  "id": 10000117299,
+  "availableFlag": 1,
+  "dataTypeId": 50000635582,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

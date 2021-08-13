@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSysPrLastCurrent field",
+  "systemName": "MIREXSysPrLastCurrent_LAST_CURRENT_FLAG",
+  "displayName": "MIREXSysPrLastCurrent",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016678630,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

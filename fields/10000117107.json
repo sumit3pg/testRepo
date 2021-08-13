@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Exterior field",
+  "systemName": "Exterior_QMO_EXTERIOR_CONSTRUCTION",
+  "displayName": "LIS_LIS_QMO_EXTERIOR_CONSTRUCTIO",
+  "shortName": null,
+  "standardName": "ConstructionMaterials",
+  "id": 10000117107,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001984,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

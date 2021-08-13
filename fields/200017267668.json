@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPoolExpense field",
+  "systemName": "BRIGHTPoolExpense_PoolExpense",
+  "displayName": "BRIGHTPoolExpense",
+  "shortName": null,
+  "standardName": "PoolExpense",
+  "id": 200017267668,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

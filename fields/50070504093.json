@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Survey field",
+  "systemName": "Survey_QMO_SURVEY",
+  "displayName": "LIS_LIS_QMO_SURVEY",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504093,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070502731,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

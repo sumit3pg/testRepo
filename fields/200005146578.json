@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATransactionBrokerCompensation2Type field",
+  "systemName": "CWATransactionBrokerCompensation2Type_SUB_TYPE",
+  "displayName": "CWA_COMP_COMPENSATION_TYPES_TRANSCTN_BRKR_2_SB_TYP",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005146578,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670921,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXAltAgentCellPhone field",
+  "systemName": "MIREXAltAgentCellPhone_AgentCellPhone",
+  "displayName": "MIREXAltAgentCellPhone",
+  "shortName": null,
+  "standardName": "CoListAgentCellPhone",
+  "id": 550016874806,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

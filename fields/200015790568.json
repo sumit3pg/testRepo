@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a VirtualOpenHouseUrl field",
+  "systemName": "VirtualOpenHouseUrl_TEXT_VIRTUAL_OPEN_HOUSE_URL",
+  "displayName": "LIS_UOHVW_TEXT_VIRTUAL_OPEN_HOUSE_URL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200015790568,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

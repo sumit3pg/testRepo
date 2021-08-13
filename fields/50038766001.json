@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RailSpurFlag field",
+  "systemName": "RailSpurFlag_QSFLG_HAS_RAIL_SPUR",
+  "displayName": "LIS_LIS_QSFLG_HAS_RAIL_SPUR",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766001,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

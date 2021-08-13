@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenEnergyGeneration field",
+  "systemName": "GreenEnergyGeneration_QMO_GREEN_ENERGY_GENERATION",
+  "displayName": "LIS_LIS_QMO_GREEN_ENERGY_GENERAT",
+  "shortName": null,
+  "standardName": "GreenEnergyGeneration",
+  "id": 85004734639,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004734640,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleOfficeEmail field",
+  "systemName": "CWASaleOfficeEmail_CM_STRING_TEXT",
+  "displayName": "SYS_CWSAGOCSVW1_CONTACT_TYPES_EMAIL_1_CM_STRNG_TXT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004175,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

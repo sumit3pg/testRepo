@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAGVCheckOutTimestamp field",
+  "systemName": "CWAGVCheckOutTimestamp_CHECK_OUT_TMS",
+  "displayName": "CWA_GV_CHECK_OUT_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005072895,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

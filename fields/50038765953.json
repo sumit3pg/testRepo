@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CountyQuarterSection field",
+  "systemName": "CountyQuarterSection_QSO_COUNTY_QUARTER_SECTION",
+  "displayName": "LIS_LIS_QSO_COUNTY_QUARTER_SECTI",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765953,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038643558,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

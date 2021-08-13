@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SussexDEQuadrants field",
+  "systemName": "SussexDEQuadrants_QSO_SUSSEX_D_E_QUADRANTS",
+  "displayName": "LIS_LIS_QSO_SUSSEX_D_E_QUADRANTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005952442,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 200005952434,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

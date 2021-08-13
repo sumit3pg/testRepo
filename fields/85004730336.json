@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficePrimaryAssociationLkp field",
+  "systemName": "OfficePrimaryAssociationLkp_QSO_PRIMARY_ASSOCIATION",
+  "displayName": "SYS_ORG_QSO_PRIMARY_ASSOCIATION",
+  "shortName": null,
+  "standardName": "OfficeAOR",
+  "id": 85004730336,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85004730491,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

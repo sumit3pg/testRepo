@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeDisplayStreetNumber field",
+  "systemName": "WIREXOfficeDisplayStreetNumber_OfficeDisplayStreetNumber",
+  "displayName": "WIREXOfficeDisplayStreetNumber",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016692836,
+  "availableFlag": 1,
+  "dataTypeId": 10000000133,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

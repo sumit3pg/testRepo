@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysPrStartDate field",
+  "systemName": "SysPrStartDate_START_DATE",
+  "displayName": "SYS_PR_START_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000077586,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

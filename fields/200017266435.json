@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListAgentSalutationDesc field",
+  "systemName": "BRIGHTListAgentSalutationDesc_ListAgentNamePrefix",
+  "displayName": "BRIGHTListAgentSalutationDesc",
+  "shortName": null,
+  "standardName": "ListAgentNamePrefix",
+  "id": 200017266435,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

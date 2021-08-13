@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListOfficeStreetName field",
+  "systemName": "ListOfficeStreetName_ADDR_DN_STR_NAME",
+  "displayName": "SYS_LAGOCAVW1_ADDRESS_TYPES_OFFI",
+  "shortName": null,
+  "standardName": "ListOfficeStreetName",
+  "id": 10000082518,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit5Bedroom3Level field",
+  "systemName": "Unit5Bedroom3Level_LEVEL_TYPE",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_5_B",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038764192,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

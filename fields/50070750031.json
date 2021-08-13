@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AuctionRegistrationURL field",
+  "systemName": "AuctionRegistrationURL_TEXT_AUCTN_REGISTRATION_URL",
+  "displayName": "LIS_LIS_TEXT_AUCTN_REGISTRATION_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070750031,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

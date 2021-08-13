@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBathDescriptions field",
+  "systemName": "MIREXBathDescriptions_BathDescriptions",
+  "displayName": "MIREXBathDescriptions",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016874260,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038645014,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

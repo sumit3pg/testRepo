@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTUpperFloor5Baths field",
+  "systemName": "BRIGHTUpperFloor5Baths_UpperLevel5FullBaths",
+  "displayName": "BRIGHTUpperFloor5Baths",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268833,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

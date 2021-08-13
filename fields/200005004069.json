@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAssignedParkingSpaces field",
+  "systemName": "CWAAssignedParkingSpaces_PRK_ASSIGNED_SPACES",
+  "displayName": "CWA_LIS_PRK_ASSIGNED_SPACES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004069,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

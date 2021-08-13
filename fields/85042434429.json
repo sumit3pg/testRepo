@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentMemberAssociationKey field",
+  "systemName": "AgentMemberAssociationKey_QSS_AGENT_ASSOCIATION_KEY",
+  "displayName": "SYS_PER_QSS_AGENT_ASSOCIATION_KE",
+  "shortName": null,
+  "standardName": "MemberAORkey",
+  "id": 85042434429,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHasGarageFlag field",
+  "systemName": "BRIGHTHasGarageFlag_GarageYN",
+  "displayName": "BRIGHTHasGarageFlag",
+  "shortName": null,
+  "standardName": "GarageYN",
+  "id": 200017265907,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

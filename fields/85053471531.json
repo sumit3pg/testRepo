@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuildingFloorsInteger field",
+  "systemName": "BuildingFloorsInteger_QSL_BLDG_LEVELS",
+  "displayName": "LIS_LIS_QSL_BLDG_LEVELS",
+  "shortName": null,
+  "standardName": "StoriesTotal",
+  "id": 85053471531,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

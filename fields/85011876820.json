@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BedroomSecond1DescriptionStr field",
+  "systemName": "BedroomSecond1DescriptionStr_QSS_DESCRIPTION",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BEDROOM_",
+  "shortName": null,
+  "standardName": "RoomBedroomSecond1Description",
+  "id": 85011876820,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

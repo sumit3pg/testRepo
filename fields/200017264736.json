@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleOfficeFax field",
+  "systemName": "BRIGHTSaleOfficeFax_OfficeFax",
+  "displayName": "BRIGHTSaleOfficeFax",
+  "shortName": null,
+  "standardName": "BuyerOfficeFax",
+  "id": 200017264736,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

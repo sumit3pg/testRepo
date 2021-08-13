@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAStreetNameAndSuffix field",
+  "systemName": "CWAStreetNameAndSuffix_FC_STREET_NAME_TYPE",
+  "displayName": "CWA_ADDR_ADDRESS_TYPES_PROPERTY_FC_STREET_NAME_TYP",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008739618,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

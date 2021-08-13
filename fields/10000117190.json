@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RoadFrontage field",
+  "systemName": "RoadFrontage_QSL_ROAD_FRONTAGE",
+  "displayName": "LIS_LIS_QSL_ROAD_FRONTAGE",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117190,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

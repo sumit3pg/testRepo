@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPRDLAKey field",
+  "systemName": "BRIGHTPRDLAKey_LA_ID",
+  "displayName": "BRIGHTPRDLAKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550015672204,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

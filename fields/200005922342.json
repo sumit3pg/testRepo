@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoRoomExternalSystemID field",
+  "systemName": "CWALoRoomExternalSystemID_EXTERNAL_SYSTEM_ID",
+  "displayName": "CWA_LOROOM_EXTERNAL_SYSTEM_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005922342,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

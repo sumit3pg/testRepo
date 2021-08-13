@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LSumTotalPhotos field",
+  "systemName": "LSumTotalPhotos_TOTAL_PHOTOS",
+  "displayName": "LIS_LSUVW_TOTAL_PHOTOS",
+  "shortName": null,
+  "standardName": null,
+  "id": 85023997930,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

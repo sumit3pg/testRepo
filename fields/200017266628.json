@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTListingKey field",
+  "systemName": "BRIGHTListingKey_ListingKey",
+  "displayName": "BRIGHTListingKey",
+  "shortName": null,
+  "standardName": "ListingKey",
+  "id": 200017266628,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

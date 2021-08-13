@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CeilingHeight field",
+  "systemName": "CeilingHeight_QSL_CEILING_HEIGHT",
+  "displayName": "LIS_LIS_QSL_CEILING_HEIGHT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766010,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

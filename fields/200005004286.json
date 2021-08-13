@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACountyTax field",
+  "systemName": "CWACountyTax_AMOUNT",
+  "displayName": "CWA_FIE_INCOME_EXPENSE_TYPES_COUNTY_TAX_AMOUNT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004286,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

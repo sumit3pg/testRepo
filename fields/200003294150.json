@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ContingencyListDescription field",
+  "systemName": "ContingencyListDescription_QSS_CONTINGENCY_LIST_DESC",
+  "displayName": "LIS_LIS_QSS_CONTINGENCY_LIST_DES",
+  "shortName": null,
+  "standardName": "Contingency",
+  "id": 200003294150,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

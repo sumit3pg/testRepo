@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHOAFee field",
+  "systemName": "BRIGHTHOAFee_AssociationFee",
+  "displayName": "BRIGHTHOAFee",
+  "shortName": null,
+  "standardName": "AssociationFee",
+  "id": 200017264160,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaCreatedTimestamp field",
+  "systemName": "MIREXPropMediaCreatedTimestamp_CREATED_TMS",
+  "displayName": "MIREXPropMediaCreatedTimestamp",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016881388,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

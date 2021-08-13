@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropertySubTypes field",
+  "systemName": "PropertySubTypes_QMO_SUB_PROPERTY_USE_TYPE",
+  "displayName": "LIS_LIS_QMO_SUB_PROPERTY_USE_TYP",
+  "shortName": null,
+  "standardName": null,
+  "id": 50057392802,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670920,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PurchaseOptional field",
+  "systemName": "PurchaseOptional_QSFLG_PURCHASE_OPTIONAL",
+  "displayName": "LIS_LIS_QSFLG_PURCHASE_OPTIONAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911875,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

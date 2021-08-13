@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXDockominiumAmenities field",
+  "systemName": "MIREXDockominiumAmenities_DockominiumAmenities",
+  "displayName": "MIREXDockominiumAmenities",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875496,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50062745475,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaDescription field",
+  "systemName": "PropMediaDescription_MED_DESCRIPTION",
+  "displayName": "LIS_MEDVW_MED_DESCRIPTION",
+  "shortName": null,
+  "standardName": "LongDescription",
+  "id": 50000881800,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

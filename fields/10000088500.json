@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentOfficeKey field",
+  "systemName": "ListAgentOfficeKey_PARENT_PTY_ID",
+  "displayName": "SYS_LAGPR1_PARENT_PTY_ID",
+  "shortName": null,
+  "standardName": "ListOfficeKey",
+  "id": 10000088500,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

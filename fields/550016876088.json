@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXHeatingFuel field",
+  "systemName": "MIREXHeatingFuel_HeatingFuel",
+  "displayName": "MIREXHeatingFuel",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016876088,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002194,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

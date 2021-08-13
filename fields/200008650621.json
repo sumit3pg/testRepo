@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALowerFloor6Baths field",
+  "systemName": "CWALowerFloor6Baths_BATHS_FULL",
+  "displayName": "CWA_STORY_STORY_TYPES_LOWER_6_1_BATHS_FULL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008650621,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWATotalParkingSpaces field",
+  "systemName": "CWATotalParkingSpaces_QSF_PARKING_SPACES_TOTAL",
+  "displayName": "CWA_LIS_QSF_PARKING_SPACES_TOTAL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003963,
+  "availableFlag": 1,
+  "dataTypeId": 200004437390,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

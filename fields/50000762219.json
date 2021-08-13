@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UchPropHistNewPickListValue field",
+  "systemName": "UchPropHistNewPickListValue_NEW_PCKI_VALUE",
+  "displayName": "LIS_UCH_NEW_PCKI_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000762219,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

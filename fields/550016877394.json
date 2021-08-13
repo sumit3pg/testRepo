@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXMiddleSchool field",
+  "systemName": "MIREXMiddleSchool_MiddleSchool",
+  "displayName": "MIREXMiddleSchool",
+  "shortName": null,
+  "standardName": "MiddleOrJuniorSchool",
+  "id": 550016877394,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

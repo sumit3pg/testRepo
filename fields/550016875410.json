@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXDiningKitchen field",
+  "systemName": "MIREXDiningKitchen_DiningKitchen",
+  "displayName": "MIREXDiningKitchen",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875410,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001890,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

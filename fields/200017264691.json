@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleAgentVoiceMail field",
+  "systemName": "BRIGHTSaleAgentVoiceMail_MemberVoiceMail",
+  "displayName": "BRIGHTSaleAgentVoiceMail",
+  "shortName": null,
+  "standardName": "BuyerAgentVoiceMail",
+  "id": 200017264691,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

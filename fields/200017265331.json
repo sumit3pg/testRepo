@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCooling field",
+  "systemName": "BRIGHTCooling_Cooling",
+  "displayName": "BRIGHTCooling",
+  "shortName": null,
+  "standardName": "Cooling",
+  "id": 200017265331,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001830,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

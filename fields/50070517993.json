@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MobileHomeParkType field",
+  "systemName": "MobileHomeParkType_QMO_MOBILE_HOME_PARK_TYPE",
+  "displayName": "LIS_LIS_QMO_MOBILE_HOME_PARK_TYP",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070517993,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50070517920,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

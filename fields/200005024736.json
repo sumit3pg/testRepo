@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOpenHouseDate field",
+  "systemName": "CWAOpenHouseDate_OH_DAY_BEGIN",
+  "displayName": "CWA_UOHVW_OH_DAY_BEGIN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024736,
+  "availableFlag": 1,
+  "dataTypeId": 50000010009,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

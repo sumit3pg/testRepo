@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UpperFloor6Bedrooms field",
+  "systemName": "UpperFloor6Bedrooms_BEDROOMS",
+  "displayName": "LIS_STORY_STORY_TYPES_UPPER_6_1_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008646087,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

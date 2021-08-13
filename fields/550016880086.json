@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit4DiningRoomLength field",
+  "systemName": "MIREXUnit4DiningRoomLength_Unit4DiningRoomLength",
+  "displayName": "MIREXUnit4DiningRoomLength",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016880086,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

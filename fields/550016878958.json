@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXShowingRemarks field",
+  "systemName": "MIREXShowingRemarks_SupplementalShowingInstr",
+  "displayName": "MIREXShowingRemarks",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016878958,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

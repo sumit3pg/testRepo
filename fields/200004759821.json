@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ParkManagerName field",
+  "systemName": "ParkManagerName_QSS_PARK_MANAGER_NAME",
+  "displayName": "LIS_LIS_QSS_PARK_MANAGER_NAME",
+  "shortName": null,
+  "standardName": "ParkManagerName",
+  "id": 200004759821,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

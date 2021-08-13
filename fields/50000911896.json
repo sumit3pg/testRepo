@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchoolDistrict field",
+  "systemName": "SchoolDistrict_QSO_SCHOOL_DISTRICT",
+  "displayName": "LIS_LIS_QSO_SCHOOL_DISTRICT",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911896,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000898007,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

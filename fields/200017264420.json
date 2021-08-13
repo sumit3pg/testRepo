@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTBelowGradeAreaTotalSource field",
+  "systemName": "BRIGHTBelowGradeAreaTotalSource_BelowGradeAreaTotalSource",
+  "displayName": "BRIGHTBelowGradeAreaTotalSource",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264420,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040227010,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

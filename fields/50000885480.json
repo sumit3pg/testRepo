@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaUri field",
+  "systemName": "PropMediaUri_FC_URI",
+  "displayName": "PropMediaUri",
+  "shortName": null,
+  "standardName": "MediaHTML",
+  "id": 50000885480,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

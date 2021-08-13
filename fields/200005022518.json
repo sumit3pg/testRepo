@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoRoomFeatures field",
+  "systemName": "CWALoRoomFeatures_QMO_FEATURES",
+  "displayName": "CWA_LOROOM_QMO_FEATURES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005022518,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85011876769,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

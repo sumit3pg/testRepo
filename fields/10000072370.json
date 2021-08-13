@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentUnitNumber field",
+  "systemName": "AgentUnitNumber_ADDR_UNIT_NUMBER",
+  "displayName": "SYS_PCAVW_ADDRESS_TYPES_HOME_1_A",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000072370,
+  "availableFlag": 1,
+  "dataTypeId": 10000000116,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

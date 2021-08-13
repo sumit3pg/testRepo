@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXAgentOfficePhoneExt field",
+  "systemName": "WIREXAgentOfficePhoneExt_AgentOfficePhoneExt",
+  "displayName": "WIREXAgentOfficePhoneExt",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016720510,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

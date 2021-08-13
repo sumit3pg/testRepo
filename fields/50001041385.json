@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentOtherPhone1Description field",
+  "systemName": "AgentOtherPhone1Description_DSS_DESCRIPTION",
+  "displayName": "SYS_PCPVW_PHONE_TYPES_OTHER_1_DS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001041385,
+  "availableFlag": 1,
+  "dataTypeId": 10000070527,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

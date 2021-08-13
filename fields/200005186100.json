@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPplGranteePartyKey field",
+  "systemName": "CWAPplGranteePartyKey_PP_GRANTEE_PTY_ID",
+  "displayName": "CWA_PPLVW_PP_GRANTEE_PTY_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005186100,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

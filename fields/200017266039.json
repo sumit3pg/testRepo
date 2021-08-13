@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHighSchool field",
+  "systemName": "BRIGHTHighSchool_HighSchool",
+  "displayName": "BRIGHTHighSchool",
+  "shortName": null,
+  "standardName": "HighSchool",
+  "id": 200017266039,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

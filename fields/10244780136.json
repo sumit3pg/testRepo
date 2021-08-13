@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OpenHouseCreationTimestamp field",
+  "systemName": "OpenHouseCreationTimestamp_CREATED_TMS",
+  "displayName": "SYS_OH_UID_CREATED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 10244780136,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

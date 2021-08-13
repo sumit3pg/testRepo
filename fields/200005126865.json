@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SchoolDistrictName field",
+  "systemName": "SchoolDistrictName_NAME",
+  "displayName": "LIS_SCHD_NAME",
+  "shortName": null,
+  "standardName": "HighSchoolDistrict",
+  "id": 200005126865,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

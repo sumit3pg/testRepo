@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LPOICharValue field",
+  "systemName": "LPOICharValue_CHAR_VALUE",
+  "displayName": "CFG_LPOI_CHAR_VALUE",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004754906,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

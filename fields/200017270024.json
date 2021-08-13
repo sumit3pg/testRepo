@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOpenHouseClose field",
+  "systemName": "BRIGHTOpenHouseClose_OpenHouseEndTime",
+  "displayName": "BRIGHTOpenHouseClose",
+  "shortName": null,
+  "standardName": "OpenHouseEndTime",
+  "id": 200017270024,
+  "availableFlag": 1,
+  "dataTypeId": 50000010010,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

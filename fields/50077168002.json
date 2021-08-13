@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SoldTermsMulti field",
+  "systemName": "SoldTermsMulti_QMO_SOLD_TERMS_MULTI",
+  "displayName": "LIS_LIS_QMO_SOLD_TERMS_MULTI",
+  "shortName": null,
+  "standardName": "BuyerFinancing",
+  "id": 50077168002,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50077167999,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

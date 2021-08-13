@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a VacancyFactor field",
+  "systemName": "VacancyFactor_QSF_VACANCY_RATE",
+  "displayName": "LIS_LIS_QSF_VACANCY_RATE",
+  "shortName": null,
+  "standardName": "VacancyAllowanceRate",
+  "id": 10000117227,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

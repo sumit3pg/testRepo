@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWANumAttachedGarageSpaces field",
+  "systemName": "CWANumAttachedGarageSpaces_QSL_NUM_ATTACHED_GARAGE_SPACES",
+  "displayName": "CWA_LIS_QSL_NUM_ATTACHED_GARAGE_SPACES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005887898,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

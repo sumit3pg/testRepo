@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MunicipalTrashYN field",
+  "systemName": "MunicipalTrashYN_QSFLG_MUNICIPAL_TRASH_Y_N",
+  "displayName": "LIS_LIS_QSFLG_MUNICIPAL_TRASH_Y_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006038321,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

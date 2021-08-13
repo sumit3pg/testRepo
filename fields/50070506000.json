@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaSourceModificationTimestamp field",
+  "systemName": "PropMediaSourceModificationTimestamp_QSDT_SOURCE_MODIFICATION_TMS",
+  "displayName": "LIS_MEDVW_QSDT_SOURCE_MODIFICATI",
+  "shortName": null,
+  "standardName": "MediaModificationTimestamp",
+  "id": 50070506000,
+  "availableFlag": 1,
+  "dataTypeId": 50000898056,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

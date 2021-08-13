@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaOriginalBytes field",
+  "systemName": "PropMediaOriginalBytes_MED_ORIGINAL_MED_SIZE",
+  "displayName": "LIS_MEDVW_MED_ORIGINAL_MED_SIZE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200003982867,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

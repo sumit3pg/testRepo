@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXKitchen1Level field",
+  "systemName": "MIREXKitchen1Level_Kitchen1Level",
+  "displayName": "MIREXKitchen1Level",
+  "shortName": null,
+  "standardName": "RoomKitchen1Level",
+  "id": 550016876232,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

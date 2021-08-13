@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherRm3Name field",
+  "systemName": "OtherRm3Name_QSS_NAME",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_OTHER_RO",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000912352,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDirections field",
+  "systemName": "BRIGHTDirections_Directions",
+  "displayName": "BRIGHTDirections",
+  "shortName": null,
+  "standardName": "Directions",
+  "id": 200017265464,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

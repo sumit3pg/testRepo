@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit6Quantity field",
+  "systemName": "Unit6Quantity_NUM_UNITS",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_6_N",
+  "shortName": null,
+  "standardName": "UnitType6UnitsTotal",
+  "id": 50048748660,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

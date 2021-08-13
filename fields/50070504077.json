@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ImprovementsDescription field",
+  "systemName": "ImprovementsDescription_TEXT_IMPROVEMENTS_DESCRIPTION",
+  "displayName": "LIS_LIS_TEXT_IMPROVEMENTS_DESCRI",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070504077,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

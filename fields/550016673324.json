@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXOfficeAddressAdditionalInfo field",
+  "systemName": "MIREXOfficeAddressAdditionalInfo_OfficeAddressAdditionalInfo",
+  "displayName": "MIREXOfficeAddressAdditionalInfo",
+  "shortName": null,
+  "standardName": "OfficeAddress2",
+  "id": 550016673324,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

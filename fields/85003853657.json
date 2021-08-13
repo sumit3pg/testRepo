@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeRPRFlag field",
+  "systemName": "OfficeRPRFlag_QSFLG_RPR_FLAG",
+  "displayName": "SYS_ORG_QSFLG_RPR_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 85003853657,
+  "availableFlag": 1,
+  "dataTypeId": 50000898066,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

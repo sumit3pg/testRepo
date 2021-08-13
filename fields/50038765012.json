@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LivingRoomDescription field",
+  "systemName": "LivingRoomDescription_QMO_DESCRIPTION",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_LIVING_R",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038765012,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038643739,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

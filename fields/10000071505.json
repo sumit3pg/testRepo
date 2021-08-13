@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeUnitDesignation field",
+  "systemName": "OfficeUnitDesignation_ADDR_UD_ID",
+  "displayName": "SYS_OCAVW_ADDRESS_TYPES_OFFICE_1",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000071505,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069213,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

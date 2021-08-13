@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysMediaURL field",
+  "systemName": "SysMediaURL_FC_URL",
+  "displayName": "SYS_MEDVW_MED_URL",
+  "shortName": null,
+  "standardName": null,
+  "id": 10244780102,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

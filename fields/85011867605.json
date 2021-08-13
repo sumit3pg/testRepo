@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a FarmCreditServiceInclFlag field",
+  "systemName": "FarmCreditServiceInclFlag_QSFLG_FARM_CREDIC_SVC_INC_FLAG",
+  "displayName": "LIS_LIS_QSFLG_FARM_CREDIC_SVC_IN",
+  "shortName": null,
+  "standardName": "FarmCreditServiceInclYN",
+  "id": 85011867605,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

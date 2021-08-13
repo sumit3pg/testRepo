@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAInteriorSquareFeetSource field",
+  "systemName": "CWAInteriorSquareFeetSource_QSO_INTERIOR_SQ_FT_SOURCE",
+  "displayName": "CWA_LIS_QSO_INTERIOR_SQ_FT_SOURCE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003953,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897884,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentVoiceMailNum field",
+  "systemName": "AgentVoiceMailNum_CM_PHONE_NUMBER",
+  "displayName": "SYS_PCPVW_PHONE_TYPES_VOICE_MAIL",
+  "shortName": null,
+  "standardName": "MemberVoiceMail",
+  "id": 10000073645,
+  "availableFlag": 1,
+  "dataTypeId": 10000000160,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit2DiningRoomLevel field",
+  "systemName": "MIREXUnit2DiningRoomLevel_Unit2DiningRoomLevel",
+  "displayName": "MIREXUnit2DiningRoomLevel",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016879546,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

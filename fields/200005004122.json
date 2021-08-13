@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFarmCreditServiceInclFlag field",
+  "systemName": "CWAFarmCreditServiceInclFlag_QSFLG_FARM_CREDIC_SVC_INC_FLAG",
+  "displayName": "CWA_LIS_QSFLG_FARM_CREDIC_SVC_INC_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004122,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

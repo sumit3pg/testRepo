@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXUnit5MonthlyRent field",
+  "systemName": "MIREXUnit5MonthlyRent_Unit5RentalRate",
+  "displayName": "MIREXUnit5MonthlyRent",
+  "shortName": null,
+  "standardName": "UnitType5ActualRent",
+  "id": 550016880506,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

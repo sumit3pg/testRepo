@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxPropertyZoning field",
+  "systemName": "TaxPropertyZoning_PROP_ZONING_DESCRIPTION",
+  "displayName": "PUB_PUB_PROP_ZONING_DESCRIPTION",
+  "shortName": null,
+  "standardName": "TaxPropertyZoning",
+  "id": 10093080286,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

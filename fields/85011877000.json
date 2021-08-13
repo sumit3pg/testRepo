@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BedroomMaster1Dimenstions field",
+  "systemName": "BedroomMaster1Dimenstions_QSS_DIMENSIONS",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_BEDROOM_",
+  "shortName": null,
+  "standardName": "RoomBedroomMaster1Dimensions",
+  "id": 85011877000,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

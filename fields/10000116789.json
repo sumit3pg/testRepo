@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SubAgentCompensation field",
+  "systemName": "SubAgentCompensation_DESCRIPTION",
+  "displayName": "LIS_COMP_COMPENSATION_TYPES_SB_G",
+  "shortName": null,
+  "standardName": "SubAgencyCompensation",
+  "id": 10000116789,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalGasMeters field",
+  "systemName": "TotalGasMeters_QSL_TOTAL_GAS_METERS",
+  "displayName": "LIS_LIS_QSL_TOTAL_GAS_METERS",
+  "shortName": null,
+  "standardName": "NumberOfSeparateGasMeters",
+  "id": 50070547452,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

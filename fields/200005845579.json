@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CommunityPoolFeatures field",
+  "systemName": "CommunityPoolFeatures_QMO_COMMUNITY_POOL_FEATURES",
+  "displayName": "LIS_LIS_QMO_COMMUNITY_POOL_FEATU",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005845579,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50047488331,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

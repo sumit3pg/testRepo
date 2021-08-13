@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTHorseAmenities field",
+  "systemName": "BRIGHTHorseAmenities_HorseAmenities",
+  "displayName": "BRIGHTHorseAmenities",
+  "shortName": null,
+  "standardName": "HorseAmenities",
+  "id": 200017266069,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85040087488,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BuilderTractNameOther field",
+  "systemName": "BuilderTractNameOther_QSS_BUILDER_TRACT_NAME_OTHER",
+  "displayName": "LIS_LIS_QSS_BUILDER_TRACT_NAME_O",
+  "shortName": null,
+  "standardName": null,
+  "id": 85004668103,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

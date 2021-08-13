@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAListingStatus field",
+  "systemName": "CWAListingStatus_LS_ID",
+  "displayName": "CWA_LIS_LS_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003747,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000077646,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

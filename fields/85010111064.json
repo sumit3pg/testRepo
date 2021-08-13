@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalPdfDocuments field",
+  "systemName": "TotalPdfDocuments_FC_PDF_DOC_COUNT",
+  "displayName": "TotalPdfDocuments",
+  "shortName": null,
+  "standardName": "DocumentsCount",
+  "id": 85010111064,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

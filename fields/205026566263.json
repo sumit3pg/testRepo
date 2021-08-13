@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListingTaxID2 field",
+  "systemName": "ListingTaxID2_QSS_PUB_TAX_ID_2",
+  "displayName": "LIS_LIS_QSS_PUB_TAX_ID_2",
+  "shortName": null,
+  "standardName": null,
+  "id": 205026566263,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeID field",
+  "systemName": "BRIGHTOfficeID_OfficeMlsId",
+  "displayName": "BRIGHTOfficeID",
+  "shortName": null,
+  "standardName": "OfficeMlsId",
+  "id": 200017260706,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

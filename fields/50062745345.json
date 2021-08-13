@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LandContractPaymentAmount field",
+  "systemName": "LandContractPaymentAmount_PAYMENT_AMOUNT",
+  "displayName": "LIS_LOAN_LOAN_TYPES_LAND_CONTRAC",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062745345,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentStreetException field",
+  "systemName": "AgentStreetException_ADDR_HOUSE_NUMBER_EXTENSION",
+  "displayName": "SYS_PCAVW_ADDRESS_TYPES_HOME_1_A",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000072340,
+  "availableFlag": 1,
+  "dataTypeId": 10000000117,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

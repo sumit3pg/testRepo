@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TopographyDescription field",
+  "systemName": "TopographyDescription_TEXT_TOPOGRAPHY_DESCRIPTION",
+  "displayName": "LIS_LIS_TEXT__TOPOGRAPHY_DESCRIPT",
+  "shortName": null,
+  "standardName": "Topography",
+  "id": 50070504097,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

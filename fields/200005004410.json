@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPricePerSqFt field",
+  "systemName": "CWAPricePerSqFt_QSF_PRICE_PER_SQUARE_FOOT",
+  "displayName": "CWA_LIS_QSF_PRICE_PER_SQUARE_FOOT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004410,
+  "availableFlag": 1,
+  "dataTypeId": 200004437393,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

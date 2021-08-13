@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAAdditionalParcelsForSaleFlag field",
+  "systemName": "CWAAdditionalParcelsForSaleFlag_QSFLG_ADDTL_PARCELS_FOR_SALE",
+  "displayName": "CWA_LIS_QSFLG_ADDTL_PARCELS_FOR_SALE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004320,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

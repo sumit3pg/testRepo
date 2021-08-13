@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAShowingContactName field",
+  "systemName": "CWAShowingContactName_PTY_NAME",
+  "displayName": "CWA_OCCPER1_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004359,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": false,
+  "enterableFlag": false,
+  "copyOnCloneFlag": false,
+  "isDeprecated": false
+}

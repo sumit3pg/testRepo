@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTNumParkingLotSpaces field",
+  "systemName": "BRIGHTNumParkingLotSpaces_NumParkingLotSpaces",
+  "displayName": "BRIGHTNumParkingLotSpaces",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267274,
+  "availableFlag": 1,
+  "dataTypeId": 10000000145,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

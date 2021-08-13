@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPRDPartyKey field",
+  "systemName": "BRIGHTPRDPartyKey_PTY_ID",
+  "displayName": "BRIGHTPRDPartyKey",
+  "shortName": null,
+  "standardName": null,
+  "id": 550015672228,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

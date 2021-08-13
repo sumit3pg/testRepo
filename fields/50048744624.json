@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalType3Units field",
+  "systemName": "TotalType3Units_NUM_UNITS",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_FLOORPLA",
+  "shortName": null,
+  "standardName": null,
+  "id": 50048744624,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

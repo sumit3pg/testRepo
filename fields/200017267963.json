@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTSaleIncludes field",
+  "systemName": "BRIGHTSaleIncludes_SaleIncludes",
+  "displayName": "BRIGHTSaleIncludes",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017267963,
+  "availableFlag": 1,
+  "dataTypeId": 200017260569,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000897989,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

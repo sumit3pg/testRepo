@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LastUpdateTypeLkp field",
+  "systemName": "LastUpdateTypeLkp_FC_LAST_UPDATE_TYPE_PCKI",
+  "displayName": "LIS_LIS_FC_LAST_UPDATE_TYPE_PCKI",
+  "shortName": null,
+  "standardName": "MajorChangeType",
+  "id": 200004397328,
+  "availableFlag": 1,
+  "dataTypeId": 50077168994,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 50000709503,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

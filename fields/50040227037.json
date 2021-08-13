@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a InformationSourceFinishedBelowGrade field",
+  "systemName": "InformationSourceFinishedBelowGrade_QMO_INF_SRC_BEL_GRD_AREA_FNSHD",
+  "displayName": "LIS_LIS_QMO_INF_SRC_BEL_GRD_AREA",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040227037,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040227010,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

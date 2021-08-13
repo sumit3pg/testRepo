@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a DeptOfHousing1Description field",
+  "systemName": "DeptOfHousing1Description_QSS_DEPT_OF_HOUSING1_DESC",
+  "displayName": "LIS_LIS_QSS_DEPT_OF_HOUSING1_DES",
+  "shortName": null,
+  "standardName": "DOH1",
+  "id": 50070517976,
+  "availableFlag": 1,
+  "dataTypeId": 10000081639,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

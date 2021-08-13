@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXMaxPhotoTms field",
+  "systemName": "MIREXMaxPhotoTms_MaxPhotoModTimestamp",
+  "displayName": "MIREXMaxPhotoTms",
+  "shortName": null,
+  "standardName": "PhotosChangeTimestamp",
+  "id": 550016877380,
+  "availableFlag": 1,
+  "dataTypeId": 10262164554,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

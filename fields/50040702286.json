@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a LisSaleAgentTollFreePhoneExt field",
+  "systemName": "LisSaleAgentTollFreePhoneExt_CM_PHONE_EXTENSION",
+  "displayName": "LIS_SAGPCPVW1_PHONE_TYPES_TOLL_F",
+  "shortName": null,
+  "standardName": null,
+  "id": 50040702286,
+  "availableFlag": 1,
+  "dataTypeId": 10000000158,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

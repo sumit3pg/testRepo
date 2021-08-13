@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTLSHDompIgnoreCalcFlag field",
+  "systemName": "BRIGHTLSHDompIgnoreCalcFlag_DOMP_IGNORE_CALC_FLAG",
+  "displayName": "BRIGHTLSHDompIgnoreCalcFlag",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016842094,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

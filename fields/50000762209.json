@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UchPropHistListingKey field",
+  "systemName": "UchPropHistListingKey_LO_UID",
+  "displayName": "LIS_UCH_LO_UID",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000762209,
+  "availableFlag": 1,
+  "dataTypeId": 10000000165,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

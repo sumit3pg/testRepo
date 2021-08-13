@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTVOWAVM field",
+  "systemName": "BRIGHTVOWAVM_VOWAVMYN",
+  "displayName": "BRIGHTVOWAVM",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268911,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

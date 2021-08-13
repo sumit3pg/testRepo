@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOriginalListPrice field",
+  "systemName": "BRIGHTOriginalListPrice_OriginalListPrice",
+  "displayName": "BRIGHTOriginalListPrice",
+  "shortName": null,
+  "standardName": "OriginalListPrice",
+  "id": 200017267464,
+  "availableFlag": 1,
+  "dataTypeId": 10000000135,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAIrrigationRightsFlag field",
+  "systemName": "CWAIrrigationRightsFlag_QSFLG_HAS_IRRIGATION_RIGHTS",
+  "displayName": "CWA_LIS_QSFLG_HAS_IRRIGATION_RIGHTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004102,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

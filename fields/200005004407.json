@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWARentIncludes field",
+  "systemName": "CWARentIncludes_QMO_RENT_INCLUDES",
+  "displayName": "CWA_LIS_QMO_RENT_INCLUDES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004407,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002507,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

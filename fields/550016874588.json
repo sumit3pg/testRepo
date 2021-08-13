@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXBedroomThird1Length field",
+  "systemName": "MIREXBedroomThird1Length_BedroomThird1Length",
+  "displayName": "MIREXBedroomThird1Length",
+  "shortName": null,
+  "standardName": "RoomBedroomThird1Length",
+  "id": 550016874588,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

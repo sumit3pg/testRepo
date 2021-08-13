@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenRemarks field",
+  "systemName": "GreenRemarks_TEXT_GREEN",
+  "displayName": "LIS_LIS_TEXT_GREEN",
+  "shortName": null,
+  "standardName": null,
+  "id": 50075111919,
+  "availableFlag": 1,
+  "dataTypeId": 10000081618,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

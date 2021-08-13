@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTPropUnitAreaFinished field",
+  "systemName": "BRIGHTPropUnitAreaFinished_UnitTypeFinishedSQFT",
+  "displayName": "BRIGHTPropUnitAreaFinished",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017271746,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

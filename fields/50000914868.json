@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeSourceModificationTimestamp field",
+  "systemName": "OfficeSourceModificationTimestamp_QSDT_SOURCE_MODIFICATION_TMS",
+  "displayName": "SYS_ORG_QSDT_SOURCE_MODIFICATION",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000914868,
+  "availableFlag": 1,
+  "dataTypeId": 50000898060,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

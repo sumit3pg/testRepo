@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit6Bedrooms field",
+  "systemName": "Unit6Bedrooms_BEDROOMS",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_6_B",
+  "shortName": null,
+  "standardName": "UnitType6BedsTotal",
+  "id": 50038766250,
+  "availableFlag": 1,
+  "dataTypeId": 10000000156,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

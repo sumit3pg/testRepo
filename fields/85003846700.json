@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListingLocation4 field",
+  "systemName": "ListingLocation4_QSO_LISTING_LOCATION_4",
+  "displayName": "LIS_LIS_QSO_LISTING_LOCATION_4",
+  "shortName": null,
+  "standardName": null,
+  "id": 85003846700,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85003846684,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

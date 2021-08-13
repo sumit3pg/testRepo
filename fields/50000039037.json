@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropMediaVendorName field",
+  "systemName": "PropMediaVendorName_PTY_NAME",
+  "displayName": "SYS_MEDV_PTY_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000039037,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

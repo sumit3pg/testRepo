@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentShortID field",
+  "systemName": "AgentShortID_QSS_SHORT_ID",
+  "displayName": "SYS_PER_QSS_SHORT_ID",
+  "shortName": null,
+  "standardName": null,
+  "id": 50001055348,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

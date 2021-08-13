@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PetRestrictionTypes field",
+  "systemName": "PetRestrictionTypes_QMO_PET_RESTRICTIONS",
+  "displayName": "LIS_LIS_QMO_PET_RESTRICTIONS",
+  "shortName": null,
+  "standardName": "PetsAllowed",
+  "id": 85038385372,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 85038385373,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

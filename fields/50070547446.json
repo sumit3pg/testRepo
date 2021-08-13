@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ProfessionalManagementAmount field",
+  "systemName": "ProfessionalManagementAmount_QSF_PROF_MANAGEMENT_AMOUNT",
+  "displayName": "LIS_LIS_QSF_PROF_MANAGEMENT_AMOU",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070547446,
+  "availableFlag": 1,
+  "dataTypeId": 10000081637,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

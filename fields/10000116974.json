@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherFeesPaymentFreq field",
+  "systemName": "OtherFeesPaymentFreq_PAYMENT_FREQUENCY_TYPE",
+  "displayName": "LIS_FIE_INCOME_EXPENS_TYPS_THR_F",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000116974,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001056,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

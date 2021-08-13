@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXSysPrRoleName field",
+  "systemName": "WIREXSysPrRoleName_PTY_NAME",
+  "displayName": "WIREXSysPrRoleName",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693498,
+  "availableFlag": 1,
+  "dataTypeId": 50041935181,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

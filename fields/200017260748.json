@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficePostalCode field",
+  "systemName": "BRIGHTOfficePostalCode_OfficePostalCode",
+  "displayName": "BRIGHTOfficePostalCode",
+  "shortName": null,
+  "standardName": "OfficePostalCode",
+  "id": 200017260748,
+  "availableFlag": 1,
+  "dataTypeId": 10000000169,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

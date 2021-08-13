@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOpenHouseItemNumber field",
+  "systemName": "CWAOpenHouseItemNumber_OH_ITEM_NUMBER",
+  "displayName": "CWA_UOHVW_OH_ITEM_NUMBER",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005024731,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

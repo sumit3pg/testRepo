@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit12MonthlyProjectedRent field",
+  "systemName": "Unit12MonthlyProjectedRent_PROJECTED_RENT_AMOUNT",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_12_",
+  "shortName": null,
+  "standardName": null,
+  "id": 50070546765,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

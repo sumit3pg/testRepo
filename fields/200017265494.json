@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDockAnnualFee field",
+  "systemName": "BRIGHTDockAnnualFee_DockAnnualFee",
+  "displayName": "BRIGHTDockAnnualFee",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017265494,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropRel3ExistsFlag field",
+  "systemName": "PropRel3ExistsFlag_QSFLG_PROP_REL_3_EXISTS",
+  "displayName": "LIS_LIS_QSFLG_PROP_REL_3_EXISTS",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062864984,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

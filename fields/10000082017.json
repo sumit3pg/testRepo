@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CreationTimestamp field",
+  "systemName": "CreationTimestamp_CREATED_TMS",
+  "displayName": "SYS_LIS_UID_CREATED_TMS",
+  "shortName": null,
+  "standardName": "OriginalEntryTimestamp",
+  "id": 10000082017,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

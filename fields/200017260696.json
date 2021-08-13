@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTOfficeLongitude field",
+  "systemName": "BRIGHTOfficeLongitude_OfficeLongitude",
+  "displayName": "BRIGHTOfficeLongitude",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017260696,
+  "availableFlag": 1,
+  "dataTypeId": 10000000144,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentStreetNumber field",
+  "systemName": "ListAgentStreetNumber_ADDR_HOUSE_NUMBER",
+  "displayName": "SYS_LAGPCAVW1_ADDRESS_TYPES_HOME",
+  "shortName": null,
+  "standardName": "ListAgentStreetNumber",
+  "id": 10000083743,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

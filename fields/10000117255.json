@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BlockOrSquare field",
+  "systemName": "BlockOrSquare_PUB_BLOCK",
+  "displayName": "LIS_LIS_PUB_BLOCK",
+  "shortName": null,
+  "standardName": "TaxBlock",
+  "id": 10000117255,
+  "availableFlag": 1,
+  "dataTypeId": 205010451288,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

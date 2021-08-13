@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PropUnitMonthlyRent field",
+  "systemName": "PropUnitMonthlyRent_RENT_AMOUNT",
+  "displayName": "LIS_UUNIT_RENT_AMOUNT",
+  "shortName": null,
+  "standardName": "UnitTypeActualRent",
+  "id": 50070932287,
+  "availableFlag": 1,
+  "dataTypeId": 10000000148,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

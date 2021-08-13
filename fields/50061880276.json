@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentContactOrder5 field",
+  "systemName": "AgentContactOrder5_QSO_CONTACT_ORDER_5",
+  "displayName": "SYS_PER_QSO_CONTACT_ORDER_5",
+  "shortName": null,
+  "standardName": null,
+  "id": 50061880276,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50060677950,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

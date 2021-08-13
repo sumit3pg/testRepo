@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTElementarySchool field",
+  "systemName": "BRIGHTElementarySchool_ElementarySchool",
+  "displayName": "BRIGHTElementarySchool",
+  "shortName": null,
+  "standardName": "ElementarySchool",
+  "id": 200017265653,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

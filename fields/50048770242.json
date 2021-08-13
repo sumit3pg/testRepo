@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a IrrigationSystemOrSource field",
+  "systemName": "IrrigationSystemOrSource_QMO_IRRIGATION_SYSTEM",
+  "displayName": "LIS_LIS_QMO_IRRIGATION_SYSTEM",
+  "shortName": null,
+  "standardName": "IrrigationSource",
+  "id": 50048770242,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50048765035,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

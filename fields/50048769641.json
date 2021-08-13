@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ExistingLeaseAmountPaymentFreq field",
+  "systemName": "ExistingLeaseAmountPaymentFreq_PAYMENT_FREQUENCY_TYPE",
+  "displayName": "LIS_FIE_INCOME_XPNS_TYPS_XSTNG_L",
+  "shortName": null,
+  "standardName": "LeaseAmountFrequency",
+  "id": 50048769641,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001056,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

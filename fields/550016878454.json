@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXSewerSeptic field",
+  "systemName": "MIREXSewerSeptic_SewerSeptic",
+  "displayName": "MIREXSewerSeptic",
+  "shortName": null,
+  "standardName": "Sewer",
+  "id": 550016878454,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002633,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

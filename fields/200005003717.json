@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAStatusChangeDate field",
+  "systemName": "CWAStatusChangeDate_MAIN_STATUS_CHANGE_DATE",
+  "displayName": "CWA_LIS_MAIN_STATUS_CHANGE_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003717,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

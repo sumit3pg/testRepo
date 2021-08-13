@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentMiddleName field",
+  "systemName": "BRIGHTAgentMiddleName_MemberMiddleName",
+  "displayName": "BRIGHTAgentMiddleName",
+  "shortName": null,
+  "standardName": "MemberMiddleName",
+  "id": 200017263291,
+  "availableFlag": 1,
+  "dataTypeId": 10000000130,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

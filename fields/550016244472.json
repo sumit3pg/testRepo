@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TeamModificationTimestamp field",
+  "systemName": "TeamModificationTimestamp_LO_MODIFIED_TMS",
+  "displayName": "SYS_TMUI_LO_MODIFIED_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016244472,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

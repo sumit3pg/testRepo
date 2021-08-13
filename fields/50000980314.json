@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SourceSaleAgentTeamName field",
+  "systemName": "SourceSaleAgentTeamName_QSS_TEAM_NAME",
+  "displayName": "SYS_SAGPER1_QSS_TEAM_NAME",
+  "shortName": null,
+  "standardName": "BuyerTeamName",
+  "id": 50000980314,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

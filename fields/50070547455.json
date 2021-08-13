@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalWaterMeters field",
+  "systemName": "TotalWaterMeters_QSL_TOTAL_WATER_METERS",
+  "displayName": "LIS_LIS_QSL_TOTAL_WATER_METERS",
+  "shortName": null,
+  "standardName": "NumberOfSeparateWaterMeters",
+  "id": 50070547455,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

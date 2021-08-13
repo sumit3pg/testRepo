@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALISCheckOutTimestamp field",
+  "systemName": "CWALISCheckOutTimestamp_CHECK_OUT_TMS",
+  "displayName": "CWA_LIS_CHECK_OUT_TMS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005014013,
+  "availableFlag": 1,
+  "dataTypeId": 10000000121,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

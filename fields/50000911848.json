@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a PendingDate field",
+  "systemName": "PendingDate_QSD_PENDING_DATE",
+  "displayName": "LIS_LIS_QSD_PENDING_DATE",
+  "shortName": null,
+  "standardName": null,
+  "id": 50000911848,
+  "availableFlag": 1,
+  "dataTypeId": 10000081635,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

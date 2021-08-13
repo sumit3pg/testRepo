@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCapitalContributionFee field",
+  "systemName": "BRIGHTCapitalContributionFee_CapitalContributionFee",
+  "displayName": "BRIGHTCapitalContributionFee",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017264816,
+  "availableFlag": 1,
+  "dataTypeId": 200016508163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

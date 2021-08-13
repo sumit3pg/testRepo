@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherRm1Area field",
+  "systemName": "OtherRm1Area_AREA_TOTAL",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_OTHER_RO",
+  "shortName": null,
+  "standardName": "RoomOtherRm1Area",
+  "id": 50048743674,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

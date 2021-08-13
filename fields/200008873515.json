@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWANumDaysInKickOutClause field",
+  "systemName": "CWANumDaysInKickOutClause_QSL_NM_DAYS_IN_KICK_OUT_CLAUSE",
+  "displayName": "CWA_LIS_QSL_NM_DAYS_IN_KICK_OUT_CLAUSE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200008873515,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a VacantLandZoning field",
+  "systemName": "VacantLandZoning_QMO_VACANT_LAND_ZONING",
+  "displayName": "LIS_LIS_QMO_VACANT_LAND_ZONING",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038766042,
+  "availableFlag": 1,
+  "dataTypeId": 10000081633,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50038640513,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

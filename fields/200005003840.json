@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAStreetException field",
+  "systemName": "CWAStreetException_HOUSE_NUMBER_EXTENSION",
+  "displayName": "CWA_ADDR_ADDRESS_TYPES_PROPERTY_HOUSE_NUMBER_XTNSN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003840,
+  "availableFlag": 1,
+  "dataTypeId": 10000000117,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

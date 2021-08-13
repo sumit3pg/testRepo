@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SysPartyLicenseType field",
+  "systemName": "SysPartyLicenseType_LICT_ID",
+  "displayName": "SysPartyLicenseType",
+  "shortName": null,
+  "standardName": null,
+  "id": 200007098794,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 10000069200,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

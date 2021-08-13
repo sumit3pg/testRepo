@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a SaleAgentDesignationsLkp field",
+  "systemName": "SaleAgentDesignationsLkp_QMO_DESIGNATIONS",
+  "displayName": "SYS_SAGPER1_QMO_DESIGNATIONS",
+  "shortName": null,
+  "standardName": "BuyerAgentDesignation",
+  "id": 85049734236,
+  "availableFlag": 1,
+  "dataTypeId": 10000070531,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000069198,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

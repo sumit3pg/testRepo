@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RPRFlag field",
+  "systemName": "RPRFlag_QSFLG_RPR_FLAG",
+  "displayName": "LIS_LIS_QSFLG_RPR_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 85003846697,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

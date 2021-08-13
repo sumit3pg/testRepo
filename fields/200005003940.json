@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWABathsFull field",
+  "systemName": "CWABathsFull_STR_BATHS_FULL",
+  "displayName": "CWA_LIS_STR_BATHS_FULL",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003940,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

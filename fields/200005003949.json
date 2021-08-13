@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWACarport1ExistsFlag field",
+  "systemName": "CWACarport1ExistsFlag_EXISTS_FLAG",
+  "displayName": "CWA_ROOM_SUB_ROOM_TYPES_CARPORT_1_EXISTS_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003949,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

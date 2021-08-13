@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAComingSoonEligibilityDays field",
+  "systemName": "CWAComingSoonEligibilityDays_QSL_C_SOON_ELIGIBILITY_DAYS",
+  "displayName": "CWA_LIS_QSL_C_SOON_ELIGIBILITY_DAYS",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003778,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

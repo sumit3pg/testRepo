@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXClearSpanCeilingHeight field",
+  "systemName": "MIREXClearSpanCeilingHeight_CommercialCeilingHeight",
+  "displayName": "MIREXClearSpanCeilingHeight",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875144,
+  "availableFlag": 1,
+  "dataTypeId": 550016711236,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000001740,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

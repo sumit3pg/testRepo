@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTCompanyRemarks field",
+  "systemName": "BRIGHTCompanyRemarks_PrivateOfficeRemarks",
+  "displayName": "BRIGHTCompanyRemarks",
+  "shortName": null,
+  "standardName": "PrivateOfficeRemarks",
+  "id": 200017267746,
+  "availableFlag": 1,
+  "dataTypeId": 200016508164,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

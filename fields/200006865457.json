@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a RealEstateOwnedYN field",
+  "systemName": "RealEstateOwnedYN_QSFLG_REAL_ESTATE_OWNED_Y_N",
+  "displayName": "LIS_LIS_QSFLG_REAL_ESTATE_OWNED_",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006865457,
+  "availableFlag": 1,
+  "dataTypeId": 50000898062,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAOtherStructuralFeatures field",
+  "systemName": "CWAOtherStructuralFeatures_QMO_OTHER_STRUCT_FEATURES",
+  "displayName": "CWA_LIS_QMO_OTHER_STRUCT_FEATURES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005101639,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50040670916,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

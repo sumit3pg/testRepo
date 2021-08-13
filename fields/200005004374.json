@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUtilities field",
+  "systemName": "CWAUtilities_QMO_UTILITIES",
+  "displayName": "CWA_LIS_QMO_UTILITIES",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004374,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50001304064,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

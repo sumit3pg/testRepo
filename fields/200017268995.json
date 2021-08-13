@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTWaterAverageMonthly field",
+  "systemName": "BRIGHTWaterAverageMonthly_WaterAverageMonthly",
+  "displayName": "BRIGHTWaterAverageMonthly",
+  "shortName": null,
+  "standardName": null,
+  "id": 200017268995,
+  "availableFlag": 1,
+  "dataTypeId": 200016508163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

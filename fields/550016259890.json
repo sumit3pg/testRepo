@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWASaleAgentTeamLeadStateLicenseNumber field",
+  "systemName": "CWASaleAgentTeamLeadStateLicenseNumber_QSS_SAG1_TEAM_LD_STATE_LIC_NUM",
+  "displayName": "CWA_LIS_QSS_SAG1_TEAM_LD_STATE_LIC_NUM",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016259890,
+  "availableFlag": 1,
+  "dataTypeId": 200004437396,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAIDXAutomatedValuationDisplayYN field",
+  "systemName": "CWAIDXAutomatedValuationDisplayYN_QSFLG_IDX_AUTO_VAL_DISP_FLAG",
+  "displayName": "CWA_LIS_QSFLG_IDX_AUTO_VAL_DISP_FLAG",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004281,
+  "availableFlag": 1,
+  "dataTypeId": 200004437391,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTAgentExternalSystemID field",
+  "systemName": "BRIGHTAgentExternalSystemID_MemberSourceRecordKey",
+  "displayName": "BRIGHTAgentExternalSystemID",
+  "shortName": null,
+  "standardName": "OriginatingSystemMemberKey",
+  "id": 200017263441,
+  "availableFlag": 1,
+  "dataTypeId": 10000000131,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

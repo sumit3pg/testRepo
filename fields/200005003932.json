@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAUnitFloors field",
+  "systemName": "CWAUnitFloors_QSL_NUMBER_OF_FLOORS_UNIT",
+  "displayName": "CWA_LIS_QSL_NUMBER_OF_FLOORS_UNIT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003932,
+  "availableFlag": 1,
+  "dataTypeId": 200004437392,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

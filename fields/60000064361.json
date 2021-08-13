@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a GreenVerificationProgramType field",
+  "systemName": "GreenVerificationProgramType_PROGRAM_TYPE",
+  "displayName": "LIS_GV_PROGRAM_TYPE",
+  "shortName": null,
+  "standardName": null,
+  "id": 60000064361,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 60000064368,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

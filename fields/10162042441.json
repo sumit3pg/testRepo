@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OtherUnits field",
+  "systemName": "OtherUnits_FC_OTHER_UNITS",
+  "displayName": "OtherUnits",
+  "shortName": null,
+  "standardName": null,
+  "id": 10162042441,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

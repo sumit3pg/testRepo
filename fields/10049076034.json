@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a NRDSMemberID field",
+  "systemName": "NRDSMemberID_PTY_NRDS_IDENTIFIER",
+  "displayName": "NRDSMemberID",
+  "shortName": null,
+  "standardName": "MemberNationalAssociationId",
+  "id": 10049076034,
+  "availableFlag": 1,
+  "dataTypeId": 10000000127,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

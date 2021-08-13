@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a BRIGHTDeptOfHousing3Description field",
+  "systemName": "BRIGHTDeptOfHousing3Description_DeptOfHousingDecal3",
+  "displayName": "BRIGHTDeptOfHousing3Description",
+  "shortName": null,
+  "standardName": "DOH3",
+  "id": 200017265440,
+  "availableFlag": 1,
+  "dataTypeId": 10093077032,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

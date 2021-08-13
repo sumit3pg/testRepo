@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TaxLegalDescription field",
+  "systemName": "TaxLegalDescription_LEGAL_DESCRIPTION",
+  "displayName": "PUB_PUB_LEGAL_DESCRIPTION",
+  "shortName": null,
+  "standardName": "TaxLegalDescription",
+  "id": 10093080271,
+  "availableFlag": 1,
+  "dataTypeId": 10000000128,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

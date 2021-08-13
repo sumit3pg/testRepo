@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit1Baths field",
+  "systemName": "Unit1Baths_BATHS_FULL",
+  "displayName": "LIS_UNIT_SUB_UNIT_TYPES_UNIT_1_B",
+  "shortName": null,
+  "standardName": "UnitType1BathsTotal",
+  "id": 50038766161,
+  "availableFlag": 1,
+  "dataTypeId": 10000000115,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

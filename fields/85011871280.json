@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a ListAgentSalutationDesc field",
+  "systemName": "ListAgentSalutationDesc_QSS_SALUTATION_DESCRIPTION",
+  "displayName": "SYS_LAGPER1_QSS_SALUTATION_DESCR",
+  "shortName": null,
+  "standardName": "ListAgentNamePrefix",
+  "id": 85011871280,
+  "availableFlag": 1,
+  "dataTypeId": 10000070537,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

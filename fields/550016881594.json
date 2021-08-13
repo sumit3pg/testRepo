@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXPropMediaExtSysWriteTime field",
+  "systemName": "MIREXPropMediaExtSysWriteTime_EXT_SYS_WRITE_TIME",
+  "displayName": "MIREXPropMediaExtSysWriteTime",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016881594,
+  "availableFlag": 1,
+  "dataTypeId": 10000000142,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

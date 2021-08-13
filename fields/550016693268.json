@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXOfficeStatus field",
+  "systemName": "WIREXOfficeStatus_OfficeStatus",
+  "displayName": "WIREXOfficeStatus",
+  "shortName": null,
+  "standardName": "OfficeStatus",
+  "id": 550016693268,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 50000917139,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAFederalFloodIns field",
+  "systemName": "CWAFederalFloodIns_QSO_FEDERAL_FLOOD_INS_AVAIL_YN",
+  "displayName": "CWA_LIS_QSO_FEDERAL_FLOOD_INS_AVAIL_YN",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004060,
+  "availableFlag": 1,
+  "dataTypeId": 200004437394,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002875,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

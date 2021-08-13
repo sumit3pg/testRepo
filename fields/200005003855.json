@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALatitude field",
+  "systemName": "CWALatitude_LATITUDE",
+  "displayName": "CWA_ADDR_ADDRESS_TYPES_PROPERTY_LATITUDE",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005003855,
+  "availableFlag": 1,
+  "dataTypeId": 10000000144,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

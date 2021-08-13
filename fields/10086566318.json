@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CoveredParking field",
+  "systemName": "CoveredParking_COVERED_PARKING",
+  "displayName": "CoveredParking",
+  "shortName": null,
+  "standardName": "CoveredParking",
+  "id": 10086566318,
+  "availableFlag": 1,
+  "dataTypeId": 10262164555,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

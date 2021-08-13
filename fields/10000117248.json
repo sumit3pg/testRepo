@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgriculturalTaxDue field",
+  "systemName": "AgriculturalTaxDue_QSO_TAX_YN",
+  "displayName": "LIS_LIS_QSO_TAX_YN",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000117248,
+  "availableFlag": 1,
+  "dataTypeId": 10000081638,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002869,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWAPropMediaPendingFileName field",
+  "systemName": "CWAPropMediaPendingFileName_MED_PENDING_FILE_NAME",
+  "displayName": "CWA_MEDVW_MED_PENDING_FILE_NAME",
+  "shortName": null,
+  "standardName": null,
+  "id": 200006736894,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

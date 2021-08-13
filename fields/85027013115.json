@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a TotalShowings field",
+  "systemName": "TotalShowings_FC_TOTAL_SHOWINGS",
+  "displayName": "LIS_LIS_FC_TOTAL_SHOWINGS",
+  "shortName": null,
+  "standardName": null,
+  "id": 85027013115,
+  "availableFlag": 1,
+  "dataTypeId": 10262164557,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

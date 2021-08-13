@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a CWALoad field",
+  "systemName": "CWALoad_QMO_LOAD",
+  "displayName": "CWA_LIS_QMO_LOAD",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005004406,
+  "availableFlag": 1,
+  "dataTypeId": 200004437386,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000002265,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

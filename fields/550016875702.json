@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a MIREXFullBath10Level field",
+  "systemName": "MIREXFullBath10Level_FullBath10Level",
+  "displayName": "MIREXFullBath10Level",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016875702,
+  "availableFlag": 1,
+  "dataTypeId": 10000000161,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": 10000000738,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

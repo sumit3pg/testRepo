@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AltAgentVoiceMailExtNum field",
+  "systemName": "AltAgentVoiceMailExtNum_CM_PHONE_EXTENSION_NUM",
+  "displayName": "SYS_LAGPCPVW2_PHONE_TYPES_VOC_ML",
+  "shortName": null,
+  "standardName": "CoListAgentVoiceMailExt",
+  "id": 85049687963,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

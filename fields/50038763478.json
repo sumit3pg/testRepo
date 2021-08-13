@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a Unit7Bedroom3Length field",
+  "systemName": "Unit7Bedroom3Length_LENGTH",
+  "displayName": "LIS_ROOM_SUB_ROOM_TYPES_UNIT_7_B",
+  "shortName": null,
+  "standardName": null,
+  "id": 50038763478,
+  "availableFlag": 1,
+  "dataTypeId": 10000000163,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

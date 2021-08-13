@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WellSepticCertificationDate field",
+  "systemName": "WellSepticCertificationDate_QSDT_WELL_SEPTIC_CERT_DATE",
+  "displayName": "LIS_LIS_QSDT_WELL_SEPTIC_CERT_DA",
+  "shortName": null,
+  "standardName": null,
+  "id": 50062820030,
+  "availableFlag": 1,
+  "dataTypeId": 50000898056,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

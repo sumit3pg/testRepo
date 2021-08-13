@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentSourceInput field",
+  "systemName": "AgentSourceInput_QSO_SOURCE_INPUT",
+  "displayName": "SYS_PER_QSO_SOURCE_INPUT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200004228596,
+  "availableFlag": 1,
+  "dataTypeId": 10000070536,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": 200004228478,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

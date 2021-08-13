@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a AgentBoxNumber field",
+  "systemName": "AgentBoxNumber_ADDR_BOX_NUMBER",
+  "displayName": "SYS_PCAVW_ADDRESS_TYPES_HOME_1_A",
+  "shortName": null,
+  "standardName": null,
+  "id": 10000072400,
+  "availableFlag": 1,
+  "dataTypeId": 10000000117,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

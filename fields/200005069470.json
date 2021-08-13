@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a UpperFloorsTotalHalfBaths field",
+  "systemName": "UpperFloorsTotalHalfBaths_QSL_UPPER_TOTAL_HALF_BATHS",
+  "displayName": "LIS_LIS_QSL_UPPER_TOTAL_HALF_BAT",
+  "shortName": null,
+  "standardName": null,
+  "id": 200005069470,
+  "availableFlag": 1,
+  "dataTypeId": 10000081636,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

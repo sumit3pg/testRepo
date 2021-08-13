@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a OfficeEmail field",
+  "systemName": "OfficeEmail_CM_STRING_TEXT",
+  "displayName": "SYS_OCSVW_CONTACT_TYPES_EMAIL_1_",
+  "shortName": null,
+  "standardName": "OfficeEmail",
+  "id": 10000074010,
+  "availableFlag": 1,
+  "dataTypeId": 50000587489,
+  "visibleFlag": true,
+  "nullableFlag": true,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}

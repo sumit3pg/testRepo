@@ -1,0 +1,19 @@
+{
+  "configType": "FIELD",
+  "description": "Represent a WIREXSysPrCurrent field",
+  "systemName": "WIREXSysPrCurrent_CURRENT_FLAG",
+  "displayName": "WIREXSysPrCurrent",
+  "shortName": null,
+  "standardName": null,
+  "id": 550016693512,
+  "availableFlag": 1,
+  "dataTypeId": 10000000136,
+  "visibleFlag": true,
+  "nullableFlag": false,
+  "pickListId": null,
+  "displayOrder": null,
+  "updatableFlag": true,
+  "enterableFlag": true,
+  "copyOnCloneFlag": true,
+  "isDeprecated": false
+}
