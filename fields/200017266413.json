@@ -7,7 +7,7 @@
   "standardName": "ListAgentFullName",
   "id": 200017266413,
   "availableFlag": 1,
-  "dataTypeId": 50041935181,
+  "dataTypeId": 10000000130,
   "visibleFlag": true,
   "nullableFlag": false,
   "pickListId": null,
