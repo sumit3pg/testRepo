@@ -7,7 +7,7 @@
   "standardName": "BuyerAgentLastName",
   "id": 200017264639,
   "availableFlag": 1,
-  "dataTypeId": 10094160270,
+  "dataTypeId": 10000000131,
   "visibleFlag": true,
   "nullableFlag": true,
   "pickListId": null,
