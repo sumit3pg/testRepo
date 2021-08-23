@@ -7,7 +7,7 @@
   "standardName": "SyndicationRemarks",
   "id": 200017268377,
   "availableFlag": 1,
-  "dataTypeId": 200016508164,
+  "dataTypeId": 10000000128,
   "visibleFlag": true,
   "nullableFlag": true,
   "pickListId": null,

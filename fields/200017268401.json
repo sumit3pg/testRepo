@@ -7,7 +7,7 @@
   "standardName": "TaxBlock",
   "id": 200017268401,
   "availableFlag": 1,
-  "dataTypeId": 205010451288,
+  "dataTypeId": 10000000117,
   "visibleFlag": true,
   "nullableFlag": true,
   "pickListId": null,

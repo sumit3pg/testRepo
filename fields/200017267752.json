@@ -7,7 +7,7 @@
   "standardName": "PrivateRemarks",
   "id": 200017267752,
   "availableFlag": 1,
-  "dataTypeId": 200016508164,
+  "dataTypeId": 10000000128,
   "visibleFlag": true,
   "nullableFlag": true,
   "pickListId": null,
