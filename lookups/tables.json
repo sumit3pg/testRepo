@@ -2262,6 +2262,30 @@
     },
     {
       "OWNER": "LMS_AWS",
+      "TABLE_NAME": "T_LOC"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "TEMP_LOCALES"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "TEMP_LOV_CG_ID"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "TEMP_FIELDS"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "TEMP_RULES"
+    },
+    {
+      "OWNER": "LMS_AWS",
+      "TABLE_NAME": "TEMP_RULES_ARGUMENTS"
+    },
+    {
+      "OWNER": "LMS_AWS",
       "TABLE_NAME": "T_RULES"
     },
     {
@@ -2343,10 +2367,6 @@
     {
       "OWNER": "SYS",
       "TABLE_NAME": "KU$_SHARD_DOMIDX_NAMEMAP"
-    },
-    {
-      "OWNER": "LMS_AWS",
-      "TABLE_NAME": "T_LOC"
     },
     {
       "OWNER": "LMS_AWS",
